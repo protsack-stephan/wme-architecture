@@ -3,11 +3,17 @@
   "identifier": 736,
   "date_modified": "2021-07-06T08:17:44Z",
   "url": "https://en.wikipedia.org/wiki/Albert_Einstein",
+  "version": {
+    "_source": "/versions/enwiki/1032242877.json"
+  },
   "namespace": {
     "_source": "/namespaces/en_0.json"
   },
   "in_language": {
     "_source": "/languages/en.json"
+  },
+  "is_part_of": {
+    "_source": "/projects/enwiki.json"
   },
   "main_entity": {
     "_source": "/entities/Q937.json"
@@ -48,6 +54,38 @@
       }
     }
   ],
+  "templates": [
+    {
+      "name": "Albert Einstein",
+      "url": "https://en.wikipedia.org/wiki/Albert_Einstein",
+      "namespace": {
+        "_source": "/namespaces/en_0.json"
+      }
+    },
+    {
+      "name": "Template:1921 Nobel Prize winners",
+      "url": "https://en.wikipedia.org/wiki/Template:1921_Nobel_Prize_winners",
+      "namespace": {
+        "_source": "/namespaces/en_10.json"
+      }
+    }
+  ],
+  "redirects": [
+    {
+      "name": "Einstein",
+      "url": "https://en.wikipedia.org/wiki/Einstein",
+      "namespace": {
+        "_source": "/namespaces/en_0.json"
+      }
+    },
+    {
+      "name": "Albert Eienstein",
+      "url": "https://en.wikipedia.org/wiki/Albert_Eienstein",
+      "namespace": {
+        "_source": "/namespaces/en_0.json"
+      }
+    }
+  ],
   "protection": [
     {
       "type": "edit",
@@ -58,6 +96,15 @@
       "type": "move",
       "level": "sysop",
       "expiry": "infinity"
+    }
+  ],
+  "article_body": {
+    "html": "...html goes here...",
+    "wikitext": "...wikitext goes here..."
+  },
+  "license": [
+    {
+      "_source": "/licenses/CC-BY-SA-3.0.json"
     }
   ]
 }
