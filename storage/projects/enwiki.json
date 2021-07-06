@@ -1,0 +1,8 @@
+{
+  "name": "Wikipedia",
+  "identifier": "enwiki",
+  "url": "https://en.wikipedia.org",
+  "in_language": {
+    "_source": "/languages/en.json"
+  }
+}

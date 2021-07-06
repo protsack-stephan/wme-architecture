@@ -1,0 +1,63 @@
+{
+  "name": "Albert Einstein",
+  "identifier": 736,
+  "date_modified": "2021-07-06T08:17:44Z",
+  "url": "https://en.wikipedia.org/wiki/Albert_Einstein",
+  "namespace": {
+    "_source": "/namespaces/en_0.json"
+  },
+  "in_language": {
+    "_source": "/languages/en.json"
+  },
+  "main_entity": {
+    "_source": "/entities/Q937.json"
+  },
+  "additional_entities": [
+    {
+      "_source": "/entities/Q937.json",
+      "aspects": [
+        "L.en"
+      ]
+    },
+    {
+      "_source": "/entities/P570.json",
+      "aspects": [
+        "L.en"
+      ]
+    },
+    {
+      "_source": "/entities/Q206855.json",
+      "aspects": [
+        "L.en"
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "name": "Category:1879 births",
+      "url": "https://en.wikipedia.org/wiki/Category:1879_births",
+      "namespace": {
+        "_source": "/namespaces/en_14.json"
+      }
+    },
+    {
+      "name": "Category:1955 deaths",
+      "url": "https://en.wikipedia.org/wiki/Category:1955_deaths",
+      "namespace": {
+        "_source": "/namespaces/en_14.json"
+      }
+    }
+  ],
+  "protection": [
+    {
+      "type": "edit",
+      "level": "autoconfirmed",
+      "expiry": "infinity"
+    },
+    {
+      "type": "move",
+      "level": "sysop",
+      "expiry": "infinity"
+    }
+  ]
+}

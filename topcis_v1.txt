@@ -1,0 +1,17 @@
+// Projects
+aws.projects.v1
+
+// Language
+aws.languages.v1
+
+// Namespace
+aws.namespaces.v1
+
+// Pages
+aws.pages.v1
+
+// Versions
+aws.versions.v1
+
+// Entities (Wikidata)
+aws.entities.v1

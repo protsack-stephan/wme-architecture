@@ -1,0 +1,7 @@
+{
+  "identifier": 0,
+  "name": "Article",
+  "in_language": {
+    "_source": "/languages/en.json"
+  }
+}
