@@ -1,0 +1,38 @@
+{
+  "identifier": 31878164,
+  "comment": "/* Джерела і література */",
+  "tags": [
+    "mw-...",
+    "another-tag"
+  ],
+  "is_minor_edit": false,
+  "is_flagged_stable": false,
+  "scores": {
+    "damaging": {
+      "prediction": false,
+      "probability": {
+        "false": 0.959002615965355,
+        "true": 0.040997384034645014
+      }
+    },
+    "goodfaith": {
+      "prediction": true,
+      "probability": {
+        "false": 0.01258411739167109,
+        "true": 0.9874158826083289
+      }
+    }
+  },
+  "editor": {
+    "name": "Ivasykus",
+    "edit_count": 0,
+    "groups": [],
+    "is_bot": true,
+    "is_anonymous": false,
+    "date_started": "2021-05-25T12:08:03Z"
+  },
+  "diff_size": {
+    "value": 125,
+    "unit_text": "B"
+  }
+}

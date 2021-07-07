@@ -7,7 +7,7 @@
     "_source": "/versions/enwiki/1032242877.json"
   },
   "namespace": {
-    "_source": "/namespaces/en_0.json"
+    "_source": "/namespaces/en/0.json"
   },
   "in_language": {
     "_source": "/languages/en.json"
@@ -43,14 +43,14 @@
       "name": "Category:1879 births",
       "url": "https://en.wikipedia.org/wiki/Category:1879_births",
       "namespace": {
-        "_source": "/namespaces/en_14.json"
+        "_source": "/namespaces/en/14.json"
       }
     },
     {
       "name": "Category:1955 deaths",
       "url": "https://en.wikipedia.org/wiki/Category:1955_deaths",
       "namespace": {
-        "_source": "/namespaces/en_14.json"
+        "_source": "/namespaces/en/14.json"
       }
     }
   ],
@@ -59,14 +59,14 @@
       "name": "Albert Einstein",
       "url": "https://en.wikipedia.org/wiki/Albert_Einstein",
       "namespace": {
-        "_source": "/namespaces/en_0.json"
+        "_source": "/namespaces/en/0.json"
       }
     },
     {
       "name": "Template:1921 Nobel Prize winners",
       "url": "https://en.wikipedia.org/wiki/Template:1921_Nobel_Prize_winners",
       "namespace": {
-        "_source": "/namespaces/en_10.json"
+        "_source": "/namespaces/en/10.json"
       }
     }
   ],
@@ -75,14 +75,14 @@
       "name": "Einstein",
       "url": "https://en.wikipedia.org/wiki/Einstein",
       "namespace": {
-        "_source": "/namespaces/en_0.json"
+        "_source": "/namespaces/en/0.json"
       }
     },
     {
       "name": "Albert Eienstein",
       "url": "https://en.wikipedia.org/wiki/Albert_Eienstein",
       "namespace": {
-        "_source": "/namespaces/en_0.json"
+        "_source": "/namespaces/en/0.json"
       }
     }
   ],

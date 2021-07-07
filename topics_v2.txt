@@ -28,3 +28,9 @@ aws.version-delete.v1
 aws.entity-create.v1
 aws.entity-update.v1
 aws.entity-delete.v1
+
+
+// Licenses
+aws.license-create.v1
+aws.license-update.v1
+aws.license-delete.v1

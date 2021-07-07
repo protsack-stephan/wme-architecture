@@ -1,0 +1,21 @@
+{
+  ...,
+  "article_body": [
+    {
+      "text": "...html goes here...",
+      "encoding_format": "text/html"
+    },
+    {
+      "text": "...wikitext goes here...",
+      "encoding_format": "text/x-wiki"
+    }
+  ],
+  ...,
+}
+
+OR
+
+{
+  "html": "...html goes here...",
+  "wikitext": "...wikitext goes here..."
+}

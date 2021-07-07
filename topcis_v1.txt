@@ -15,3 +15,6 @@ aws.versions.v1
 
 // Entities (Wikidata)
 aws.entities.v1
+
+// Licenses
+aws.licenses.v1

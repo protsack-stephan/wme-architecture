@@ -1,0 +1,113 @@
+{
+  "identifier": 28990,
+  "name": "Альберт Ейнштейн",
+  "date_modified": "2021-07-05T21:57:53Z",
+  "url": "https://uk.wikipedia.org/wiki/%D0%90%D0%BB%D1%8C%D0%B1%D0%B5%D1%80%D1%82_%D0%95%D0%B9%D0%BD%D1%88%D1%82%D0%B5%D0%B9%D0%BD",
+  "version": {
+    "_source": "/versions/31878164.json"
+  },
+  "namespace": {
+    "_source": "/namespaces/uk/0.json"
+  },
+  "in_language": {
+    "_source": "/languages/uk.json"
+  },
+  "is_part_of": {
+    "_source": "/projects/ukwiki.json"
+  },
+  "main_entity": {
+    "_source": "/entities/Q937.json"
+  },
+  "additional_entities": [
+    {
+      "_source": "/entities/Q103204.json",
+      "aspects": [
+        "L.uk"
+      ]
+    },
+    {
+      "_source": "/entities/Q1048694.json",
+      "aspects": [
+        "T"
+      ]
+    },
+    {
+      "_source": "/entities/Q105584.json",
+      "aspects": [
+        "L.uk"
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "name": "Категорія:Єврейські агностики",
+      "url": "https://en.wikipedia.org/wiki/Категорія:Єврейські_агностики",
+      "namespace": {
+        "_source": "/namespaces/uk/14.json"
+      }
+    },
+    {
+      "name": "Категорія:Альберт Ейнштейн",
+      "url": "https://en.wikipedia.org/wiki/Категорія:Альберт_Ейнштейн",
+      "namespace": {
+        "_source": "/namespaces/uk/14.json"
+      }
+    },
+    {
+      "name": "Категорія:Американські_агностики",
+      "url": "https://en.wikipedia.org/wiki/Категорія:Американські_агностики",
+      "namespace": {
+        "_source": "/namespaces/uk/14.json"
+      }
+    }
+  ],
+  "templates": [
+    {
+      "name": "Шаблон:!((",
+      "url": "https://en.wikipedia.org/wiki/Шаблон:!((",
+      "namespace": {
+        "_source": "/namespaces/uk/10.json"
+      }
+    },
+    {
+      "name": "Шаблон:*",
+      "url": "https://en.wikipedia.org/wiki/Шаблон:*",
+      "namespace": {
+        "_source": "/namespaces/uk/10.json"
+      }
+    },
+    {
+      "name": "Шаблон:-.",
+      "url": "https://en.wikipedia.org/wiki/Шаблон:-.",
+      "namespace": {
+        "_source": "/namespaces/uk/10.json"
+      }
+    }
+  ],
+  "redirects": [
+    {
+      "name": "Айнштайн Альберт",
+      "url": "https://en.wikipedia.org/wiki/Айнштайн_Альберт",
+      "namespace": {
+        "_source": "/namespaces/uk/0.json"
+      }
+    },
+    {
+      "name": "Ейнштейн Альберт",
+      "url": "https://en.wikipedia.org/wiki/Ейнштейн_Альберт",
+      "namespace": {
+        "_source": "/namespaces/uk/0.json"
+      }
+    }
+  ],
+  "protection": [],
+  "article_body": {
+    "html": "...html goes here...",
+    "wikitext": "...wikitext goes here..."
+  },
+  "license": [
+    {
+      "_source": "/licenses/CC-BY-SA-3.0.json"
+    }
+  ]
+}
