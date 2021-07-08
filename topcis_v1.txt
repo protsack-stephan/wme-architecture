@@ -1,26 +1,26 @@
 // Projects
-aws.projects.v1
+aws.projects.v1 -> compacted
 
 // Language
-aws.languages.v1
+aws.languages.v1 -> compacted
 
 // Namespace
-aws.namespaces.v1
+aws.namespaces.v1 -> compacted
 
 // Pages
-aws.pages.v1
+aws.pages.v1 -> compacted,delete
 
 // Versions
-aws.versions.v1
+aws.versions.v1 -> compacted,delete
 
 // Entities (Wikidata)
-aws.entities.v1
+aws.entities.v1 -> compacted,delete
 
 // Licenses
-aws.licenses.v1
+aws.licenses.v1 -> compacted
 
 // Exports
-aws.exports.v1
+aws.exports.v1 -> compacted
 
 // Diffs
-aws.diffs.v1
+aws.diffs.v1 -> compacted,delete
