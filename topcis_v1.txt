@@ -18,3 +18,9 @@ aws.entities.v1
 
 // Licenses
 aws.licenses.v1
+
+// Exports
+aws.exports.v1
+
+// Diffs
+aws.diffs.v1

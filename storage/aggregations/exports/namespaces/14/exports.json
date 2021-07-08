@@ -1,0 +1,40 @@
+[
+  {
+    "name": "Wikipedia",
+    "identifier": "enwiki",
+    "url": "https://en.wikipedia.org",
+    "date_created": "2021-07-06T08:17:44Z",
+    "version": "072328a8d11be67279ade5d6288fc17f",
+    "in_language": {
+      "identifier": "uk",
+      "name": "Українська"
+    },
+    "namespace": {
+      "identifier": 14,
+      "name": "Категорія"
+    },
+    "size": {
+      "value": 8000,
+      "unit_text": "MB"
+    }
+  },
+  {
+    "name": "Вікіпедія",
+    "identifier": "ukwiki",
+    "url": "https://uk.wikipedia.org",
+    "date_created": "2021-07-06T08:17:44Z",
+    "version": "fbc59c4970390f97cedf9cbed117a62d",
+    "in_language": {
+      "identifier": "en",
+      "name": "English"
+    },
+    "namespace": {
+      "identifier": 14,
+      "name": "Category"
+    },
+    "size": {
+      "value": 1000,
+      "unit_text": "MB"
+    }
+  }
+]

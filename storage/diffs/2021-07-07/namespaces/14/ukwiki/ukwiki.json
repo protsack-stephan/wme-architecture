@@ -1,0 +1,17 @@
+{
+  "name": "Вікіпедія",
+  "identifier": "ukwiki",
+  "url": "https://uk.wikipedia.org",
+  "date_created": "2021-07-06T08:17:44Z",
+  "version": "fbc59c4970390f97cedf9cbed117a62d",
+  "in_language": {
+    "_source": "/languages/uk.json"
+  },
+  "namespace": {
+    "_source": "/namespaces/en/0.json"
+  },
+  "size": {
+    "value": 50,
+    "unit_text": "MB"
+  }
+}

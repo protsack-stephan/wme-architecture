@@ -34,3 +34,13 @@ aws.entity-delete.v1
 aws.license-create.v1
 aws.license-update.v1
 aws.license-delete.v1
+
+// Export
+aws.export-create.v1
+aws.export-update.v1
+aws.export-delete.v1
+
+// Diff
+aws.diff-create.v1
+aws.diff-update.v1
+aws.diff-delete.v1

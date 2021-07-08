@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Вікіпедія",
+    "identifier": "ukwiki",
+    "url": "https://uk.wikipedia.org",
+    "in_language": {
+      "identifier": "uk",
+      "name": "Українська"
+    }
+  },
+  {
+    "name": "Вікіпедія",
+    "identifier": "ukwiki",
+    "url": "https://uk.wikipedia.org",
+    "in_language": {
+      "identifier": "en",
+      "name": "English"
+    }
+  }
+]

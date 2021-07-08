@@ -10,7 +10,7 @@
       "encoding_format": "text/x-wiki"
     }
   ],
-  ...,
+  ...
 }
 
 OR

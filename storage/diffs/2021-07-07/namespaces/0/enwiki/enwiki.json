@@ -1,0 +1,17 @@
+{
+  "name": "Wikipedia",
+  "identifier": "enwiki",
+  "url": "https://en.wikipedia.org",
+  "date_created": "2021-07-07T08:17:44Z",
+  "version": "072328a8d11be67279ade5d6288fc17f",
+  "in_language": {
+    "_source": "/languages/en.json"
+  },
+  "namespace": {
+    "_source": "/namespaces/en/0.json"
+  },
+  "size": {
+    "value": 150,
+    "unit_text": "MB"
+  }
+}
