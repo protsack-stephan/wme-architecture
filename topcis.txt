@@ -23,4 +23,4 @@ aws.licenses.v1 -> compacted
 aws.exports.v1 -> compacted
 
 // Diffs
-aws.diffs.v1 -> compacted,delete
+aws.diffs.v1 -> compacted,delete | retention time 7 days
