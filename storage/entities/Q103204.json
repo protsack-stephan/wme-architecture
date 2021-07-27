@@ -1,5 +1,3025 @@
 {
-  "identifier": "Q103204",
   "name": "Flickr",
-  "url": "https://www.wikidata.org/entity/Q103204"
+  "identifier": "Q103204",
+  "url": "https://www.wikidata.org/entity/Q103204",
+  "date_modified": "2021-07-25T09:05:10Z",
+  "type": "item",
+  "labels": {
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "Flickr"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "Flickr"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "Flickr"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "Flickr"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "Flickr"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "Flickr"
+    },
+    "jv": {
+      "language": "jv",
+      "value": "Flickr"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Flickr"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Flickr"
+    },
+    "es": {
+      "language": "es",
+      "value": "Flickr"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "ஃபிளிக்கர்"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Flickr"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Flickr"
+    },
+    "el": {
+      "language": "el",
+      "value": "Flickr"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Flickr"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Flickr"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "فليكر"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Flickr"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Flickr"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Flickr"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Flickr"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "فلیکر"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Flickr"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Flickr"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Flickr"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Flickr"
+    },
+    "az": {
+      "language": "az",
+      "value": "Flickr"
+    },
+    "da": {
+      "language": "da",
+      "value": "Flickr"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Flickr"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "플리커"
+    },
+    "he": {
+      "language": "he",
+      "value": "פליקר"
+    },
+    "bar": {
+      "language": "bar",
+      "value": "Flickr"
+    },
+    "it": {
+      "language": "it",
+      "value": "Flickr"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Flickr"
+    },
+    "id": {
+      "language": "id",
+      "value": "Flickr"
+    },
+    "de": {
+      "language": "de",
+      "value": "Flickr"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "ഫ്ലിക്കർ"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "Flickr"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Flickr"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "Flickr"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "फ़्लिकर"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "Flickr"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Flickr"
+    },
+    "kn": {
+      "language": "kn",
+      "value": "ಫ್ಲಿಕರ್"
+    },
+    "th": {
+      "language": "th",
+      "value": "ฟลิคเกอร์"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Flickr"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Flickr"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Flickr"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Flickr"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Flickr"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "فلیکر"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "Flickr"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Flickr"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Flickr"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "Flickr"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Фликр"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Flickr"
+    },
+    "tk": {
+      "language": "tk",
+      "value": "Flickr"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Flickr"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "ফ্লিকার"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "Flickr"
+    },
+    "be": {
+      "language": "be",
+      "value": "Flickr"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Flickr"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Flickr"
+    },
+    "et": {
+      "language": "et",
+      "value": "Flickr"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Flickr"
+    },
+    "bho": {
+      "language": "bho",
+      "value": "फ्लिकर"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Flickr"
+    },
+    "en": {
+      "language": "en",
+      "value": "Flickr"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Flickr"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Flickr"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Flickr"
+    },
+    "cdo": {
+      "language": "cdo",
+      "value": "Flickr"
+    },
+    "hak": {
+      "language": "hak",
+      "value": "Flickr"
+    },
+    "zh-my": {
+      "language": "zh-my",
+      "value": "Flickr"
+    },
+    "zh-mo": {
+      "language": "zh-mo",
+      "value": "Flickr"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Flickr"
+    }
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "image and video hosting website"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "site web"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "situ pi pubblicari e cunnivìdiri fotu"
+    },
+    "de": {
+      "language": "de",
+      "value": "Bilder- und Video-Hosting-Website"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "website"
+    },
+    "es": {
+      "language": "es",
+      "value": "página web de almacenamiento de imágenes y vídeos"
+    },
+    "id": {
+      "language": "id",
+      "value": "layanan media sosial"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "komunitná webová lokalita pre zdieľanie fotografií a videa"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Dịch vụ web chia sẻ hình ảnh"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "یکی از سایت‌های اشتراک‌گذاری تصویر و ویدئو"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "serwis internetowy"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "хостинг фото- и видеофайлов"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "圖片託管和視頻託管網站"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "хостинг фото- і відеофайлів"
+    },
+    "bar": {
+      "language": "bar",
+      "value": "Netzportal zum Speichan vo Fotos und Videos"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "写真・動画の共有サイト"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "خدمةٌ ومجتمعٌ على الإنترنت لاستضافة الصور ومقاطع الفيديو"
+    }
+  },
+  "aliases": {
+    "es": [
+      {
+        "language": "es",
+        "value": "Flickr.com"
+      },
+      {
+        "language": "es",
+        "value": "Fickr"
+      },
+      {
+        "language": "es",
+        "value": "Flickr com"
+      }
+    ],
+    "ta": [
+      {
+        "language": "ta",
+        "value": "ஃபிலிக்கர்"
+      }
+    ],
+    "nl": [
+      {
+        "language": "nl",
+        "value": "Flickr.com"
+      }
+    ],
+    "ar": [
+      {
+        "language": "ar",
+        "value": "Flickr.com"
+      },
+      {
+        "language": "ar",
+        "value": "فلكر"
+      }
+    ],
+    "ru": [
+      {
+        "language": "ru",
+        "value": "Flickr.com"
+      },
+      {
+        "language": "ru",
+        "value": "Фликр"
+      }
+    ],
+    "sr": [
+      {
+        "language": "sr",
+        "value": "Fliker"
+      }
+    ],
+    "uk": [
+      {
+        "language": "uk",
+        "value": "Український Флікер"
+      },
+      {
+        "language": "uk",
+        "value": "Флікер"
+      },
+      {
+        "language": "uk",
+        "value": "Флікр"
+      }
+    ],
+    "fr": [
+      {
+        "language": "fr",
+        "value": "Flickr.com"
+      },
+      {
+        "language": "fr",
+        "value": "Fickr"
+      }
+    ],
+    "ko": [
+      {
+        "language": "ko",
+        "value": "플릭커"
+      },
+      {
+        "language": "ko",
+        "value": "Flickr"
+      }
+    ],
+    "he": [
+      {
+        "language": "he",
+        "value": "Flickr.com"
+      },
+      {
+        "language": "he",
+        "value": "Flickr"
+      }
+    ],
+    "ml": [
+      {
+        "language": "ml",
+        "value": "Flickr"
+      }
+    ],
+    "th": [
+      {
+        "language": "th",
+        "value": "ฟลิคร์"
+      },
+      {
+        "language": "th",
+        "value": "ฟลิก"
+      },
+      {
+        "language": "th",
+        "value": "Flickr"
+      },
+      {
+        "language": "th",
+        "value": "ฟลิค"
+      },
+      {
+        "language": "th",
+        "value": "ฟลิคอาร์"
+      },
+      {
+        "language": "th",
+        "value": "ฟลิกเกอร์"
+      }
+    ],
+    "ka": [
+      {
+        "language": "ka",
+        "value": "ფლიკრი"
+      },
+      {
+        "language": "ka",
+        "value": "ფლიკერი"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "flickr"
+      },
+      {
+        "language": "en",
+        "value": "flickr.com"
+      }
+    ],
+    "it": [
+      {
+        "language": "it",
+        "value": "Flickr com"
+      },
+      {
+        "language": "it",
+        "value": "Flickr.com"
+      }
+    ],
+    "ja": [
+      {
+        "language": "ja",
+        "value": "フリッカー"
+      }
+    ]
+  },
+  "claims": {
+    "P154": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P154",
+          "hash": "cd3182c9fc0376709b9ac4b28346320d99741013",
+          "datavalue": {
+            "value": "Flickr wordmark.svg",
+            "type": "string"
+          },
+          "datatype": "commonsMedia"
+        },
+        "type": "statement",
+        "id": "q103204$AA8CFF4F-0327-4ACC-865E-72339CF65D78",
+        "rank": "normal"
+      }
+    ],
+    "P31": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "dab663e08bc41512eaa01ce7db9918ff8ee1288c",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 3220391,
+              "id": "Q3220391"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q103204$76bead49-4166-e9a9-7e7e-5e3a964ab179",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "4fefdba464b8a09dd5486d5b10ef12d93ab09f5c",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 2721136,
+              "id": "Q2721136"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q103204$e1931a3d-41c4-b636-fd52-f8f9906ca7f3",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "d119a3ebf8f5b3cd3737c96e6292ab74763c0ec7",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 559856,
+              "id": "Q559856"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q103204$87a8acbc-418a-34c2-65f6-f7a7bda14086",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "0804f8dcd8c4506dc51f915cba3906b7980ea90e",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 6576792,
+              "id": "Q6576792"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q103204$4ef078fc-48ed-e18c-6564-cb71490faa35",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "126ff938db55dd42926135bb78067e61e602ed26",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 354869,
+              "id": "Q354869"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q103204$f8930e85-4fd8-cc91-4de4-81694fd3c51b",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "155f3cbe880bbf586c5078f84ef66ee617cf423b",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "6a164248fc96bfa583bbb495cb63ae6401ec203c",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 206855,
+                      "id": "Q206855"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P4656": [
+                {
+                  "snaktype": "value",
+                  "property": "P4656",
+                  "hash": "8dfc644abbbbf2b8e41bc692b45b007821ea2132",
+                  "datavalue": {
+                    "value": "https://ru.wikipedia.org/?oldid=97352330",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143",
+              "P4656"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "316f3386f39f5bd31487b973e70ff24d2803941e",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 72610003,
+              "id": "Q72610003"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q103204$8281e2fa-490b-32d4-38b2-3623ec6f62a1",
+        "rank": "normal"
+      }
+    ],
+    "P373": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P373",
+          "hash": "6cd4f0b356278f5cfd3a729c2ae83fafa12edea7",
+          "datavalue": {
+            "value": "Flickr",
+            "type": "string"
+          },
+          "datatype": "string"
+        },
+        "type": "statement",
+        "id": "q103204$5C67EC98-3EE5-4B82-BBC9-FD2287F2DA8A",
+        "rank": "normal"
+      }
+    ],
+    "P856": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P856",
+          "hash": "893b1d11a208ed2877810ae08eecdd8971762868",
+          "datavalue": {
+            "value": "https://www.flickr.com",
+            "type": "string"
+          },
+          "datatype": "url"
+        },
+        "type": "statement",
+        "id": "Q103204$5860bd73-4b13-d3f1-439a-44e90e6fc5b1",
+        "rank": "normal"
+      }
+    ],
+    "P646": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P646",
+          "hash": "4dc150185ace2a10b524d3cacc30458b06f9a1a0",
+          "datavalue": {
+            "value": "/m/04dtx9",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q103204$A5CAFEB3-5A68-4D12-90BD-543C296B7F53",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "2b00cb481cddcac7623114367489b5c194901c4a",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "a94b740202b097dd33355e0e6c00e54b9395e5e0",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 15241312,
+                      "id": "Q15241312"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P577": [
+                {
+                  "snaktype": "value",
+                  "property": "P577",
+                  "hash": "fde79ecb015112d2f29229ccc1ec514ed3e71fa2",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2013-10-28T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P577"
+            ]
+          }
+        ]
+      }
+    ],
+    "P749": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P749",
+          "hash": "f6bcffc0c9bef3e2a2230a5bcf11d24bf4a6c934",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 507135,
+              "id": "Q507135"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q103204$E52C3CFD-A1F2-4D95-A86C-4EB690CF34FD",
+        "rank": "normal"
+      }
+    ],
+    "P2013": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2013",
+          "hash": "9f1fcf6cde0763371d5283fde5640383d8fa13ae",
+          "datavalue": {
+            "value": "flickr",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q103204$199769e2-4522-cd75-5cdf-1a587b5d7735",
+        "rank": "normal"
+      }
+    ],
+    "P2002": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2002",
+          "hash": "2e5a7528854589ccc223e314d63a79692ceac84f",
+          "datavalue": {
+            "value": "Flickr",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P3744": [
+            {
+              "snaktype": "value",
+              "property": "P3744",
+              "hash": "bbfb0a1361f36e9b6d91dae8138053e2e5849a2d",
+              "datavalue": {
+                "value": {
+                  "amount": "+1174501",
+                  "unit": "1"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            }
+          ],
+          "P6552": [
+            {
+              "snaktype": "value",
+              "property": "P6552",
+              "hash": "13da2eef3b7b23829bbda67830d11ded1d4475f7",
+              "datavalue": {
+                "value": "21237045",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            }
+          ],
+          "P1552": [
+            {
+              "snaktype": "value",
+              "property": "P1552",
+              "hash": "62f0039d240f7eeba6c6908a0d8807a6188324a1",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 28378282,
+                  "id": "Q28378282"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ],
+          "P580": [
+            {
+              "snaktype": "value",
+              "property": "P580",
+              "hash": "cb8bc449af3cd39b49eb055b99855fdff1170116",
+              "datavalue": {
+                "value": {
+                  "time": "+2009-02-18T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            }
+          ],
+          "P585": [
+            {
+              "snaktype": "value",
+              "property": "P585",
+              "hash": "d23772ed2b8b4c4e31ec158c814140af0379c572",
+              "datavalue": {
+                "value": {
+                  "time": "+2020-04-25T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P3744",
+          "P6552",
+          "P1552",
+          "P580",
+          "P585"
+        ],
+        "id": "Q103204$94eb4ae2-4221-3132-d8dc-64109a89f865",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "830e0d3d65e6b91e769889d7d1177706b5c1e0ca",
+            "snaks": {
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "cd8210fc3215a6112ebad72d11663d1a56b14d67",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2018-05-10T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P1547": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1547",
+          "hash": "bf9b320462c7bd331d6d62b9ffd88078c4feb18c",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 16878131,
+              "id": "Q16878131"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q103204$8f98a0f2-483c-0897-9245-8af78d684e00",
+        "rank": "normal"
+      }
+    ],
+    "P2847": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2847",
+          "hash": "ee9da21c2e1e7c065d4ca777acbaaaf7bc346226",
+          "datavalue": {
+            "value": "+flickr",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q103204$26331FE1-A0BB-44E8-97B4-6DD882C172C7",
+        "rank": "normal"
+      }
+    ],
+    "P443": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P443",
+          "hash": "f15f300f6057f49c207b1554c660ab9a8ad70630",
+          "datavalue": {
+            "value": "Flickr pronunciation.oga",
+            "type": "string"
+          },
+          "datatype": "commonsMedia"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P407": [
+            {
+              "snaktype": "value",
+              "property": "P407",
+              "hash": "daf1c4fcb58181b02dff9cc89deb084004ddae4b",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1860,
+                  "id": "Q1860"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P407"
+        ],
+        "id": "Q103204$6A357843-00A7-45BE-950D-CE1C262CE65E",
+        "rank": "normal"
+      }
+    ],
+    "P1581": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1581",
+          "hash": "8266704f192b45f837ad3c3abe254bd72c2d36b4",
+          "datavalue": {
+            "value": "https://blog.flickr.net",
+            "type": "string"
+          },
+          "datatype": "url"
+        },
+        "type": "statement",
+        "id": "Q103204$8a2c7dc1-4979-9f83-18e7-a0387eb4dbf9",
+        "rank": "normal"
+      }
+    ],
+    "P1687": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1687",
+          "hash": "1e6bbdbcfd57e63695a652c2eec3fd4121831095",
+          "datavalue": {
+            "value": {
+              "entity-type": "property",
+              "numeric-id": 3267,
+              "id": "P3267"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-property"
+        },
+        "type": "statement",
+        "id": "Q103204$c7f6b93f-460b-9cff-50bd-4b26d17b74e6",
+        "rank": "normal"
+      }
+    ],
+    "P3418": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3418",
+          "hash": "6cd83f48b7f04cc1ec83849324c695562e7d18e2",
+          "datavalue": {
+            "value": "com.yahoo.mobile.client.android.flickr",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q103204$68340589-4107-664c-1885-c3a635de087c",
+        "rank": "normal"
+      }
+    ],
+    "P3569": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3569",
+          "hash": "ff7e948b3a2c743349caade41498a3001d207647",
+          "datavalue": {
+            "value": "media/flickr",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q103204$3D08029F-5153-400D-86F0-CAE596B5C94A",
+        "rank": "normal"
+      }
+    ],
+    "P571": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P571",
+          "hash": "398411098de05147fca97b2b1193db483df98305",
+          "datavalue": {
+            "value": {
+              "time": "+2004-02-10T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "type": "time"
+          },
+          "datatype": "time"
+        },
+        "type": "statement",
+        "id": "Q103204$56413876-A776-4D21-87C7-D35E5F4A7512",
+        "rank": "normal"
+      }
+    ],
+    "P3417": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3417",
+          "hash": "514ddb48414302b60fdb74519f248b8a587ebd9d",
+          "datavalue": {
+            "value": "Flickr-product",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q103204$955d5651-4d54-8e60-667b-bb9798126f05",
+        "rank": "normal"
+      }
+    ],
+    "P3943": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3943",
+          "hash": "441cfba7ce00673b60308a29ebc5953f404a1cea",
+          "datavalue": {
+            "value": "flickr",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q103204$134F10C6-5E7E-4498-A7DE-301FB5471968",
+        "rank": "normal"
+      }
+    ],
+    "P178": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P178",
+          "hash": "53efeb6a54ea43c2d855f7b4097eabf6696f30a8",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 37093,
+              "id": "Q37093"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q103204$47E90C2C-4A39-413A-9CA8-B47DF9CA07F5",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 328,
+                      "id": "Q328"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      }
+    ],
+    "P3861": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3861",
+          "hash": "7e2ac981152d5be530b2e18df5a25d0463822770",
+          "datavalue": {
+            "value": "328407587",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q103204$40270332-4afe-24a9-d241-15c9f3b1e95e",
+        "rank": "normal"
+      }
+    ],
+    "P1661": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1661",
+          "hash": "7e7370e70e94d90289f949f441b1fa1628babf0b",
+          "datavalue": {
+            "value": {
+              "amount": "+342",
+              "unit": "1"
+            },
+            "type": "quantity"
+          },
+          "datatype": "quantity"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P585": [
+            {
+              "snaktype": "value",
+              "property": "P585",
+              "hash": "fbd39b1d542bd40509da48c7332e568f58b7035d",
+              "datavalue": {
+                "value": {
+                  "time": "+2017-11-20T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P585"
+        ],
+        "id": "Q103204$AEEC56A8-9265-4352-9B3E-EF91877DDAE6",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "998a97d8ea37175ad7ac6e747b5a62073d18b3af",
+            "snaks": {
+              "P1065": [
+                {
+                  "snaktype": "value",
+                  "property": "P1065",
+                  "hash": "d7c14e75afa30b339371d7ad36e913253d63c850",
+                  "datavalue": {
+                    "value": "https://web.archive.org/web/20171120174748/https://www.alexa.com/siteinfo/flickr.com",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ],
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "99d6a9ac6aabf3d1cc9368bf152f71e206412466",
+                  "datavalue": {
+                    "value": "https://www.alexa.com/siteinfo/flickr.com",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ],
+              "P2960": [
+                {
+                  "snaktype": "value",
+                  "property": "P2960",
+                  "hash": "9f4a541fc067bd7b5e91b26c58dae374809a978f",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2017-11-20T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P1065",
+              "P854",
+              "P2960"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1661",
+          "hash": "767d6a8dd008b5d76d946e5ba96fc4824acc0211",
+          "datavalue": {
+            "value": {
+              "amount": "+421",
+              "unit": "1"
+            },
+            "type": "quantity"
+          },
+          "datatype": "quantity"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P585": [
+            {
+              "snaktype": "value",
+              "property": "P585",
+              "hash": "05c8ed2e5ba2481619129830a6838b6ce6a1f03c",
+              "datavalue": {
+                "value": {
+                  "time": "+2019-08-20T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P585"
+        ],
+        "id": "Q103204$8b327b38-4cf7-bd04-58d7-f42a44a51c71",
+        "rank": "preferred",
+        "references": [
+          {
+            "hash": "0e19625d6a8bb22571200d26b28612ae2fd69303",
+            "snaks": {
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "99d6a9ac6aabf3d1cc9368bf152f71e206412466",
+                  "datavalue": {
+                    "value": "https://www.alexa.com/siteinfo/flickr.com",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "d0dbae43eb6d6c0428c51aee3de8fa5e6bc0c688",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2019-08-20T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P1065": [
+                {
+                  "snaktype": "value",
+                  "property": "P1065",
+                  "hash": "de0112611b1c8e5c9c6258831e2e442b236a1c7e",
+                  "datavalue": {
+                    "value": "https://web.archive.org/web/20190820202945/https://www.alexa.com/siteinfo/flickr.com",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ],
+              "P2960": [
+                {
+                  "snaktype": "value",
+                  "property": "P2960",
+                  "hash": "08ffbd4cc9eb536667d54ed4203ad4b28fa5b478",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2019-08-20T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854",
+              "P813",
+              "P1065",
+              "P2960"
+            ]
+          }
+        ]
+      }
+    ],
+    "P1417": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1417",
+          "hash": "d3554265c4583725cb59104c8a8edaefab15654f",
+          "datavalue": {
+            "value": "topic/Flickrcom",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q103204$FFA3AD9D-509F-4B0E-9160-BD86CAD4E7AB",
+        "rank": "normal"
+      }
+    ],
+    "P112": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P112",
+          "hash": "6374be9224bbece9c49cecff9269bfa5d72a2edc",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1561837,
+              "id": "Q1561837"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q103204$30715c7d-40ce-4683-e678-34586d186d44",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P112",
+          "hash": "bca98194fc48e1ebdf51696c823b723b5fda1ae7",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 37195,
+              "id": "Q37195"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q103204$d88e7aa9-4915-646e-4934-16cecb3fdd93",
+        "rank": "normal"
+      }
+    ],
+    "P159": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P159",
+          "hash": "f277496f6fed5e9a19c40dcbb7737063a99b4e06",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 62,
+              "id": "Q62"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q103204$5c31e610-42f9-e479-ac15-9fb5777eed15",
+        "rank": "normal"
+      }
+    ],
+    "P4354": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P4354",
+          "hash": "be75374998dab130039eb0a37f74c56fe3121bf9",
+          "datavalue": {
+            "value": "https://www.flickr.com/search/?text=$1",
+            "type": "string"
+          },
+          "datatype": "string"
+        },
+        "type": "statement",
+        "id": "Q103204$c804eab8-46c1-acc9-f970-367da44884c0",
+        "rank": "normal"
+      }
+    ],
+    "P407": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P407",
+          "hash": "daf1c4fcb58181b02dff9cc89deb084004ddae4b",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1860,
+              "id": "Q1860"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q103204$7c85454a-4bed-f995-2257-7742fb60cf62",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P407",
+          "hash": "3b33ca235f16338704ecefe35d73712fbf0377a5",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 7850,
+              "id": "Q7850"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q103204$8f9fc573-47e8-c6b5-6679-aede05cd174e",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P407",
+          "hash": "ffe70325d10cfc55f0dca807ed80ca0b5b97c472",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1321,
+              "id": "Q1321"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q103204$f4018d8a-4b57-1994-c7c1-51d540d9a8e7",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P407",
+          "hash": "d197d0a5efa4b4c23a302a829dd3ef43684fe002",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 150,
+              "id": "Q150"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q103204$89c39f21-4d8a-f6dd-f2ef-ebdb1e2b6992",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P407",
+          "hash": "a10335a425d19169dd856e0a5f71735853eab0ab",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 9176,
+              "id": "Q9176"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q103204$07243abb-4d27-fc70-2dc2-70a399ae63d7",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P407",
+          "hash": "2ab2e485ce235a18142330fa1873a5bba7115d23",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 652,
+              "id": "Q652"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q103204$831ec7c0-4215-7e2a-83e1-1c7fb7e57026",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P407",
+          "hash": "d3341820d45f6bb2097e8460656f7cd8fea3cf2a",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 5146,
+              "id": "Q5146"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q103204$2ca1f1da-424e-bc03-b6ba-eabddef1e645",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P407",
+          "hash": "5b6667ae6b8344b2e75c527c1448339d62ae5651",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 9199,
+              "id": "Q9199"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q103204$f11013e8-48a7-7a44-9742-b7d55a566f26",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P407",
+          "hash": "6ee010c7b2795948bd497acfe407f2c0503c0a8b",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 9240,
+              "id": "Q9240"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q103204$9f0a8acf-49e5-86ae-2c9e-176aeec914b6",
+        "rank": "normal"
+      }
+    ],
+    "P1482": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1482",
+          "hash": "b95e83112ebe09b896c4904f7bf1f82e9b40d59e",
+          "datavalue": {
+            "value": "https://stackoverflow.com/tags/flickr",
+            "type": "string"
+          },
+          "datatype": "url"
+        },
+        "type": "statement",
+        "id": "Q103204$ecf5b91f-4c3f-8f29-5538-5c90b88fd3cd",
+        "rank": "normal"
+      }
+    ],
+    "P5084": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P5084",
+          "hash": "4d57571ecff5093307400da123408f4fd63d9c3a",
+          "datavalue": {
+            "value": "2115500147",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q103204$f5f477e5-412b-e1e0-c6ee-e69291c15115",
+        "rank": "normal"
+      }
+    ],
+    "P2179": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2179",
+          "hash": "dee0518ac80ca4ef4c97df20608e6c4b81ff501c",
+          "datavalue": {
+            "value": "10011476",
+            "type": "string"
+          },
+          "datatype": "string"
+        },
+        "type": "statement",
+        "id": "Q103204$F300A95F-AF72-4467-96AB-4699F7C8C941",
+        "rank": "normal"
+      }
+    ],
+    "P4342": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P4342",
+          "hash": "f3800d419ea647af90127713eb8e01869091817e",
+          "datavalue": {
+            "value": "Flickr",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P4390": [
+            {
+              "snaktype": "value",
+              "property": "P4390",
+              "hash": "1a4df62914ea9afca349bd5fb5d8efd5832d83fa",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 39893449,
+                  "id": "Q39893449"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P4390"
+        ],
+        "id": "Q103204$D9DC7509-DCFB-4B06-9D06-E059019E2BB9",
+        "rank": "normal"
+      }
+    ],
+    "P4742": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P4742",
+          "hash": "e6afda756964e2172b8681f7d233e5799882c91c",
+          "datavalue": {
+            "value": "flickr",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q103204$f08d03d6-435f-f920-4df2-60a52571b913",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "57d7cdef401e770ce03a2865d722f83a95b38a00",
+            "snaks": {
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "8d898de3f281bdf750d3656b4a6cbae4ceff0ec7",
+                  "datavalue": {
+                    "value": "https://stackoverflow.com/questions/18576285/open-flickr-from-third-party-ios-app",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ],
+              "P1476": [
+                {
+                  "snaktype": "value",
+                  "property": "P1476",
+                  "hash": "39d594965d6ec36c1abdb42a4665a1c16bb8cedd",
+                  "datavalue": {
+                    "value": {
+                      "text": "hyperlink - Open Flickr From Third Party iOS App - Stack Overflow",
+                      "language": "en"
+                    },
+                    "type": "monolingualtext"
+                  },
+                  "datatype": "monolingualtext"
+                }
+              ],
+              "P577": [
+                {
+                  "snaktype": "value",
+                  "property": "P577",
+                  "hash": "66e2f9b3e59c53a425f027be61187e65339eaa9b",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2013-09-02T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "e948678640f83e6902fd727190bbd6b857df397a",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2018-06-09T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854",
+              "P1476",
+              "P577",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P3267": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3267",
+          "hash": "8508584e157ca357f5de2d60867a3785d0acf93d",
+          "datavalue": {
+            "value": "66956608@N06",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q103204$7579F6D9-648B-4F9A-A8BD-E34854D0BA1B",
+        "rank": "normal"
+      }
+    ],
+    "P6720": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P6720",
+          "hash": "b87a8b60d7d1cd4fcd80789b96796eb21f2800cf",
+          "datavalue": {
+            "value": "flickruser",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1630": [
+            {
+              "snaktype": "value",
+              "property": "P1630",
+              "hash": "292a38a795d80e729cb0aaf4f69215c4d38b8c64",
+              "datavalue": {
+                "value": "//www.flickr.com/people/$1",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ],
+          "P580": [
+            {
+              "snaktype": "value",
+              "property": "P580",
+              "hash": "ce88df05641263db308c0e3a5838ee1975ac4deb",
+              "datavalue": {
+                "value": {
+                  "time": "+2005-10-14T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1630",
+          "P580"
+        ],
+        "id": "Q103204$7a0b2bb0-40a9-57e8-7f3e-5a1058b335af",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P6720",
+          "hash": "b44356d4ac14d0fa2137b3f6a7d904c7003d0959",
+          "datavalue": {
+            "value": "flickrphoto",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1630": [
+            {
+              "snaktype": "value",
+              "property": "P1630",
+              "hash": "9a5fe94cabf87039e49e3f30d629fe35ae4fe325",
+              "datavalue": {
+                "value": "//www.flickr.com/photo.gne?id=$1",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ],
+          "P580": [
+            {
+              "snaktype": "value",
+              "property": "P580",
+              "hash": "523385477a6474998e0068f8a9808e5bf86778da",
+              "datavalue": {
+                "value": {
+                  "time": "+2010-08-09T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1630",
+          "P580"
+        ],
+        "id": "Q103204$e7168348-4d69-a943-27b2-5449965134a0",
+        "rank": "normal"
+      }
+    ],
+    "P1296": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1296",
+          "hash": "26b7e35cb5aa33494fea91e4a85a3a1b995ef269",
+          "datavalue": {
+            "value": "0522771",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q103204$171B9AF6-6D4C-4ED6-97E1-ED2BB3DC6CD2",
+        "rank": "normal"
+      }
+    ],
+    "P7818": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P7818",
+          "hash": "50d3a53d1242fffc36e89067b91b17d3a0b70a27",
+          "datavalue": {
+            "value": "Flickr",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q103204$95250745-7C27-4F29-A532-2256D78AC04E",
+        "rank": "normal"
+      }
+    ],
+    "P7014": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P7014",
+          "hash": "3663e9110c7e966c00e842a8461801f5546afbb2",
+          "datavalue": {
+            "value": "https://www.flickr.com/help/terms",
+            "type": "string"
+          },
+          "datatype": "url"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1476": [
+            {
+              "snaktype": "value",
+              "property": "P1476",
+              "hash": "de15ca8e1532eb6ef37a5bf3a717a42636b1f97e",
+              "datavalue": {
+                "value": {
+                  "text": "Flickr Terms & Conditions of Use",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ],
+          "P407": [
+            {
+              "snaktype": "value",
+              "property": "P407",
+              "hash": "daf1c4fcb58181b02dff9cc89deb084004ddae4b",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1860,
+                  "id": "Q1860"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ],
+          "P5017": [
+            {
+              "snaktype": "value",
+              "property": "P5017",
+              "hash": "0d24f4974bffd1d197eded6938fc150d2444bc26",
+              "datavalue": {
+                "value": {
+                  "time": "+2020-01-01T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            }
+          ],
+          "P1065": [
+            {
+              "snaktype": "value",
+              "property": "P1065",
+              "hash": "65108fe0e2dfa0264f0d7e22f1224354b2e33fd5",
+              "datavalue": {
+                "value": "https://web.archive.org/web/20200314235232/https://www.flickr.com/help/terms",
+                "type": "string"
+              },
+              "datatype": "url"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1476",
+          "P407",
+          "P5017",
+          "P1065"
+        ],
+        "id": "Q103204$ddb9c624-4201-48c7-20ab-588bc8ef21a6",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "355ddd6a17723098f4ff3148954797ae049fab62",
+            "snaks": {
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "4b2cb467de4411f7bb52353ad4b98808f01da323",
+                  "datavalue": {
+                    "value": "https://commons.wikimedia.org/wiki/Special:UploadWizard",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          }
+        ]
+      }
+    ],
+    "P7101": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P7101",
+          "hash": "50d175e2a9dcd9b4c9448c537a878c025b699ce6",
+          "datavalue": {
+            "value": "https://www.flickr.com/help/privacy",
+            "type": "string"
+          },
+          "datatype": "url"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1476": [
+            {
+              "snaktype": "value",
+              "property": "P1476",
+              "hash": "fe91de7570465e72b12d7173198cdf4c52c6a459",
+              "datavalue": {
+                "value": {
+                  "text": "Flickr Privacy Policy",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ],
+          "P407": [
+            {
+              "snaktype": "value",
+              "property": "P407",
+              "hash": "daf1c4fcb58181b02dff9cc89deb084004ddae4b",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1860,
+                  "id": "Q1860"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ],
+          "P5017": [
+            {
+              "snaktype": "value",
+              "property": "P5017",
+              "hash": "dd1f1723941a87f87162d4d369a1440d647a7884",
+              "datavalue": {
+                "value": {
+                  "time": "+2020-01-22T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            }
+          ],
+          "P1065": [
+            {
+              "snaktype": "value",
+              "property": "P1065",
+              "hash": "bb371165933232999ff153bcf499987f8c13f82a",
+              "datavalue": {
+                "value": "https://web.archive.org/web/20200322000935/https://www.flickr.com/help/privacy",
+                "type": "string"
+              },
+              "datatype": "url"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1476",
+          "P407",
+          "P5017",
+          "P1065"
+        ],
+        "id": "Q103204$90fa4f88-433d-0559-6e81-0b261059313e",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "355ddd6a17723098f4ff3148954797ae049fab62",
+            "snaks": {
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "4b2cb467de4411f7bb52353ad4b98808f01da323",
+                  "datavalue": {
+                    "value": "https://commons.wikimedia.org/wiki/Special:UploadWizard",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          }
+        ]
+      }
+    ],
+    "P7306": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P7306",
+          "hash": "6122f7bdc71558a8381569994bca69c83230893d",
+          "datavalue": {
+            "value": "flickr",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q103204$99555B5A-DCB2-467D-B126-D354B6705388",
+        "rank": "normal"
+      }
+    ],
+    "P1282": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1282",
+          "hash": "4580127d0d5544ea7445c4267f854798c7840ea6",
+          "datavalue": {
+            "value": "Key:flickr",
+            "type": "string"
+          },
+          "datatype": "string"
+        },
+        "type": "statement",
+        "id": "Q103204$d4ff7499-4283-d8b3-298b-56c75130f1d6",
+        "rank": "normal"
+      }
+    ],
+    "P8525": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8525",
+          "hash": "c42a1421f2749265128345ba0c7b9fa8837fd817",
+          "datavalue": {
+            "value": "186",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q103204$038934dd-499d-288f-d2b4-d25a1d3e0829",
+        "rank": "normal"
+      }
+    ],
+    "P8687": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8687",
+          "hash": "d1dd5629d85d61515fc7ef3f9495ad443baf82f2",
+          "datavalue": {
+            "value": {
+              "amount": "+1149798",
+              "unit": "1"
+            },
+            "type": "quantity"
+          },
+          "datatype": "quantity"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P6552": [
+            {
+              "snaktype": "value",
+              "property": "P6552",
+              "hash": "13da2eef3b7b23829bbda67830d11ded1d4475f7",
+              "datavalue": {
+                "value": "21237045",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            }
+          ],
+          "P585": [
+            {
+              "snaktype": "value",
+              "property": "P585",
+              "hash": "d72999b5d1b0bb17c6af669714cd3ee35662fc97",
+              "datavalue": {
+                "value": {
+                  "time": "+2021-01-03T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P6552",
+          "P585"
+        ],
+        "id": "Q103204$26faf771-6f12-4565-b35d-038eb6248abf",
+        "rank": "preferred"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8687",
+          "hash": "624b854c4e408a2373bf3e6765904c1ed5bb7a22",
+          "datavalue": {
+            "value": {
+              "amount": "+1174501",
+              "unit": "1"
+            },
+            "type": "quantity"
+          },
+          "datatype": "quantity"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P6552": [
+            {
+              "snaktype": "value",
+              "property": "P6552",
+              "hash": "13da2eef3b7b23829bbda67830d11ded1d4475f7",
+              "datavalue": {
+                "value": "21237045",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            }
+          ],
+          "P585": [
+            {
+              "snaktype": "value",
+              "property": "P585",
+              "hash": "d23772ed2b8b4c4e31ec158c814140af0379c572",
+              "datavalue": {
+                "value": {
+                  "time": "+2020-04-25T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P6552",
+          "P585"
+        ],
+        "id": "Q103204$7046147a-2ea7-4467-825e-366417957c69",
+        "rank": "normal"
+      }
+    ],
+    "P9138": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P9138",
+          "hash": "c8796a6d6e8783eb6d472862c50ce5a80b21334e",
+          "datavalue": {
+            "value": "https://status.flickr.net",
+            "type": "string"
+          },
+          "datatype": "url"
+        },
+        "type": "statement",
+        "id": "Q103204$3024021c-47fb-b2c7-3b3b-476c77755c6b",
+        "rank": "normal"
+      }
+    ],
+    "P17": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P17",
+          "hash": "be4c6eafa2984964f04be85667263f5642ba1a72",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 30,
+              "id": "Q30"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q103204$d4749b87-466c-5c5d-5b87-12093766dcfa",
+        "rank": "normal"
+      }
+    ],
+    "P3553": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3553",
+          "hash": "feedec4b05b41385ca6da91ab3d3d959811d3128",
+          "datavalue": {
+            "value": "19556612",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q103204$4BC5F148-3A82-4A0A-97D2-5DBE2D7AEEB6",
+        "rank": "normal"
+      }
+    ],
+    "P9618": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P9618",
+          "hash": "339dc2be773c4f57ddfdfc053ebb86d9bec9ec6c",
+          "datavalue": {
+            "value": "flickr",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q103204$8eea8131-4e10-1682-d070-ae16554480fc",
+        "rank": "normal"
+      }
+    ],
+    "P9100": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P9100",
+          "hash": "832c7d33d676cd489e778fa52ff03080d25f17e4",
+          "datavalue": {
+            "value": "flickr",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q103204$775A7E0B-436E-464E-A490-D521FFC08E8E",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "193d864da3325e12e4e34a4e18171e0697942d58",
+            "snaks": {
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "28b9a2646efcae9f47c5c7321bcfbc704c27ac13",
+                  "datavalue": {
+                    "value": "https://github.com/topics/flickr",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ],
+              "P1476": [
+                {
+                  "snaktype": "value",
+                  "property": "P1476",
+                  "hash": "3653fa1afcba6171d9da9eca50a0f0199d94abf6",
+                  "datavalue": {
+                    "value": {
+                      "text": "flickr · GitHub Topics · GitHub",
+                      "language": "en"
+                    },
+                    "type": "monolingualtext"
+                  },
+                  "datatype": "monolingualtext"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "3aaa7efa3543d310654da7a4250c1b45389b2407",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2021-07-25T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854",
+              "P1476",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "sitelinks": {
+    "arwiki": {
+      "site": "arwiki",
+      "title": "فليكر",
+      "badges": [],
+      "url": "https://ar.wikipedia.org/wiki/%D9%81%D9%84%D9%8A%D9%83%D8%B1"
+    },
+    "azwiki": {
+      "site": "azwiki",
+      "title": "Flickr",
+      "badges": [],
+      "url": "https://az.wikipedia.org/wiki/Flickr"
+    },
+    "azwikibooks": {
+      "site": "azwikibooks",
+      "title": "Sosial şəbəkələr/Flickr",
+      "badges": [],
+      "url": "https://az.wikibooks.org/wiki/Sosial_%C5%9F%C9%99b%C9%99k%C9%99l%C9%99r/Flickr"
+    },
+    "barwiki": {
+      "site": "barwiki",
+      "title": "Flickr",
+      "badges": [],
+      "url": "https://bar.wikipedia.org/wiki/Flickr"
+    },
+    "bhwiki": {
+      "site": "bhwiki",
+      "title": "फ्लिकर",
+      "badges": [],
+      "url": "https://bh.wikipedia.org/wiki/%E0%A4%AB%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%95%E0%A4%B0"
+    },
+    "bnwiki": {
+      "site": "bnwiki",
+      "title": "ফ্লিকার",
+      "badges": [],
+      "url": "https://bn.wikipedia.org/wiki/%E0%A6%AB%E0%A7%8D%E0%A6%B2%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%B0"
+    },
+    "cawiki": {
+      "site": "cawiki",
+      "title": "Flickr",
+      "badges": [],
+      "url": "https://ca.wikipedia.org/wiki/Flickr"
+    },
+    "cdowiki": {
+      "site": "cdowiki",
+      "title": "Flickr",
+      "badges": [],
+      "url": "https://cdo.wikipedia.org/wiki/Flickr"
+    },
+    "ckbwiki": {
+      "site": "ckbwiki",
+      "title": "فلیکر",
+      "badges": [],
+      "url": "https://ckb.wikipedia.org/wiki/%D9%81%D9%84%DB%8C%DA%A9%D8%B1"
+    },
+    "commonswiki": {
+      "site": "commonswiki",
+      "title": "Category:Flickr",
+      "badges": [],
+      "url": "https://commons.wikimedia.org/wiki/Category:Flickr"
+    },
+    "cswiki": {
+      "site": "cswiki",
+      "title": "Flickr",
+      "badges": [],
+      "url": "https://cs.wikipedia.org/wiki/Flickr"
+    },
+    "cywiki": {
+      "site": "cywiki",
+      "title": "Flickr",
+      "badges": [],
+      "url": "https://cy.wikipedia.org/wiki/Flickr"
+    },
+    "dawiki": {
+      "site": "dawiki",
+      "title": "Flickr",
+      "badges": [],
+      "url": "https://da.wikipedia.org/wiki/Flickr"
+    },
+    "dewiki": {
+      "site": "dewiki",
+      "title": "Flickr",
+      "badges": [],
+      "url": "https://de.wikipedia.org/wiki/Flickr"
+    },
+    "elwiki": {
+      "site": "elwiki",
+      "title": "Flickr",
+      "badges": [],
+      "url": "https://el.wikipedia.org/wiki/Flickr"
+    },
+    "enwiki": {
+      "site": "enwiki",
+      "title": "Flickr",
+      "badges": [],
+      "url": "https://en.wikipedia.org/wiki/Flickr"
+    },
+    "eowiki": {
+      "site": "eowiki",
+      "title": "Flickr",
+      "badges": [],
+      "url": "https://eo.wikipedia.org/wiki/Flickr"
+    },
+    "eswiki": {
+      "site": "eswiki",
+      "title": "Flickr",
+      "badges": [],
+      "url": "https://es.wikipedia.org/wiki/Flickr"
+    },
+    "etwiki": {
+      "site": "etwiki",
+      "title": "Flickr",
+      "badges": [],
+      "url": "https://et.wikipedia.org/wiki/Flickr"
+    },
+    "euwiki": {
+      "site": "euwiki",
+      "title": "Flickr",
+      "badges": [],
+      "url": "https://eu.wikipedia.org/wiki/Flickr"
+    },
+    "fawiki": {
+      "site": "fawiki",
+      "title": "فلیکر",
+      "badges": [],
+      "url": "https://fa.wikipedia.org/wiki/%D9%81%D9%84%DB%8C%DA%A9%D8%B1"
+    },
+    "fiwiki": {
+      "site": "fiwiki",
+      "title": "Flickr",
+      "badges": [],
+      "url": "https://fi.wikipedia.org/wiki/Flickr"
+    },
+    "frwiki": {
+      "site": "frwiki",
+      "title": "Flickr",
+      "badges": [],
+      "url": "https://fr.wikipedia.org/wiki/Flickr"
+    },
+    "glwiki": {
+      "site": "glwiki",
+      "title": "Flickr",
+      "badges": [],
+      "url": "https://gl.wikipedia.org/wiki/Flickr"
+    },
+    "hakwiki": {
+      "site": "hakwiki",
+      "title": "Flickr",
+      "badges": [],
+      "url": "https://hak.wikipedia.org/wiki/Flickr"
+    },
+    "hewiki": {
+      "site": "hewiki",
+      "title": "פליקר",
+      "badges": [],
+      "url": "https://he.wikipedia.org/wiki/%D7%A4%D7%9C%D7%99%D7%A7%D7%A8"
+    },
+    "hiwiki": {
+      "site": "hiwiki",
+      "title": "फ़्लिकर",
+      "badges": [],
+      "url": "https://hi.wikipedia.org/wiki/%E0%A4%AB%E0%A4%BC%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%95%E0%A4%B0"
+    },
+    "hrwiki": {
+      "site": "hrwiki",
+      "title": "Flickr",
+      "badges": [],
+      "url": "https://hr.wikipedia.org/wiki/Flickr"
+    },
+    "huwiki": {
+      "site": "huwiki",
+      "title": "Flickr",
+      "badges": [],
+      "url": "https://hu.wikipedia.org/wiki/Flickr"
+    },
+    "hywiki": {
+      "site": "hywiki",
+      "title": "Flickr",
+      "badges": [],
+      "url": "https://hy.wikipedia.org/wiki/Flickr"
+    },
+    "idwiki": {
+      "site": "idwiki",
+      "title": "Flickr",
+      "badges": [],
+      "url": "https://id.wikipedia.org/wiki/Flickr"
+    },
+    "itwiki": {
+      "site": "itwiki",
+      "title": "Flickr",
+      "badges": [],
+      "url": "https://it.wikipedia.org/wiki/Flickr"
+    },
+    "jawiki": {
+      "site": "jawiki",
+      "title": "Flickr",
+      "badges": [],
+      "url": "https://ja.wikipedia.org/wiki/Flickr"
+    },
+    "jvwiki": {
+      "site": "jvwiki",
+      "title": "Flickr",
+      "badges": [],
+      "url": "https://jv.wikipedia.org/wiki/Flickr"
+    },
+    "kawiki": {
+      "site": "kawiki",
+      "title": "Flickr",
+      "badges": [],
+      "url": "https://ka.wikipedia.org/wiki/Flickr"
+    },
+    "kkwiki": {
+      "site": "kkwiki",
+      "title": "Flickr",
+      "badges": [],
+      "url": "https://kk.wikipedia.org/wiki/Flickr"
+    },
+    "knwiki": {
+      "site": "knwiki",
+      "title": "ಫ್ಲಿಕರ್",
+      "badges": [],
+      "url": "https://kn.wikipedia.org/wiki/%E0%B2%AB%E0%B3%8D%E0%B2%B2%E0%B2%BF%E0%B2%95%E0%B2%B0%E0%B3%8D"
+    },
+    "kowiki": {
+      "site": "kowiki",
+      "title": "플리커",
+      "badges": [],
+      "url": "https://ko.wikipedia.org/wiki/%ED%94%8C%EB%A6%AC%EC%BB%A4"
+    },
+    "ltwiki": {
+      "site": "ltwiki",
+      "title": "Flickr",
+      "badges": [],
+      "url": "https://lt.wikipedia.org/wiki/Flickr"
+    },
+    "mgwiki": {
+      "site": "mgwiki",
+      "title": "Flickr",
+      "badges": [],
+      "url": "https://mg.wikipedia.org/wiki/Flickr"
+    },
+    "mlwiki": {
+      "site": "mlwiki",
+      "title": "ഫ്ലിക്കർ",
+      "badges": [],
+      "url": "https://ml.wikipedia.org/wiki/%E0%B4%AB%E0%B5%8D%E0%B4%B2%E0%B4%BF%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%BC"
+    },
+    "mswiki": {
+      "site": "mswiki",
+      "title": "Flickr",
+      "badges": [],
+      "url": "https://ms.wikipedia.org/wiki/Flickr"
+    },
+    "ndswiki": {
+      "site": "ndswiki",
+      "title": "Flickr",
+      "badges": [],
+      "url": "https://nds.wikipedia.org/wiki/Flickr"
+    },
+    "nlwiki": {
+      "site": "nlwiki",
+      "title": "Flickr",
+      "badges": [],
+      "url": "https://nl.wikipedia.org/wiki/Flickr"
+    },
+    "nowiki": {
+      "site": "nowiki",
+      "title": "Flickr",
+      "badges": [],
+      "url": "https://no.wikipedia.org/wiki/Flickr"
+    },
+    "plwiki": {
+      "site": "plwiki",
+      "title": "Flickr",
+      "badges": [],
+      "url": "https://pl.wikipedia.org/wiki/Flickr"
+    },
+    "ptwiki": {
+      "site": "ptwiki",
+      "title": "Flickr",
+      "badges": [],
+      "url": "https://pt.wikipedia.org/wiki/Flickr"
+    },
+    "rowiki": {
+      "site": "rowiki",
+      "title": "Flickr",
+      "badges": [],
+      "url": "https://ro.wikipedia.org/wiki/Flickr"
+    },
+    "ruwiki": {
+      "site": "ruwiki",
+      "title": "Flickr",
+      "badges": [],
+      "url": "https://ru.wikipedia.org/wiki/Flickr"
+    },
+    "ruwikinews": {
+      "site": "ruwikinews",
+      "title": "Категория:Flickr",
+      "badges": [],
+      "url": "https://ru.wikinews.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:Flickr"
+    },
+    "shwiki": {
+      "site": "shwiki",
+      "title": "Flickr",
+      "badges": [],
+      "url": "https://sh.wikipedia.org/wiki/Flickr"
+    },
+    "simplewiki": {
+      "site": "simplewiki",
+      "title": "Flickr",
+      "badges": [],
+      "url": "https://simple.wikipedia.org/wiki/Flickr"
+    },
+    "skwiki": {
+      "site": "skwiki",
+      "title": "Flickr",
+      "badges": [],
+      "url": "https://sk.wikipedia.org/wiki/Flickr"
+    },
+    "slwiki": {
+      "site": "slwiki",
+      "title": "Flickr",
+      "badges": [],
+      "url": "https://sl.wikipedia.org/wiki/Flickr"
+    },
+    "srwiki": {
+      "site": "srwiki",
+      "title": "Flickr",
+      "badges": [],
+      "url": "https://sr.wikipedia.org/wiki/Flickr"
+    },
+    "svwiki": {
+      "site": "svwiki",
+      "title": "Flickr",
+      "badges": [],
+      "url": "https://sv.wikipedia.org/wiki/Flickr"
+    },
+    "tawiki": {
+      "site": "tawiki",
+      "title": "பிளிக்கர்",
+      "badges": [],
+      "url": "https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AE%BF%E0%AE%B3%E0%AE%BF%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%B0%E0%AF%8D"
+    },
+    "thwiki": {
+      "site": "thwiki",
+      "title": "ฟลิคเกอร์",
+      "badges": [],
+      "url": "https://th.wikipedia.org/wiki/%E0%B8%9F%E0%B8%A5%E0%B8%B4%E0%B8%84%E0%B9%80%E0%B8%81%E0%B8%AD%E0%B8%A3%E0%B9%8C"
+    },
+    "tkwiki": {
+      "site": "tkwiki",
+      "title": "Flickr",
+      "badges": [],
+      "url": "https://tk.wikipedia.org/wiki/Flickr"
+    },
+    "trwiki": {
+      "site": "trwiki",
+      "title": "Flickr",
+      "badges": [],
+      "url": "https://tr.wikipedia.org/wiki/Flickr"
+    },
+    "ukwiki": {
+      "site": "ukwiki",
+      "title": "Flickr",
+      "badges": [],
+      "url": "https://uk.wikipedia.org/wiki/Flickr"
+    },
+    "viwiki": {
+      "site": "viwiki",
+      "title": "Flickr",
+      "badges": [],
+      "url": "https://vi.wikipedia.org/wiki/Flickr"
+    },
+    "wuuwiki": {
+      "site": "wuuwiki",
+      "title": "Flickr",
+      "badges": [],
+      "url": "https://wuu.wikipedia.org/wiki/Flickr"
+    },
+    "zh_min_nanwiki": {
+      "site": "zh_min_nanwiki",
+      "title": "Flickr",
+      "badges": [],
+      "url": "https://zh-min-nan.wikipedia.org/wiki/Flickr"
+    },
+    "zh_yuewiki": {
+      "site": "zh_yuewiki",
+      "title": "Flickr",
+      "badges": [],
+      "url": "https://zh-yue.wikipedia.org/wiki/Flickr"
+    },
+    "zhwiki": {
+      "site": "zhwiki",
+      "title": "Flickr",
+      "badges": [],
+      "url": "https://zh.wikipedia.org/wiki/Flickr"
+    },
+    "zhwikibooks": {
+      "site": "zhwikibooks",
+      "title": "Flickr",
+      "badges": [],
+      "url": "https://zh.wikibooks.org/wiki/Flickr"
+    }
+  }
 }

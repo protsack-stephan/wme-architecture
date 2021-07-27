@@ -1,5 +1,4232 @@
 {
   "name": "date of birth",
   "identifier": "P569",
-  "url": "https://www.wikidata.org/entity/P569"
+  "url": "https://www.wikidata.org/entity/P569",
+  "date_modified": "2021-07-24T10:55:55Z",
+  "type": "property",
+  "datatype": "time",
+  "id": "P569",
+  "labels": {
+    "fr": {
+      "language": "fr",
+      "value": "date de naissance"
+    },
+    "en": {
+      "language": "en",
+      "value": "date of birth"
+    },
+    "de": {
+      "language": "de",
+      "value": "Geburtsdatum"
+    },
+    "it": {
+      "language": "it",
+      "value": "data di nascita"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "syntymäaika"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "datum narození"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "geboortedatum"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "дата рождения"
+    },
+    "be": {
+      "language": "be",
+      "value": "дата нараджэння"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "date of birth"
+    },
+    "es": {
+      "language": "es",
+      "value": "fecha de nacimiento"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Tied boren"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "生年月日"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "出生日期"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "出生日期"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "出生日期"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "زادروز"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "fødselsdato"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "fødselsdato"
+    },
+    "da": {
+      "language": "da",
+      "value": "fødselsdato"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "জন্ম তারিখ"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "dzimšanas datums"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "дата народження"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "petsa ng kapanangakan"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "태어난 날"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "датум на раѓање"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "ജനിച്ച തീയതി"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "დაბადების თარიღი"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "data de naixement"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "data urodzenia"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "születési idő"
+    },
+    "el": {
+      "language": "el",
+      "value": "ημερομηνία γέννησης"
+    },
+    "id": {
+      "language": "id",
+      "value": "tanggal lahir"
+    },
+    "min": {
+      "language": "min",
+      "value": "tanggal lahia"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "data de naissença"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "födelsedatum"
+    },
+    "rm": {
+      "language": "rm",
+      "value": "data da naschientscha"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Gebuertsdatum"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "data de nacemento"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "датум рођења"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "датум рођења"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "date of birth"
+    },
+    "he": {
+      "language": "he",
+      "value": "תאריך לידה"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "ڕێکەوتی لەدایکبوون"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "datum rođenja"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "data de nascimento"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "data de nascimento"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "जन्म तारीख"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "dátum narodenia"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "出世日子"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "जन्म तिथि"
+    },
+    "gu": {
+      "language": "gu",
+      "value": "જન્મ તારીખ"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "出生日期"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "дата нараджэньня"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "tarikh lahir"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "பிறந்த நாள்"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "datum rođenja"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "تاريخ الميلاد"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "naskiĝdato"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "datum rođenja"
+    },
+    "is": {
+      "language": "is",
+      "value": "fæðingardagur"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "dáta breithe"
+    },
+    "yi": {
+      "language": "yi",
+      "value": "געבורטס-דאטע"
+    },
+    "csb": {
+      "language": "csb",
+      "value": "data ùrodzeniô"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "出生日期"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "ngày sinh"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "jaiotza data"
+    },
+    "ilo": {
+      "language": "ilo",
+      "value": "petsa a naipasngay"
+    },
+    "la": {
+      "language": "la",
+      "value": "dies natalis"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "data nașterii"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "gimimo data"
+    },
+    "et": {
+      "language": "et",
+      "value": "sünnikuupäev"
+    },
+    "af": {
+      "language": "af",
+      "value": "Geboortedatum"
+    },
+    "ts": {
+      "language": "ts",
+      "value": "Siku rotswariwa"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "ծննդյան օր"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Geburtsdatum"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "date o birth"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "出生日期"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "geboren"
+    },
+    "th": {
+      "language": "th",
+      "value": "วันเกิด"
+    },
+    "te": {
+      "language": "te",
+      "value": "పుట్టిన తేదీ"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "datum rojstva"
+    },
+    "br": {
+      "language": "br",
+      "value": "deiziad ganedigezh"
+    },
+    "or": {
+      "language": "or",
+      "value": "ଜନ୍ମ ତାରିଖ"
+    },
+    "tt": {
+      "language": "tt",
+      "value": "туу датасы"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "dyddiad geni"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "chhut-sì"
+    },
+    "stq": {
+      "language": "stq",
+      "value": "Bädden"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "doğum tarihi"
+    },
+    "pa": {
+      "language": "pa",
+      "value": "ਜਨਮ ਮਿਤੀ"
+    },
+    "ksh": {
+      "language": "ksh",
+      "value": "Jebohre aam"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "data di nàscita"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "bertedatum"
+    },
+    "de-at": {
+      "language": "de-at",
+      "value": "Geboren am"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "daty nahaterahana"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "дата на раждане"
+    },
+    "ce": {
+      "language": "ce",
+      "value": "вина терахь"
+    },
+    "ne": {
+      "language": "ne",
+      "value": "जन्म मिति"
+    },
+    "jbo": {
+      "language": "jbo",
+      "value": "lo terjbe"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "fecha de nacimientu"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "data e lindjes"
+    },
+    "ps": {
+      "language": "ps",
+      "value": "زېږون نېټه"
+    },
+    "mt": {
+      "language": "mt",
+      "value": "data tat-twelid"
+    },
+    "kn": {
+      "language": "kn",
+      "value": "ಜನನದ ದಿನಾಂಕ"
+    },
+    "fo": {
+      "language": "fo",
+      "value": "føðingardagur"
+    },
+    "ia": {
+      "language": "ia",
+      "value": "data de nascentia"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "таърихи таваллуд"
+    },
+    "frr": {
+      "language": "frr",
+      "value": "gebursdai"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "dema jidayîkbûnê"
+    },
+    "io": {
+      "language": "io",
+      "value": "naskodato"
+    },
+    "zh-mo": {
+      "language": "zh-mo",
+      "value": "出生日期"
+    },
+    "zh-my": {
+      "language": "zh-my",
+      "value": "出生日期"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "出生日期"
+    },
+    "pam": {
+      "language": "pam",
+      "value": "petsa ning kebaitan"
+    },
+    "aeb-arab": {
+      "language": "aeb-arab",
+      "value": "نهار الولادة"
+    },
+    "ba": {
+      "language": "ba",
+      "value": "тыуған көнө"
+    },
+    "as": {
+      "language": "as",
+      "value": "জন্মদিন"
+    },
+    "aeb-latn": {
+      "language": "aeb-latn",
+      "value": "nhàr el-wlèda"
+    },
+    "an": {
+      "language": "an",
+      "value": "calendata de naixencia"
+    },
+    "se": {
+      "language": "se",
+      "value": "riegádanbeaivi"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "تاریخ پیدائش"
+    },
+    "hsb": {
+      "language": "hsb",
+      "value": "datum narodźenja"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "ọjó ìbí"
+    },
+    "tg-cyrl": {
+      "language": "tg-cyrl",
+      "value": "санаи таваллуд"
+    },
+    "gd": {
+      "language": "gd",
+      "value": "là-breith"
+    },
+    "tt-cyrl": {
+      "language": "tt-cyrl",
+      "value": "туу датасы"
+    },
+    "tt-latn": {
+      "language": "tt-latn",
+      "value": "tuu datası"
+    },
+    "ky": {
+      "language": "ky",
+      "value": "Туулган датасы"
+    },
+    "az": {
+      "language": "az",
+      "value": "doğum tarixi"
+    },
+    "sah": {
+      "language": "sah",
+      "value": "төрөөбүт күнэ"
+    },
+    "mi": {
+      "language": "mi",
+      "value": "te rā whānau"
+    },
+    "sd": {
+      "language": "sd",
+      "value": "تاريخ ڄم"
+    },
+    "gn": {
+      "language": "gn",
+      "value": "ára reñóiva"
+    },
+    "ha": {
+      "language": "ha",
+      "value": "Shekarun haihuwa"
+    },
+    "olo": {
+      "language": "olo",
+      "value": "roinduaigu"
+    },
+    "atj": {
+      "language": "atj",
+      "value": "pitc ka nitawokitc"
+    },
+    "bxr": {
+      "language": "bxr",
+      "value": "түрэһэн үдэр"
+    },
+    "am": {
+      "language": "am",
+      "value": "የትውልድ ቀን"
+    },
+    "jv": {
+      "language": "jv",
+      "value": "tanggal lair"
+    },
+    "ss": {
+      "language": "ss",
+      "value": "Kutalwa"
+    },
+    "mhr": {
+      "language": "mhr",
+      "value": "шочмо кече"
+    },
+    "rmf": {
+      "language": "rmf",
+      "value": "föddibosko diives"
+    },
+    "sma": {
+      "language": "sma",
+      "value": "reakadimmiebiejjie"
+    },
+    "smj": {
+      "language": "smj",
+      "value": "riegádimbiejvve"
+    },
+    "smn": {
+      "language": "smn",
+      "value": "šoddâmäigi"
+    },
+    "sms": {
+      "language": "sms",
+      "value": "šõddâmpeiʹvv"
+    },
+    "sju": {
+      "language": "sju",
+      "value": "riägádemebeäjvvie"
+    },
+    "nqo": {
+      "language": "nqo",
+      "value": "ߡߏߦߌ߫ ߕߎߡߊ"
+    },
+    "hyw": {
+      "language": "hyw",
+      "value": "ծննդեան թուական"
+    },
+    "diq": {
+      "language": "diq",
+      "value": "Terixê zayışi"
+    },
+    "ary": {
+      "language": "ary",
+      "value": "تاريخ زدياد"
+    },
+    "lez": {
+      "language": "lez",
+      "value": "дидедиз хьайи чӀав"
+    },
+    "myv": {
+      "language": "myv",
+      "value": "чачома чи"
+    },
+    "nap": {
+      "language": "nap",
+      "value": "data di nascita"
+    },
+    "vec": {
+      "language": "vec",
+      "value": "data de nasimento"
+    },
+    "kw": {
+      "language": "kw",
+      "value": "dedhyas dinythyans"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "туылған күні"
+    },
+    "si": {
+      "language": "si",
+      "value": "ජන්ම දිනය"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "roja jidayikbûnê"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "تاريخ الولاده"
+    },
+    "szl": {
+      "language": "szl",
+      "value": "data narodzyniŏ"
+    },
+    "ab": {
+      "language": "ab",
+      "value": "Иԥсра ашықәс"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "fecha di nasementu"
+    },
+    "szy": {
+      "language": "szy",
+      "value": "pilecuhan a demiad"
+    },
+    "ti": {
+      "language": "ti",
+      "value": "ዕለት ትውልዲ"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "datum rođenja"
+    },
+    "os": {
+      "language": "os",
+      "value": "райгуырды датæ"
+    },
+    "ms-arab": {
+      "language": "ms-arab",
+      "value": "تاريخ لاهير"
+    },
+    "dtp": {
+      "language": "dtp",
+      "value": "tadauwulan kinosusuon"
+    },
+    "zu": {
+      "language": "zu",
+      "value": "usuku lokuzalwa"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "doɣam dabsili"
+    }
+  },
+  "descriptions": {
+    "fr": {
+      "language": "fr",
+      "value": "date à laquelle la personne est née"
+    },
+    "de": {
+      "language": "de",
+      "value": "Datum, an dem eine Person geboren wurde"
+    },
+    "en": {
+      "language": "en",
+      "value": "date on which the subject was born"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "date on which the subject was born"
+    },
+    "es": {
+      "language": "es",
+      "value": "fecha en la cual nació el sujeto"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "主題となる人物や動物が生まれた日付"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "زمان به‌دنیا آمدن شخص مورد نظر"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "personens fødselsdato"
+    },
+    "da": {
+      "language": "da",
+      "value": "datoen en person blev født"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "항목 주제가 태어난 날"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "кога се родил предметот"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "ജനിച്ച ദിവസം, മാസം, വർഷം (ഗ്രിഗോറിയൻ കലണ്ടർ അനുസരിച്ച്)"
+    },
+    "it": {
+      "language": "it",
+      "value": "data in cui il soggetto è nato"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "день, месяц, год, в который субъект был рождён"
+    },
+    "id": {
+      "language": "id",
+      "value": "tanggal kelahiran subjek"
+    },
+    "min": {
+      "language": "min",
+      "value": "tanggal kalahiaran"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Datum op deem eng Persoun gebuer gouf"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "datum, kdy se daná osoba narodila"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "päivämäärä, jolloin aihe syntyi"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "date on which the subject was born"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "datum kad je osoba rođena"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "तिथि जब विषय का जन्म हुआ"
+    },
+    "gu": {
+      "language": "gu",
+      "value": "તારીખ જ્યારે વિષયનો જન્મ થયો"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "நபரின் பிறந்த தேதி"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "датум када је субјекат рођен"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "датум када је субјекат рођен"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "datum kada je subjekat rođen"
+    },
+    "el": {
+      "language": "el",
+      "value": "ημερομηνία κατά την οποία το αντικείμενο γεννήθηκε"
+    },
+    "af": {
+      "language": "af",
+      "value": "datum waarop die persoon gebore is"
+    },
+    "ilo": {
+      "language": "ilo",
+      "value": "petsa idi naipasngay ti suheto"
+    },
+    "tt": {
+      "language": "tt",
+      "value": "субъектның туган көне, ае, елы"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Անձի ծնվելու օրը, ամիսը և տարին"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "datum kada je osoba rođena"
+    },
+    "pa": {
+      "language": "pa",
+      "value": "ਮਿਤੀ ਜਿਸ ਦਿਨ ਵਿਸ਼ੇ ਦਾ ਜਨਮ ਹੋਇਆ"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "datum då en individ föds"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "datum waarop de persoon is geboren"
+    },
+    "ksh": {
+      "language": "ksh",
+      "value": "Et Dattom, wan dä Minsch jebohre wood"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "data quannu lu suggettu nascìu"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "此对象的出生日期"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "İlgili girdinin (kişi, hayvan vs.) doğduğu tarih."
+    },
+    "eo": {
+      "language": "eo",
+      "value": "dato, kiam la objekto naskiĝis"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "data de nacencia del suxetu"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "data në të cilën subjekti ka lindur"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "день, місяць, рік народження суб'єкта"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "dan, na katerega je bila oseba rojena"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "data en la qual va néixer el subjecte"
+    },
+    "fo": {
+      "language": "fo",
+      "value": "dagurin tá ið ein persónur varð føddur"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "出生时间数据"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "data la care s-a născut subiectul"
+    },
+    "aeb-arab": {
+      "language": "aeb-arab",
+      "value": "النهار اللي تولد فيه العبد"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "data wskazująca narodziny danej osoby"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "data na qual o sujeito nasceu"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "التاريخ الذي ولد فيه هذا الشخص أو الشيء"
+    },
+    "he": {
+      "language": "he",
+      "value": "התאריך בו הפריט נולד"
+    },
+    "hsb": {
+      "language": "hsb",
+      "value": "datum, hdyž je so wosoba narodźiła"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "dyddiad geni person"
+    },
+    "gd": {
+      "language": "gd",
+      "value": "an latha air an do rugadh an neach"
+    },
+    "tt-cyrl": {
+      "language": "tt-cyrl",
+      "value": "субъектның туган көне, ае, елы"
+    },
+    "tt-latn": {
+      "language": "tt-latn",
+      "value": "subyektnıñ tuğan köne, ayı, yılı"
+    },
+    "ky": {
+      "language": "ky",
+      "value": "күн, ай, жыл"
+    },
+    "te": {
+      "language": "te",
+      "value": "వీరు పుట్టిన తేదీ"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "datums, kurā subjekts dzimis"
+    },
+    "sah": {
+      "language": "sah",
+      "value": "субъект төрөөбүт сыла, ыйа, күнэ"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "data na que a persoa naceu"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "mikor született az alany"
+    },
+    "atj": {
+      "language": "atj",
+      "value": "Pitc ka nitawokitc"
+    },
+    "yi": {
+      "language": "yi",
+      "value": "דאטע ווען א מענטש איז געבוירן געווארן"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "masa kelahiran subjek"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "datoen nokon vart fødd"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Subjektua jaio zen data"
+    },
+    "am": {
+      "language": "am",
+      "value": "የአንድ ሰው የተወለደበት ቀን"
+    },
+    "jv": {
+      "language": "jv",
+      "value": "tanggal nalik subjèk lair"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "дата, калі нарадзіўся суб’ект"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "出世嘅年月日"
+    },
+    "nqo": {
+      "language": "nqo",
+      "value": "ߝߐߡߊ ߡߏߦߌߣߍ߲߫ ߕߎ߬ߡߊ߬ߘߊ ߡߍ߲ ߠߊ߫"
+    },
+    "hyw": {
+      "language": "hyw",
+      "value": "ծնած տարին, ամիս եւ օր"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "ọjó ti a bí eni ti a n so nipa re"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "нысанның туылған датасы"
+    },
+    "si": {
+      "language": "si",
+      "value": "අදාල පුද්ගලයා උපත ලැබූ දිනය"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "data em que o sujeito nasceu"
+    }
+  },
+  "aliases": {
+    "zh-hans": [
+      {
+        "language": "zh-hans",
+        "value": "生年"
+      }
+    ],
+    "zh": [
+      {
+        "language": "zh",
+        "value": "生辰"
+      },
+      {
+        "language": "zh",
+        "value": "出生日"
+      }
+    ],
+    "ru": [
+      {
+        "language": "ru",
+        "value": "родился"
+      },
+      {
+        "language": "ru",
+        "value": "родилась"
+      },
+      {
+        "language": "ru",
+        "value": "др"
+      }
+    ],
+    "fr": [
+      {
+        "language": "fr",
+        "value": "naissance"
+      },
+      {
+        "language": "fr",
+        "value": "né le"
+      },
+      {
+        "language": "fr",
+        "value": "née le"
+      },
+      {
+        "language": "fr",
+        "value": "né en"
+      },
+      {
+        "language": "fr",
+        "value": "née en"
+      },
+      {
+        "language": "fr",
+        "value": "année de naissance"
+      }
+    ],
+    "de": [
+      {
+        "language": "de",
+        "value": "geboren am"
+      },
+      {
+        "language": "de",
+        "value": "Geburtsjahr"
+      }
+    ],
+    "ja": [
+      {
+        "language": "ja",
+        "value": "生まれ"
+      },
+      {
+        "language": "ja",
+        "value": "誕生日"
+      },
+      {
+        "language": "ja",
+        "value": "出生日"
+      },
+      {
+        "language": "ja",
+        "value": "誕辰"
+      },
+      {
+        "language": "ja",
+        "value": "生年"
+      },
+      {
+        "language": "ja",
+        "value": "生誕日"
+      },
+      {
+        "language": "ja",
+        "value": "生誕"
+      }
+    ],
+    "yue": [
+      {
+        "language": "yue",
+        "value": "生日日期"
+      },
+      {
+        "language": "yue",
+        "value": "出世日期"
+      }
+    ],
+    "yi": [
+      {
+        "language": "yi",
+        "value": "געבוירן־דאטע"
+      }
+    ],
+    "it": [
+      {
+        "language": "it",
+        "value": "nato il"
+      },
+      {
+        "language": "it",
+        "value": "nata il"
+      },
+      {
+        "language": "it",
+        "value": "anno di nascita"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "born on"
+      },
+      {
+        "language": "en",
+        "value": "birth date"
+      },
+      {
+        "language": "en",
+        "value": "birthdate"
+      },
+      {
+        "language": "en",
+        "value": "birth year"
+      },
+      {
+        "language": "en",
+        "value": "year of birth"
+      },
+      {
+        "language": "en",
+        "value": "birthyear"
+      },
+      {
+        "language": "en",
+        "value": "DOB"
+      }
+    ],
+    "vi": [
+      {
+        "language": "vi",
+        "value": "ngày sanh"
+      },
+      {
+        "language": "vi",
+        "value": "ngày sinh nhật"
+      }
+    ],
+    "lt": [
+      {
+        "language": "lt",
+        "value": "gimtadienis"
+      },
+      {
+        "language": "lt",
+        "value": "gimimo diena"
+      }
+    ],
+    "ko": [
+      {
+        "language": "ko",
+        "value": "생일"
+      },
+      {
+        "language": "ko",
+        "value": "출생일"
+      },
+      {
+        "language": "ko",
+        "value": "생년월일"
+      },
+      {
+        "language": "ko",
+        "value": "태어난 날짜"
+      },
+      {
+        "language": "ko",
+        "value": "태어난 때"
+      },
+      {
+        "language": "ko",
+        "value": "탄생한 날"
+      },
+      {
+        "language": "ko",
+        "value": "탄생한 날짜"
+      },
+      {
+        "language": "ko",
+        "value": "탄생한 년월일"
+      },
+      {
+        "language": "ko",
+        "value": "탄생한 연월일"
+      },
+      {
+        "language": "ko",
+        "value": "태어난 년월일"
+      },
+      {
+        "language": "ko",
+        "value": "태어난 연월일"
+      },
+      {
+        "language": "ko",
+        "value": "출생한 날"
+      },
+      {
+        "language": "ko",
+        "value": "출생한 날짜"
+      },
+      {
+        "language": "ko",
+        "value": "출생한 년월일"
+      },
+      {
+        "language": "ko",
+        "value": "출생한 연월일"
+      },
+      {
+        "language": "ko",
+        "value": "출생한 때"
+      },
+      {
+        "language": "ko",
+        "value": "탄생한 때"
+      },
+      {
+        "language": "ko",
+        "value": "탄생일"
+      }
+    ],
+    "nb": [
+      {
+        "language": "nb",
+        "value": "født"
+      },
+      {
+        "language": "nb",
+        "value": "fødselsår"
+      }
+    ],
+    "th": [
+      {
+        "language": "th",
+        "value": "วันประสูติ"
+      },
+      {
+        "language": "th",
+        "value": "วันพระราชสมภพ"
+      },
+      {
+        "language": "th",
+        "value": "เกิดวันที่"
+      },
+      {
+        "language": "th",
+        "value": "เกิดเมื่อ"
+      }
+    ],
+    "el": [
+      {
+        "language": "el",
+        "value": "γέννηση"
+      }
+    ],
+    "te": [
+      {
+        "language": "te",
+        "value": "జననం"
+      },
+      {
+        "language": "te",
+        "value": "జన్మదినం"
+      },
+      {
+        "language": "te",
+        "value": "పుట్టిన రోజు"
+      }
+    ],
+    "stq": [
+      {
+        "language": "stq",
+        "value": "gebooren"
+      }
+    ],
+    "pt": [
+      {
+        "language": "pt",
+        "value": "nasceu em"
+      },
+      {
+        "language": "pt",
+        "value": "nasceu a"
+      }
+    ],
+    "sv": [
+      {
+        "language": "sv",
+        "value": "född den"
+      },
+      {
+        "language": "sv",
+        "value": "födelsedag"
+      }
+    ],
+    "de-at": [
+      {
+        "language": "de-at",
+        "value": "Geburtstag"
+      },
+      {
+        "language": "de-at",
+        "value": "Geburtstermin"
+      }
+    ],
+    "hy": [
+      {
+        "language": "hy",
+        "value": "ծնվել է"
+      },
+      {
+        "language": "hy",
+        "value": "ծննդյան ամսաթիվ"
+      },
+      {
+        "language": "hy",
+        "value": "տարեդարձ"
+      },
+      {
+        "language": "hy",
+        "value": "ծնունդ"
+      },
+      {
+        "language": "hy",
+        "value": "ծննդյան տարի"
+      },
+      {
+        "language": "hy",
+        "value": "ծննդյան տարեթիվ"
+      }
+    ],
+    "bg": [
+      {
+        "language": "bg",
+        "value": "роден на"
+      },
+      {
+        "language": "bg",
+        "value": "Рожден ден"
+      }
+    ],
+    "ce": [
+      {
+        "language": "ce",
+        "value": "вина"
+      },
+      {
+        "language": "ce",
+        "value": "йина"
+      }
+    ],
+    "cy": [
+      {
+        "language": "cy",
+        "value": "ganwyd"
+      }
+    ],
+    "eo": [
+      {
+        "language": "eo",
+        "value": "naskiĝis (kiam)"
+      },
+      {
+        "language": "eo",
+        "value": "dato de naskiĝo"
+      }
+    ],
+    "nl": [
+      {
+        "language": "nl",
+        "value": "geboren op"
+      },
+      {
+        "language": "nl",
+        "value": "datum van geboorte"
+      },
+      {
+        "language": "nl",
+        "value": "burgerlijke naam"
+      }
+    ],
+    "ast": [
+      {
+        "language": "ast",
+        "value": "nacimientu"
+      },
+      {
+        "language": "ast",
+        "value": "fecha de nacencia"
+      }
+    ],
+    "sq": [
+      {
+        "language": "sq",
+        "value": "lindur më"
+      },
+      {
+        "language": "sq",
+        "value": "lindur"
+      },
+      {
+        "language": "sq",
+        "value": "dita e lindjes"
+      },
+      {
+        "language": "sq",
+        "value": "ditëlindja"
+      },
+      {
+        "language": "sq",
+        "value": "viti i lindjes"
+      }
+    ],
+    "sl": [
+      {
+        "language": "sl",
+        "value": "rojstni dan"
+      },
+      {
+        "language": "sl",
+        "value": "rojen na"
+      },
+      {
+        "language": "sl",
+        "value": "dan rojstva"
+      }
+    ],
+    "fo": [
+      {
+        "language": "fo",
+        "value": "føddur"
+      },
+      {
+        "language": "fo",
+        "value": "fødd"
+      },
+      {
+        "language": "fo",
+        "value": "føðingarár"
+      }
+    ],
+    "id": [
+      {
+        "language": "id",
+        "value": "lahir pada"
+      },
+      {
+        "language": "id",
+        "value": "lahir tanggal"
+      },
+      {
+        "language": "id",
+        "value": "tahun kelahiran"
+      },
+      {
+        "language": "id",
+        "value": "ulang tahun"
+      }
+    ],
+    "tg": [
+      {
+        "language": "tg",
+        "value": "соли таваллуд"
+      }
+    ],
+    "da": [
+      {
+        "language": "da",
+        "value": "født"
+      }
+    ],
+    "pam": [
+      {
+        "language": "pam",
+        "value": "kebaitan"
+      },
+      {
+        "language": "pam",
+        "value": "mebait"
+      },
+      {
+        "language": "pam",
+        "value": "mibait"
+      }
+    ],
+    "tl": [
+      {
+        "language": "tl",
+        "value": "kapanganakan"
+      },
+      {
+        "language": "tl",
+        "value": "pagkapanganak"
+      },
+      {
+        "language": "tl",
+        "value": "pagka-panganak"
+      },
+      {
+        "language": "tl",
+        "value": "pagkasilang"
+      },
+      {
+        "language": "tl",
+        "value": "isinilang"
+      }
+    ],
+    "ro": [
+      {
+        "language": "ro",
+        "value": "născut(ă)"
+      },
+      {
+        "language": "ro",
+        "value": "anul nașterii"
+      },
+      {
+        "language": "ro",
+        "value": "naștere"
+      },
+      {
+        "language": "ro",
+        "value": "născut"
+      },
+      {
+        "language": "ro",
+        "value": "născută"
+      }
+    ],
+    "eu": [
+      {
+        "language": "eu",
+        "value": "jaioteguna"
+      }
+    ],
+    "ba": [
+      {
+        "language": "ba",
+        "value": "тыуған"
+      },
+      {
+        "language": "ba",
+        "value": "тыуған көнө"
+      }
+    ],
+    "se": [
+      {
+        "language": "se",
+        "value": "riegádandáhton"
+      }
+    ],
+    "hsb": [
+      {
+        "language": "hsb",
+        "value": "narodniny"
+      }
+    ],
+    "es": [
+      {
+        "language": "es",
+        "value": "nació en"
+      }
+    ],
+    "gd": [
+      {
+        "language": "gd",
+        "value": "latha-breith"
+      },
+      {
+        "language": "gd",
+        "value": "là breith"
+      },
+      {
+        "language": "gd",
+        "value": "latha breith"
+      }
+    ],
+    "nn": [
+      {
+        "language": "nn",
+        "value": "fødselsdag"
+      },
+      {
+        "language": "nn",
+        "value": "åremålsdag"
+      },
+      {
+        "language": "nn",
+        "value": "fødselsår"
+      },
+      {
+        "language": "nn",
+        "value": "fødd"
+      },
+      {
+        "language": "nn",
+        "value": "gebursdag"
+      },
+      {
+        "language": "nn",
+        "value": "bursdag"
+      },
+      {
+        "language": "nn",
+        "value": "åremål"
+      },
+      {
+        "language": "nn",
+        "value": "årsdag"
+      }
+    ],
+    "ky": [
+      {
+        "language": "ky",
+        "value": "Туулганы"
+      },
+      {
+        "language": "ky",
+        "value": "Төрөлгөн датасы"
+      },
+      {
+        "language": "ky",
+        "value": "Туулган жылы"
+      }
+    ],
+    "tt": [
+      {
+        "language": "tt",
+        "value": "туган"
+      }
+    ],
+    "tt-cyrl": [
+      {
+        "language": "tt-cyrl",
+        "value": "туган"
+      }
+    ],
+    "tt-latn": [
+      {
+        "language": "tt-latn",
+        "value": "tuğan"
+      }
+    ],
+    "az": [
+      {
+        "language": "az",
+        "value": "təvəllüd"
+      },
+      {
+        "language": "az",
+        "value": "ad günü"
+      }
+    ],
+    "lv": [
+      {
+        "language": "lv",
+        "value": "dzimis"
+      },
+      {
+        "language": "lv",
+        "value": "dzimusi"
+      }
+    ],
+    "tr": [
+      {
+        "language": "tr",
+        "value": "tevellüdü"
+      },
+      {
+        "language": "tr",
+        "value": "doğduğu zaman"
+      },
+      {
+        "language": "tr",
+        "value": "doğduğu tarih"
+      },
+      {
+        "language": "tr",
+        "value": "doğuş tarihi"
+      },
+      {
+        "language": "tr",
+        "value": "doğum yılı"
+      },
+      {
+        "language": "tr",
+        "value": "doğum günü"
+      }
+    ],
+    "et": [
+      {
+        "language": "et",
+        "value": "sünniaeg"
+      }
+    ],
+    "sah": [
+      {
+        "language": "sah",
+        "value": "төрөөбүт күнэ-дьыла"
+      },
+      {
+        "language": "sah",
+        "value": "төрөөбүт күнэ-ыйа"
+      },
+      {
+        "language": "sah",
+        "value": "төрөөбүт"
+      }
+    ],
+    "fa": [
+      {
+        "language": "fa",
+        "value": "سال تولد"
+      },
+      {
+        "language": "fa",
+        "value": "تاریخ تولد"
+      }
+    ],
+    "gn": [
+      {
+        "language": "gn",
+        "value": "arareñói"
+      }
+    ],
+    "hu": [
+      {
+        "language": "hu",
+        "value": "született"
+      },
+      {
+        "language": "hu",
+        "value": "születési dátum"
+      }
+    ],
+    "pa": [
+      {
+        "language": "pa",
+        "value": "ਜਨਮ ਤਾਰੀਕ"
+      },
+      {
+        "language": "pa",
+        "value": "ਜਨਮ ਦਾ ਸਾਲ"
+      },
+      {
+        "language": "pa",
+        "value": "ਜਨਮ ਤਾਰੀਖ਼"
+      }
+    ],
+    "ha": [
+      {
+        "language": "ha",
+        "value": "lokacin haifuwa"
+      }
+    ],
+    "sr": [
+      {
+        "language": "sr",
+        "value": "рођен"
+      },
+      {
+        "language": "sr",
+        "value": "година рођења"
+      }
+    ],
+    "atj": [
+      {
+        "language": "atj",
+        "value": "Pitc ka nitawokiin"
+      }
+    ],
+    "br": [
+      {
+        "language": "br",
+        "value": "deiz ar ganedigezh"
+      }
+    ],
+    "ar": [
+      {
+        "language": "ar",
+        "value": "تاريخ ميلاد"
+      },
+      {
+        "language": "ar",
+        "value": "تاريخ مولد"
+      },
+      {
+        "language": "ar",
+        "value": "تاريخ ولادة"
+      },
+      {
+        "language": "ar",
+        "value": "تاريخ الولادة"
+      },
+      {
+        "language": "ar",
+        "value": "تاريخ المولد"
+      }
+    ],
+    "ms": [
+      {
+        "language": "ms",
+        "value": "lahir pada"
+      },
+      {
+        "language": "ms",
+        "value": "diperanakkan pada"
+      },
+      {
+        "language": "ms",
+        "value": "diputerakan pada"
+      },
+      {
+        "language": "ms",
+        "value": "hari lahir"
+      },
+      {
+        "language": "ms",
+        "value": "hari jadi"
+      },
+      {
+        "language": "ms",
+        "value": "harijadi"
+      },
+      {
+        "language": "ms",
+        "value": "tanggal lahir"
+      },
+      {
+        "language": "ms",
+        "value": "diberanakkan pada"
+      },
+      {
+        "language": "ms",
+        "value": "tarikh kelahiran"
+      }
+    ],
+    "la": [
+      {
+        "language": "la",
+        "value": "natus"
+      },
+      {
+        "language": "la",
+        "value": "nata"
+      }
+    ],
+    "am": [
+      {
+        "language": "am",
+        "value": "የውልደት ቀን"
+      }
+    ],
+    "sma": [
+      {
+        "language": "sma",
+        "value": "reakadaehtemesaejkie"
+      },
+      {
+        "language": "sma",
+        "value": "reakedsbiejjie"
+      }
+    ],
+    "be-tarask": [
+      {
+        "language": "be-tarask",
+        "value": "нарадзіўся"
+      },
+      {
+        "language": "be-tarask",
+        "value": "нарадзілася"
+      },
+      {
+        "language": "be-tarask",
+        "value": "дзень, месяц, год нараджэньня"
+      }
+    ],
+    "nqo": [
+      {
+        "language": "nqo",
+        "value": "ߊ߬ ߡߏߦߌ߫ ߕߎߡߊ"
+      },
+      {
+        "language": "nqo",
+        "value": "ߛߐ߬ߘߐ߲߬ ߕߎߡߊ"
+      },
+      {
+        "language": "nqo",
+        "value": "ߊ߬ ߛߐ߬ߘߐ߲߬ ߘߊ߫"
+      }
+    ],
+    "pl": [
+      {
+        "language": "pl",
+        "value": "urodzony"
+      },
+      {
+        "language": "pl",
+        "value": "urodzony dnia"
+      }
+    ],
+    "en-gb": [
+      {
+        "language": "en-gb",
+        "value": "born on"
+      },
+      {
+        "language": "en-gb",
+        "value": "birth date"
+      },
+      {
+        "language": "en-gb",
+        "value": "birthdate"
+      },
+      {
+        "language": "en-gb",
+        "value": "birth year"
+      },
+      {
+        "language": "en-gb",
+        "value": "year of birth"
+      },
+      {
+        "language": "en-gb",
+        "value": "birthyear"
+      },
+      {
+        "language": "en-gb",
+        "value": "DOB"
+      }
+    ],
+    "smn": [
+      {
+        "language": "smn",
+        "value": "šoddâmpeivi"
+      }
+    ],
+    "kk": [
+      {
+        "language": "kk",
+        "value": "туған күні"
+      }
+    ],
+    "si": [
+      {
+        "language": "si",
+        "value": "උපත ලැබූයේ"
+      },
+      {
+        "language": "si",
+        "value": "උපන් දිනය"
+      },
+      {
+        "language": "si",
+        "value": "උපත"
+      },
+      {
+        "language": "si",
+        "value": "උපන් වර්ෂය"
+      }
+    ],
+    "pt-br": [
+      {
+        "language": "pt-br",
+        "value": "nasceu em"
+      },
+      {
+        "language": "pt-br",
+        "value": "ano de nascimento"
+      }
+    ],
+    "szl": [
+      {
+        "language": "szl",
+        "value": "data rodzyniyŏ"
+      }
+    ]
+  },
+  "claims": {
+    "P1629": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1629",
+          "hash": "dc757db43e9e2afdc76095a8266d90319f6162af",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 2389905,
+              "id": "Q2389905"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "P569$5d6f453d-4014-5287-48a4-4e91d4f684ea",
+        "rank": "normal"
+      }
+    ],
+    "P1647": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1647",
+          "hash": "d37452109a70ee5c52febd4e8caadd932cd790e9",
+          "datavalue": {
+            "value": {
+              "entity-type": "property",
+              "numeric-id": 571,
+              "id": "P571"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-property"
+        },
+        "type": "statement",
+        "id": "P569$206f30cf-4088-2582-ed68-bda5c01cdfcd",
+        "rank": "normal"
+      }
+    ],
+    "P31": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "20bc2e1f66eec7168cee39fd955835940bca7e4f",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 18608756,
+              "id": "Q18608756"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "P569$19287eba-486b-c5ce-5583-0116242a2870",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "4a27895ea5f7a284b22723e3a68f3c63340f0a87",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 18636219,
+              "id": "Q18636219"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "P569$33cdb642-46b7-ce64-0dd9-a7c538815ea8",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "dd10d0e7f8d79216abec265a81f36fff151d7f40",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 18668171,
+              "id": "Q18668171"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "P569$850451ef-4b34-5c56-6247-bde96b27e901",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "cda190af3cd4cf2165f79a68f635e8bb6b667659",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 26935994,
+              "id": "Q26935994"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "P569$1c1dfebb-4a85-20ed-426d-e42fc12f2c60",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "d8457d9d1fba60630ec5ac970e1d065b28459ee3",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 18608871,
+              "id": "Q18608871"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "P569$b21fc7e0-4796-d8d8-bc12-9e47f1cd82ac",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "c9f27c1ae6647352df164b462a24c98db4d2c2ec",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 99567026,
+              "id": "Q99567026"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "P569$fc77c24f-4310-4b0f-82cc-07f94034fb0d",
+        "rank": "normal"
+      }
+    ],
+    "P1628": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1628",
+          "hash": "c386564389135d5b192aa1a5aa89fc8e98a77655",
+          "datavalue": {
+            "value": "https://schema.org/birthDate",
+            "type": "string"
+          },
+          "datatype": "url"
+        },
+        "type": "statement",
+        "id": "P569$63dbadbb-4306-1b15-41a9-eae92aab0db0",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1628",
+          "hash": "ce8183c1fb7d4212b053c88295fd4c5fd4d26bca",
+          "datavalue": {
+            "value": "http://www.w3.org/2006/vcard/ns#bday",
+            "type": "string"
+          },
+          "datatype": "url"
+        },
+        "type": "statement",
+        "id": "P569$48460223-4a89-a16a-0eeb-0c7dc8438ae3",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1628",
+          "hash": "df6eee2d0d6534021dfb7f447b8affdbb1ffdc4a",
+          "datavalue": {
+            "value": "http://www.loc.gov/standards/mads/rdf/v1.rdf#birthDate",
+            "type": "string"
+          },
+          "datatype": "url"
+        },
+        "type": "statement",
+        "id": "P569$eff47498-4f48-04b2-fb00-b80f1ccaf8d9",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1628",
+          "hash": "899ebb9c02c1ef02940e3ee2306c21e9cddbe2f1",
+          "datavalue": {
+            "value": "http://dbpedia.org/ontology/birthDate",
+            "type": "string"
+          },
+          "datatype": "url"
+        },
+        "type": "statement",
+        "id": "P569$5b9be534-4ba4-dc02-88d0-12942e5b1e1a",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1628",
+          "hash": "db09250c51890f7dbf1e1cf755b20d68c7c4d725",
+          "datavalue": {
+            "value": "http://d-nb.info/standards/elementset/gnd#dateOfBirth",
+            "type": "string"
+          },
+          "datatype": "url"
+        },
+        "type": "statement",
+        "id": "P569$5d29287b-46d4-cb8f-8fb3-e8eae3fa0f5e",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1628",
+          "hash": "e70a2d448ea547998195f70ba1fe2d6e818ae647",
+          "datavalue": {
+            "value": "http://purl.bdrc.io/ontology/core/PersonBirth",
+            "type": "string"
+          },
+          "datatype": "url"
+        },
+        "type": "statement",
+        "id": "P569$24dade93-4181-ed0b-852a-6015b1522010",
+        "rank": "normal"
+      }
+    ],
+    "P1855": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1855",
+          "hash": "3410db851c1c3186f791373cf214a757930d2b88",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 160432,
+              "id": "Q160432"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P569": [
+            {
+              "snaktype": "value",
+              "property": "P569",
+              "hash": "1c889cfb695c381f9b21b5840a95a51dbeed1604",
+              "datavalue": {
+                "value": {
+                  "time": "+1972-12-29T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P569"
+        ],
+        "id": "P569$6c38e671-40f3-30ca-a3d3-74f3a4d0c050",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "274565d7568c32a4ecb6b04d940e94ee9bcb90b8",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "019a50b7de741e0068bde41c9d9955b22a5de47b",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 36578,
+                      "id": "Q36578"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "ef249f1bd8d424eb840b8aaa6e27406259589b0b",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2014-04-26T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P813"
+            ]
+          },
+          {
+            "hash": "a2ad5e7038c3fd3eb898ec7ea7b7de6926d2c880",
+            "snaks": {
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "446d81554312123a8b75a0e6064d01da0141500c",
+                  "datavalue": {
+                    "value": "http://www.screenonline.org.uk/people/id/482080",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "6b5c17efb49b6196d8f56b66b6d094bb180a460c",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2017-07-13T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854",
+              "P813"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1855",
+          "hash": "a2c042bcc46ac483247ae47ae086eb3e58e6f36d",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 935,
+              "id": "Q935"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P569": [
+            {
+              "snaktype": "value",
+              "property": "P569",
+              "hash": "7ff21803ddda48799baeceaef15ba27f2ae23346",
+              "datavalue": {
+                "value": {
+                  "time": "+1642-12-25T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P569"
+        ],
+        "id": "P569$ffd71dca-477a-b7cd-0610-5ce0eefb5d4d",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "51e9b2ce443d9376663dc87b117e7926a15fef99",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "035f8e4b6d8120dfcd781290953e04e396a0deaa",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 19025604,
+                      "id": "Q19025604"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1855",
+          "hash": "bdf06ee3d210e5d051ce07428f0e552287bc2f9d",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 17386627,
+              "id": "Q17386627"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P569": [
+            {
+              "snaktype": "value",
+              "property": "P569",
+              "hash": "c1843c1fc5629b60320749dc7b69815ff13a066c",
+              "datavalue": {
+                "value": {
+                  "time": "+1855-00-00T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 9,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            },
+            {
+              "snaktype": "value",
+              "property": "P569",
+              "hash": "04e2e99fc25a4ad48d4f4e8ba3e2613ae537e08d",
+              "datavalue": {
+                "value": {
+                  "time": "+1857-00-00T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 9,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            },
+            {
+              "snaktype": "value",
+              "property": "P569",
+              "hash": "0ed66564a10dccff93318563820256938abd0ba4",
+              "datavalue": {
+                "value": {
+                  "time": "+1859-00-00T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 9,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P569"
+        ],
+        "id": "P569$261ea00f-40a9-24cf-db37-fb3d50bffd2f",
+        "rank": "normal"
+      }
+    ],
+    "P1659": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1659",
+          "hash": "63620766e54d52104d8a862a92c309aa8e5b456d",
+          "datavalue": {
+            "value": {
+              "entity-type": "property",
+              "numeric-id": 1636,
+              "id": "P1636"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-property"
+        },
+        "type": "statement",
+        "id": "P569$421910d9-46f1-806c-c035-5e3956066dc7",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1659",
+          "hash": "678979dd8b23e9eec111aaf368aed3e518344703",
+          "datavalue": {
+            "value": {
+              "entity-type": "property",
+              "numeric-id": 3150,
+              "id": "P3150"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-property"
+        },
+        "type": "statement",
+        "id": "P569$c3657f00-4a60-bd12-358d-7d9287eee741",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1659",
+          "hash": "c548fbe8985c0c4f5384e8f3a4b08976a056f6c9",
+          "datavalue": {
+            "value": {
+              "entity-type": "property",
+              "numeric-id": 1317,
+              "id": "P1317"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-property"
+        },
+        "type": "statement",
+        "id": "P569$5ed8eb05-4b28-0082-d680-6e8c0b00bed6",
+        "rank": "normal"
+      }
+    ],
+    "P2668": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2668",
+          "hash": "fcf4a281bf22df2715772baf769e3af6f4868325",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 23611288,
+              "id": "Q23611288"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "P569$6564d737-4d31-305b-a830-2a526f3fb29e",
+        "rank": "normal"
+      }
+    ],
+    "P2875": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2875",
+          "hash": "85029226f0b5b25fa5ea0bc2cef12ebdcaf4c49c",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 21096033,
+              "id": "Q21096033"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "P569$2b41d520-48b4-6023-5e12-97adb51cfb1a",
+        "rank": "normal"
+      }
+    ],
+    "P2559": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2559",
+          "hash": "d4ae7d19c6ced874b9d7e320d8264df5d3cbf91f",
+          "datavalue": {
+            "value": {
+              "text": "태어난 연도가 없거나 기록이 없어 태어난 달과 일만 있는 경우 이 속성 대신 P3150(태어난 월·일)을 사용하세요.",
+              "language": "ko"
+            },
+            "type": "monolingualtext"
+          },
+          "datatype": "monolingualtext"
+        },
+        "type": "statement",
+        "id": "P569$dec88c7f-4efd-e034-0f45-c0713173285f",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2559",
+          "hash": "5fedb9f754bce336f3300b1f60098cbcbd94ef43",
+          "datavalue": {
+            "value": {
+              "text": "Utilitzeu P3150 (mes/dia nascut) en lloc d’aquest atribut si només teniu el mes i el dia del naixement perquè no hi ha anys de naixement ni registres.",
+              "language": "ca"
+            },
+            "type": "monolingualtext"
+          },
+          "datatype": "monolingualtext"
+        },
+        "type": "statement",
+        "id": "P569$7d491a73-49e2-695a-884f-8eaae02c21db",
+        "rank": "normal"
+      }
+    ],
+    "P3713": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3713",
+          "hash": "54d3a003de95c5ea74eaf0eb9bf4b23b20306143",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 19332015,
+              "id": "Q19332015"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "P569$2834bc88-4a2b-e3f6-6014-4136b2eb06e0",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3713",
+          "hash": "b3f268cdb3026b7517b749e5acef2040f78c94eb",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 28858522,
+              "id": "Q28858522"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "P569$d9071eda-47f7-32e8-0307-b2b600492587",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3713",
+          "hash": "c97322e58728335a2febba07a6e82fecef0ee633",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 39599131,
+              "id": "Q39599131"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "P569$65cccf64-4440-8ded-ef61-2fb5e6b16a22",
+        "rank": "normal"
+      }
+    ],
+    "P3709": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3709",
+          "hash": "d778381c63017269c51d1e8612158f0d00ea3db9",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 19332014,
+              "id": "Q19332014"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "P569$9E1F328E-2CEE-47E4-9F23-3479B2665302",
+        "rank": "normal"
+      }
+    ],
+    "P3734": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3734",
+          "hash": "ddac70bdc66b70f863a706f8bbedd51748307c4a",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 19332013,
+              "id": "Q19332013"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "P569$68DA336C-F686-408F-A304-97DB7EF18411",
+        "rank": "normal"
+      }
+    ],
+    "P3254": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3254",
+          "hash": "eb41229d5646b77d7426a23efbb3fd4f213e8856",
+          "datavalue": {
+            "value": "https://www.wikidata.org/wiki/Wikidata:Property_proposal/Archive/8#P569",
+            "type": "string"
+          },
+          "datatype": "url"
+        },
+        "type": "statement",
+        "id": "P569$3504C32B-B3DC-44FC-8AC0-165F6AEDE1BA",
+        "rank": "normal"
+      }
+    ],
+    "P2302": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2302",
+          "hash": "60d5b5bf5da8d7ec1e010402497e0015713c2bbf",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 21502838,
+              "id": "Q21502838"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P2306": [
+            {
+              "snaktype": "value",
+              "property": "P2306",
+              "hash": "135fa1d96f9b1950a098fe5413d08aa1cbdfebea",
+              "datavalue": {
+                "value": {
+                  "entity-type": "property",
+                  "numeric-id": 527,
+                  "id": "P527"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-property"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2306"
+        ],
+        "id": "P569$1EDC24A8-AF33-4793-84DD-71EF1C5D82F3",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2302",
+          "hash": "60d5b5bf5da8d7ec1e010402497e0015713c2bbf",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 21502838,
+              "id": "Q21502838"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P2306": [
+            {
+              "snaktype": "value",
+              "property": "P2306",
+              "hash": "c80b10b5e1e231d8fb29c63903aa48da0afe0b3e",
+              "datavalue": {
+                "value": {
+                  "entity-type": "property",
+                  "numeric-id": 31,
+                  "id": "P31"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-property"
+            }
+          ],
+          "P2305": [
+            {
+              "snaktype": "value",
+              "property": "P2305",
+              "hash": "aff405ed933c09ed4066008fd8eb420c9b15c5cd",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 14756018,
+                  "id": "Q14756018"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            {
+              "snaktype": "value",
+              "property": "P2305",
+              "hash": "e6c0f9317791ced1f7d23f1a3bce995d8b7aeaaf",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 14073567,
+                  "id": "Q14073567"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            {
+              "snaktype": "value",
+              "property": "P2305",
+              "hash": "bef2f53f1856d0b9a98de473de62b3a308b53844",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 4167410,
+                  "id": "Q4167410"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            {
+              "snaktype": "value",
+              "property": "P2305",
+              "hash": "856748f0ddd6fe68513c4edbd12ed1b504efa01b",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 21286738,
+                  "id": "Q21286738"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            {
+              "snaktype": "value",
+              "property": "P2305",
+              "hash": "526298952ddbd7bc753ee2bdcf41363a98b51b49",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 13406463,
+                  "id": "Q13406463"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            {
+              "snaktype": "value",
+              "property": "P2305",
+              "hash": "11d9cba13aab6ad60a9d87f116837221b01efa59",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 11415657,
+                  "id": "Q11415657"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2306",
+          "P2305"
+        ],
+        "id": "P569$63F827DF-6B60-4127-93D0-0BDFAAF3AE95",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2302",
+          "hash": "a00327947c6d834f33f6ee14916142d6a2008aef",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 21503250,
+              "id": "Q21503250"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P2308": [
+            {
+              "snaktype": "value",
+              "property": "P2308",
+              "hash": "6507af56cd83ccb72044b460a8b439e1746afa1a",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 5,
+                  "id": "Q5"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            {
+              "snaktype": "value",
+              "property": "P2308",
+              "hash": "265ccfbd021a4e58e205b62e064241f92d425a71",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 95074,
+                  "id": "Q95074"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            {
+              "snaktype": "value",
+              "property": "P2308",
+              "hash": "8fb11bc554d5656aa1dca5247468e1c922a65650",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 21070568,
+                  "id": "Q21070568"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            {
+              "snaktype": "value",
+              "property": "P2308",
+              "hash": "3ae93bf3eab4d59439c177a20577adc808890769",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 16521,
+                  "id": "Q16521"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            {
+              "snaktype": "value",
+              "property": "P2308",
+              "hash": "944c3dc4489dea9300601999f4504cfa98415b70",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 146,
+                  "id": "Q146"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            {
+              "snaktype": "value",
+              "property": "P2308",
+              "hash": "953991dd29c19ed25ab09d6f418310fcd4180a67",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 144,
+                  "id": "Q144"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            {
+              "snaktype": "value",
+              "property": "P2308",
+              "hash": "30bd858a0e6c98eddcb8b06e30ac4c2950742e7e",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 726,
+                  "id": "Q726"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            {
+              "snaktype": "value",
+              "property": "P2308",
+              "hash": "346231e40fcd21256f0e6abf53da80f688998847",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 7378,
+                  "id": "Q7378"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            {
+              "snaktype": "value",
+              "property": "P2308",
+              "hash": "97ef25b1ec442edff7178e3a12a28004ce345471",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 36341,
+                  "id": "Q36341"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            {
+              "snaktype": "value",
+              "property": "P2308",
+              "hash": "8294c1375e3ec777252a2549c48c05a1840b4ad2",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 69581,
+                  "id": "Q69581"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            {
+              "snaktype": "value",
+              "property": "P2308",
+              "hash": "30ba9823c45e304ca0ffabc2621029f096a0594b",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 19537,
+                  "id": "Q19537"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            {
+              "snaktype": "value",
+              "property": "P2308",
+              "hash": "4426085c2eb396680ff37b95b828c7ea7cfabcf3",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 756,
+                  "id": "Q756"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            {
+              "snaktype": "value",
+              "property": "P2308",
+              "hash": "27472c4e16c7f3d6b3be9712ec9d21ece67b363d",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 80174,
+                  "id": "Q80174"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            {
+              "snaktype": "value",
+              "property": "P2308",
+              "hash": "8e99c5c44e0259c381ef48cbdd8dc11a755353af",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 729,
+                  "id": "Q729"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            {
+              "snaktype": "value",
+              "property": "P2308",
+              "hash": "80d77ba430f080650681511fea1747a06a58e6a3",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 3542731,
+                  "id": "Q3542731"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            {
+              "snaktype": "value",
+              "property": "P2308",
+              "hash": "d463cf60fa9c52bf6b543ebfc1899b358fc009ed",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 30017383,
+                  "id": "Q30017383"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            {
+              "snaktype": "value",
+              "property": "P2308",
+              "hash": "b5ecce2fa0f76f3cee1c5f0434b27f2b2e70f928",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 13002315,
+                  "id": "Q13002315"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            {
+              "snaktype": "value",
+              "property": "P2308",
+              "hash": "2add71cb9d84d441dceececa6ea056dd7730a756",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 75855169,
+                  "id": "Q75855169"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            {
+              "snaktype": "value",
+              "property": "P2308",
+              "hash": "dd713466c1774ba53762c13e94e204b45b69cbdb",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 64520857,
+                  "id": "Q64520857"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            {
+              "snaktype": "value",
+              "property": "P2308",
+              "hash": "1b7ce0765acbe249204a0e512af0e16ffe148ced",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 64643615,
+                  "id": "Q64643615"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            {
+              "snaktype": "value",
+              "property": "P2308",
+              "hash": "f8b1711019e7c958b8de192e2404a851632f36a7",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 504549,
+                  "id": "Q504549"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ],
+          "P2309": [
+            {
+              "snaktype": "value",
+              "property": "P2309",
+              "hash": "8d7afee22e0fa6211dd8c95f247e1dd7b38daf70",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 21503252,
+                  "id": "Q21503252"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2308",
+          "P2309"
+        ],
+        "id": "P569$F9768BAA-6BB3-4710-A3E1-B6FB9432D372",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2302",
+          "hash": "55cfe775ff19641cea395be018002e38e05f3749",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 21510851,
+              "id": "Q21510851"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P2306": [
+            {
+              "snaktype": "value",
+              "property": "P2306",
+              "hash": "be1d594833a46a2d62fbb802d7ec5016492048ad",
+              "datavalue": {
+                "value": {
+                  "entity-type": "property",
+                  "numeric-id": 459,
+                  "id": "P459"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-property"
+            },
+            {
+              "snaktype": "value",
+              "property": "P2306",
+              "hash": "2e18321c3a46b7363d2f5e5c5cd2bedf0a657f2f",
+              "datavalue": {
+                "value": {
+                  "entity-type": "property",
+                  "numeric-id": 805,
+                  "id": "P805"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-property"
+            },
+            {
+              "snaktype": "value",
+              "property": "P2306",
+              "hash": "6eeaa51d92d4ca0b22cab4a42ed6391e6f5384a3",
+              "datavalue": {
+                "value": {
+                  "entity-type": "property",
+                  "numeric-id": 1319,
+                  "id": "P1319"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-property"
+            },
+            {
+              "snaktype": "value",
+              "property": "P2306",
+              "hash": "ca8f5cd1825e3555f7f4f37815cf26faf26ba497",
+              "datavalue": {
+                "value": {
+                  "entity-type": "property",
+                  "numeric-id": 1326,
+                  "id": "P1326"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-property"
+            },
+            {
+              "snaktype": "value",
+              "property": "P2306",
+              "hash": "2f777715c930343f155ccefd774889caa390243d",
+              "datavalue": {
+                "value": {
+                  "entity-type": "property",
+                  "numeric-id": 1480,
+                  "id": "P1480"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-property"
+            },
+            {
+              "snaktype": "value",
+              "property": "P2306",
+              "hash": "f953abe6217ec939277937890ad3c37bb02f8da8",
+              "datavalue": {
+                "value": {
+                  "entity-type": "property",
+                  "numeric-id": 1013,
+                  "id": "P1013"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-property"
+            },
+            {
+              "snaktype": "value",
+              "property": "P2306",
+              "hash": "50dff7ea0eeaa59ae5e0f26edcd8dfec54decfe3",
+              "datavalue": {
+                "value": {
+                  "entity-type": "property",
+                  "numeric-id": 2241,
+                  "id": "P2241"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-property"
+            },
+            {
+              "snaktype": "value",
+              "property": "P2306",
+              "hash": "3238bb76a647551b4d78a40a1737060935dcd817",
+              "datavalue": {
+                "value": {
+                  "entity-type": "property",
+                  "numeric-id": 1310,
+                  "id": "P1310"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-property"
+            },
+            {
+              "snaktype": "value",
+              "property": "P2306",
+              "hash": "8e316d24d48d8d16f809340c3080366ce65e70c1",
+              "datavalue": {
+                "value": {
+                  "entity-type": "property",
+                  "numeric-id": 4241,
+                  "id": "P4241"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-property"
+            },
+            {
+              "snaktype": "value",
+              "property": "P2306",
+              "hash": "fc6d31c96643c8699361b6e0e9cc09c2c5f01b2f",
+              "datavalue": {
+                "value": {
+                  "entity-type": "property",
+                  "numeric-id": 4895,
+                  "id": "P4895"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-property"
+            },
+            {
+              "snaktype": "value",
+              "property": "P2306",
+              "hash": "48eafc730fd2602ef1b89992504db486f8385d7c",
+              "datavalue": {
+                "value": {
+                  "entity-type": "property",
+                  "numeric-id": 5102,
+                  "id": "P5102"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-property"
+            },
+            {
+              "snaktype": "value",
+              "property": "P2306",
+              "hash": "b950a6630fbef5c430aa19f8b98d3f1fd639ba5d",
+              "datavalue": {
+                "value": {
+                  "entity-type": "property",
+                  "numeric-id": 3680,
+                  "id": "P3680"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-property"
+            },
+            {
+              "snaktype": "value",
+              "property": "P2306",
+              "hash": "bb60893dbc6e431b5d9da46aba3ad4026bf6a460",
+              "datavalue": {
+                "value": {
+                  "entity-type": "property",
+                  "numeric-id": 421,
+                  "id": "P421"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-property"
+            },
+            {
+              "snaktype": "value",
+              "property": "P2306",
+              "hash": "4cdf691ed4ba8223c0d293273cb81acebcf6e111",
+              "datavalue": {
+                "value": {
+                  "entity-type": "property",
+                  "numeric-id": 7452,
+                  "id": "P7452"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-property"
+            },
+            {
+              "snaktype": "value",
+              "property": "P2306",
+              "hash": "953efef50f83bb75e15ccaf4a702a566cd9dafe0",
+              "datavalue": {
+                "value": {
+                  "entity-type": "property",
+                  "numeric-id": 1932,
+                  "id": "P1932"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-property"
+            }
+          ],
+          "P2303": [
+            {
+              "snaktype": "value",
+              "property": "P2303",
+              "hash": "f35826d2f3b3e8054fa2289e642f69d6110998e0",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 64605023,
+                  "id": "Q64605023"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2306",
+          "P2303"
+        ],
+        "id": "P569$DEE5F4A2-A7A9-4E6E-B307-7C2AF679118F",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2302",
+          "hash": "ebdfa0ec216b8763162f0028878b1c5ed9978c47",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 21510860,
+              "id": "Q21510860"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P2311": [
+            {
+              "snaktype": "somevalue",
+              "property": "P2311",
+              "hash": "2c4ae77a1946b0c01d6dba403eadf9c51b52b2b9",
+              "datatype": "time"
+            }
+          ],
+          "P2303": [
+            {
+              "snaktype": "value",
+              "property": "P2303",
+              "hash": "e2780159133ec56eb3abacd4d19861fbf44cc7b8",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 121841,
+                  "id": "Q121841"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            {
+              "snaktype": "value",
+              "property": "P2303",
+              "hash": "64423d9fe9a062e843473231d97c3472ade452c9",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 2715136,
+                  "id": "Q2715136"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            {
+              "snaktype": "value",
+              "property": "P2303",
+              "hash": "222661e08203a9422d5254c91d7c666c8b45b985",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 61890789,
+                  "id": "Q61890789"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            {
+              "snaktype": "value",
+              "property": "P2303",
+              "hash": "13c47186763c1c69599992351128b6ea5d29a129",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 61892615,
+                  "id": "Q61892615"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            {
+              "snaktype": "value",
+              "property": "P2303",
+              "hash": "4712a1acea69c05e851b44ab5d55125badb2bb77",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 16499517,
+                  "id": "Q16499517"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ],
+          "P2310": [
+            {
+              "snaktype": "value",
+              "property": "P2310",
+              "hash": "2e15a01bb1279072c70ce73c0c78b2e82ebe1e4e",
+              "datavalue": {
+                "value": {
+                  "time": "-3200000-00-00T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 4,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            }
+          ],
+          "P6607": [
+            {
+              "snaktype": "value",
+              "property": "P6607",
+              "hash": "920228d51bb0d8d72e3cc544f2188539bd4a1744",
+              "datavalue": {
+                "value": {
+                  "text": "fictional characters may have dates in the future",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            {
+              "snaktype": "value",
+              "property": "P6607",
+              "hash": "6b7b3d90e6e6491572bbf452cda4aa4d22645879",
+              "datavalue": {
+                "value": {
+                  "text": "虛構人物可能在將來的日期",
+                  "language": "zh-hant"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2311",
+          "P2303",
+          "P2310",
+          "P6607"
+        ],
+        "id": "P569$4a3f7c62-4914-e837-eb5f-c75abf8ddd3e",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2302",
+          "hash": "fede01024807ea412f925e250a71651eda314b38",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 21503247,
+              "id": "Q21503247"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P2306": [
+            {
+              "snaktype": "value",
+              "property": "P2306",
+              "hash": "21c87926e14a7bd789f713f8a33550c03cc73cdc",
+              "datavalue": {
+                "value": {
+                  "entity-type": "property",
+                  "numeric-id": 21,
+                  "id": "P21"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-property"
+            }
+          ],
+          "P2316": [
+            {
+              "snaktype": "value",
+              "property": "P2316",
+              "hash": "0b5129f8885b62f5606bb8acf8d7c40022ac2f8e",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 62026391,
+                  "id": "Q62026391"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2306",
+          "P2316"
+        ],
+        "id": "P569$7c8cff90-4600-e822-788f-1a36f9ddd8cb",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2302",
+          "hash": "53d308536f097808b330155b19a3241548159443",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 52060874,
+              "id": "Q52060874"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P2316": [
+            {
+              "snaktype": "value",
+              "property": "P2316",
+              "hash": "0b5129f8885b62f5606bb8acf8d7c40022ac2f8e",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 62026391,
+                  "id": "Q62026391"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2316"
+        ],
+        "id": "P569$1d3921a9-44ff-d2aa-af55-ecd3829020bb",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2302",
+          "hash": "047db9950aaf65ff9b7f3e69dbfdee7e48c77b68",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 54554025,
+              "id": "Q54554025"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P2316": [
+            {
+              "snaktype": "value",
+              "property": "P2316",
+              "hash": "0b5129f8885b62f5606bb8acf8d7c40022ac2f8e",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 62026391,
+                  "id": "Q62026391"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2316"
+        ],
+        "id": "P569$960c1d3c-4198-6f97-ee00-899f149c0a7e",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2302",
+          "hash": "60d5b5bf5da8d7ec1e010402497e0015713c2bbf",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 21502838,
+              "id": "Q21502838"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P2306": [
+            {
+              "snaktype": "value",
+              "property": "P2306",
+              "hash": "c80b10b5e1e231d8fb29c63903aa48da0afe0b3e",
+              "datavalue": {
+                "value": {
+                  "entity-type": "property",
+                  "numeric-id": 31,
+                  "id": "P31"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-property"
+            }
+          ],
+          "P2305": [
+            {
+              "snaktype": "value",
+              "property": "P2305",
+              "hash": "39169d157406d3a04a49a86afecdbedb241f57c8",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 15623926,
+                  "id": "Q15623926"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ],
+          "P2316": [
+            {
+              "snaktype": "value",
+              "property": "P2316",
+              "hash": "d50c571a43e6102d65b729ccc7049a0a2f867e34",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 21502408,
+                  "id": "Q21502408"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2306",
+          "P2305",
+          "P2316"
+        ],
+        "id": "P569$bc083219-4bb5-3724-d1fd-859b93db17b1",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2302",
+          "hash": "eba677434c5f12338ab5fd1ce6a834ab3139856a",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 52004125,
+              "id": "Q52004125"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P2305": [
+            {
+              "snaktype": "value",
+              "property": "P2305",
+              "hash": "76a83209b6ab9e5ea1a1dd8e2986281a5a0479d7",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 29934200,
+                  "id": "Q29934200"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2305"
+        ],
+        "id": "P569$3cd48a2d-4a05-6a80-35ab-03b1016114c0",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2302",
+          "hash": "793a77bb61b7ab2ebc9b8ef826c2c4c236eeccc1",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 53869507,
+              "id": "Q53869507"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P5314": [
+            {
+              "snaktype": "value",
+              "property": "P5314",
+              "hash": "a0202111cb525ed31611bf926974b74a2419b8ab",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 54828448,
+                  "id": "Q54828448"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            {
+              "snaktype": "value",
+              "property": "P5314",
+              "hash": "7f0b21bf6bef1987059626f383a532cf4375deb1",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 54828449,
+                  "id": "Q54828449"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P5314"
+        ],
+        "id": "P569$7c9d5c09-4728-2565-1df5-c43696314f29",
+        "rank": "normal"
+      }
+    ],
+    "P2354": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2354",
+          "hash": "00ac7708fd163b617b27815486782f4941ad2e22",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 21540125,
+              "id": "Q21540125"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "P569$4a520801-40be-5fa1-2a4b-fde3d767032a",
+        "rank": "normal"
+      }
+    ],
+    "P2521": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2521",
+          "hash": "54460fcb0a653f9e363db19e37d01c793bc1454b",
+          "datavalue": {
+            "value": {
+              "text": "nata",
+              "language": "la"
+            },
+            "type": "monolingualtext"
+          },
+          "datatype": "monolingualtext"
+        },
+        "type": "statement",
+        "id": "P569$f6734e0c-44eb-44ab-f698-319a0b61a854",
+        "rank": "normal"
+      }
+    ],
+    "P3321": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3321",
+          "hash": "e7faaca3075462581b38a5b83a189246da12c8ba",
+          "datavalue": {
+            "value": {
+              "text": "natus",
+              "language": "la"
+            },
+            "type": "monolingualtext"
+          },
+          "datatype": "monolingualtext"
+        },
+        "type": "statement",
+        "id": "P569$231589f1-4b79-07a3-8e15-f7733265b718",
+        "rank": "normal"
+      }
+    ],
+    "P7964": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P7964",
+          "hash": "83de87a75fae6ea57a7616d406227a577d58126b",
+          "datavalue": {
+            "value": "bday",
+            "type": "string"
+          },
+          "datatype": "string"
+        },
+        "type": "statement",
+        "id": "P569$ef1a8da8-4094-4a73-467b-41aa47dd34b5",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "9dc185a20523321f133af9d5d271b8e3c073fb82",
+            "snaks": {
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "2fac4f94fb663a0a6375ed5ba3afe9c2d57ace94",
+                  "datavalue": {
+                    "value": "https://www.w3.org/TR/2017/REC-html52-20171214/sec-forms.html#sec-autofill",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "c953d845e691c76021eb2c47c2989f57ccd37a20",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2020-03-17T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ],
+    "P1813": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1813",
+          "hash": "6fe1206a623a8c7c7704195629bca2cbb21c2679",
+          "datavalue": {
+            "value": {
+              "text": "född",
+              "language": "sv"
+            },
+            "type": "monolingualtext"
+          },
+          "datatype": "monolingualtext"
+        },
+        "type": "statement",
+        "id": "P569$90177b57-442c-ba9f-14c5-46d490770990",
+        "rank": "normal"
+      }
+    ],
+    "P8274": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8274",
+          "hash": "28b142eea3ea0644417d567b226afde88048f0f7",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 44601380,
+              "id": "Q44601380"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "P569$5905872A-06CB-4150-B8A1-437B4E716568",
+        "rank": "normal"
+      }
+    ],
+    "P8379": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8379",
+          "hash": "a1e643b7ceff1f32bddb02dfc946eff3547cc105",
+          "datavalue": {
+            "value": {
+              "entity-type": "property",
+              "numeric-id": 1480,
+              "id": "P1480"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-property"
+        },
+        "type": "statement",
+        "id": "P569$24e16b0c-400b-c92f-cdb4-24cbfb177294",
+        "rank": "normal"
+      }
+    ],
+    "P8882": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8882",
+          "hash": "6845884c6b2abfbfe12c90366fa7132f7c5cb8ab",
+          "datavalue": {
+            "value": {
+              "entity-type": "property",
+              "numeric-id": 570,
+              "id": "P570"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-property"
+        },
+        "type": "statement",
+        "id": "P569$52C173BC-0945-48DB-BDF7-F7330B3ABE63",
+        "rank": "normal"
+      }
+    ]
+  }
 }

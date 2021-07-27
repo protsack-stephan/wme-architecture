@@ -1,5 +1,2742 @@
 {
-  "identifier": "Q105584",
   "name": "Rotten Tomatoes",
-  "url": "https://www.wikidata.org/entity/Q105584"
+  "identifier": "Q105584",
+  "url": "https://www.wikidata.org/entity/Q105584",
+  "date_modified": "2021-07-21T15:36:00Z",
+  "type": "item",
+  "labels": {
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "烂番茄"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "爛番茄"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "爛番茄"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "烂番茄"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "烂番茄"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "爛番茄"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Rotten Tomatoes"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "로튼 토마토"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Rotten Tomatoes"
+    },
+    "he": {
+      "language": "he",
+      "value": "Rotten Tomatoes"
+    },
+    "be": {
+      "language": "be",
+      "value": "Rotten Tomatoes"
+    },
+    "es": {
+      "language": "es",
+      "value": "Rotten Tomatoes"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Rotten Tomatoes"
+    },
+    "it": {
+      "language": "it",
+      "value": "Rotten Tomatoes"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Rotten Tomatoes"
+    },
+    "id": {
+      "language": "id",
+      "value": "Rotten Tomatoes"
+    },
+    "de": {
+      "language": "de",
+      "value": "Rotten Tomatoes"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "Rotten Tomatoes"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "রটেন টম্যাটোস"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "റോട്ടൻ ടൊമാറ്റോസ്"
+    },
+    "el": {
+      "language": "el",
+      "value": "Rotten Tomatoes"
+    },
+    "en": {
+      "language": "en",
+      "value": "Rotten Tomatoes"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Rotten Tomatoes"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Rotten Tomatoes"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "روتن توميتوز"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Rotten Tomatoes"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Rotten Tomatoes"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Rotten Tomatoes"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Rotten Tomatoes"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Rotten Tomatoes"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Rotten Tomatoes"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Rotten Tomatoes"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Rotten Tomatoes"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Rotten Tomatoes"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Rotten Tomatoes"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Rotten Tomatoes"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Rotten Tomatoes"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "راتن تومیتوس"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "Rotten Tomatoes"
+    },
+    "az": {
+      "language": "az",
+      "value": "Rotten Tomatoes"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Rotten Tomatoes"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Rotten Tomatoes"
+    },
+    "da": {
+      "language": "da",
+      "value": "Rotten Tomatoes"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Rotten Tomatoes"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Rotten Tomatoes"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "爛番茄"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Rotten Tomatoes"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Rotten Tomatoes"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Rotten Tomatoes"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Rotten Tomatoes"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Rotten Tomatoes"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Rotten Tomatoes"
+    },
+    "th": {
+      "language": "th",
+      "value": "รอตเทนโทเมโทส์"
+    },
+    "af": {
+      "language": "af",
+      "value": "Rotten Tomatoes"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Rotten Tomatoes"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "அழுகியத் தக்காளிகள்"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "रॉटेन टमेटोज़"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "روٹن ٹماٹوز"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Rotten Tomatoes"
+    },
+    "xmf": {
+      "language": "xmf",
+      "value": "Rotten Tomatoes"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Rotten Tomatoes"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "Rotten Tomatoes"
+    },
+    "bho": {
+      "language": "bho",
+      "value": "रॉटन टोमैटोज"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Rotten Tomatoes"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Rotten Tomatoes"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Rotten Tomatoes"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Rotten Tomatoes"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Rotten Tomatoes"
+    },
+    "tt": {
+      "language": "tt",
+      "value": "Rotten Tomatoes"
+    },
+    "tt-cyrl": {
+      "language": "tt-cyrl",
+      "value": "Rotten Tomatoes"
+    },
+    "ky": {
+      "language": "ky",
+      "value": "Rotten Tomatoes"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Rotten Tomatoes"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "烂番茄"
+    },
+    "br": {
+      "language": "br",
+      "value": "Rotten Tomatoes"
+    },
+    "ba": {
+      "language": "ba",
+      "value": "Rotten Tomatoes"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Rotten Tomatoes"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Rotten Tomatoes"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "ڕاتن تۆمەیتۆز"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Rotten Tomatoes"
+    },
+    "ary": {
+      "language": "ary",
+      "value": "روتن توميتوز"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "爛番茄"
+    },
+    "bar": {
+      "language": "bar",
+      "value": "Rotten Tomatoes"
+    },
+    "de-at": {
+      "language": "de-at",
+      "value": "Rotten Tomatoes"
+    },
+    "et": {
+      "language": "et",
+      "value": "Rotten Tomatoes"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Rotten Tomatoes"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Rotten Tomatoes"
+    },
+    "is": {
+      "language": "is",
+      "value": "Rotten Tomatoes"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Rotten Tomatoes"
+    },
+    "nds-nl": {
+      "language": "nds-nl",
+      "value": "Rotten Tomatoes"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Rotten Tomatoes"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Rotten Tomatoes"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Rotten Tomatoes"
+    },
+    "ne": {
+      "language": "ne",
+      "value": "रोटन टमेटोज"
+    }
+  },
+  "descriptions": {
+    "fr": {
+      "language": "fr",
+      "value": "site Web de critiques de films"
+    },
+    "en": {
+      "language": "en",
+      "value": "American review aggregation website for film and television"
+    },
+    "it": {
+      "language": "it",
+      "value": "sito di recensioni cinematografiche"
+    },
+    "af": {
+      "language": "af",
+      "value": "webtuiste oor rolprente"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "retejo pri filmoj"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "website"
+    },
+    "es": {
+      "language": "es",
+      "value": "agregador de crítica estadounidense para cine y televisión, propiedad de Fandango"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Elokuvasivusto"
+    },
+    "de": {
+      "language": "de",
+      "value": "US-amerikanische Website, die Rezensionen von Filmen und Fernsehserien sammelt"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "موقع ويب متخصص بالافلام"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Агрегатор кіно- і теле- рецензій"
+    },
+    "he": {
+      "language": "he",
+      "value": "אתר אינטרנט לביקורות סרטים"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "американский интернет-агрегатор"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "en amerikansk nettside om film og TV"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "faqe interneti amerikane për rishikime për film dhe televizion"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "پایگاه اینترنتی آمریکایی که در آن کاربران فیلم‌ها و مجموعه‌ها را نقد می‌کنند و به آن‌ها نمره می‌دهند."
+    },
+    "ca": {
+      "language": "ca",
+      "value": "lloc web dedicat a la crítica i la informació sobre pel·lícules i videojocs"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "internetový agregátor filmových recenzí"
+    },
+    "el": {
+      "language": "el",
+      "value": "αμερικανικός ιστότοπος συγκέντρωσης κριτικών για ταινίες και τηλεοπτικές εκπομπές"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アメリカ合衆国の映画批評サイト"
+    }
+  },
+  "aliases": {
+    "zh": [
+      {
+        "language": "zh",
+        "value": "Rotten Tomatoes"
+      },
+      {
+        "language": "zh",
+        "value": "烂蕃茄"
+      },
+      {
+        "language": "zh",
+        "value": "爛蕃茄網站"
+      },
+      {
+        "language": "zh",
+        "value": "爛蕃茄"
+      },
+      {
+        "language": "zh",
+        "value": "金番茄獎"
+      }
+    ],
+    "ko": [
+      {
+        "language": "ko",
+        "value": "로튼토마토닷컴"
+      },
+      {
+        "language": "ko",
+        "value": "Rotten Tomatoes"
+      },
+      {
+        "language": "ko",
+        "value": "로튼 토마토스"
+      },
+      {
+        "language": "ko",
+        "value": "로튼토마토"
+      }
+    ],
+    "fr": [
+      {
+        "language": "fr",
+        "value": "Rottentomatoes"
+      },
+      {
+        "language": "fr",
+        "value": "RottenTomatoes"
+      },
+      {
+        "language": "fr",
+        "value": "RottenTomatoes.com"
+      },
+      {
+        "language": "fr",
+        "value": "RT"
+      }
+    ],
+    "he": [
+      {
+        "language": "he",
+        "value": "רוטן טומייטוז"
+      },
+      {
+        "language": "he",
+        "value": "עגבניות רקובות"
+      }
+    ],
+    "es": [
+      {
+        "language": "es",
+        "value": "RottenTomatoes com"
+      },
+      {
+        "language": "es",
+        "value": "Tomatometer"
+      },
+      {
+        "language": "es",
+        "value": "RottenTomatoes.com"
+      }
+    ],
+    "de": [
+      {
+        "language": "de",
+        "value": "RottenTomatoes"
+      },
+      {
+        "language": "de",
+        "value": "RottenTomatoes.com"
+      },
+      {
+        "language": "de",
+        "value": "RT"
+      },
+      {
+        "language": "de",
+        "value": "Rottemtomatoew"
+      }
+    ],
+    "ja": [
+      {
+        "language": "ja",
+        "value": "ロッテン・トマト"
+      },
+      {
+        "language": "ja",
+        "value": "ロッテントマト"
+      },
+      {
+        "language": "ja",
+        "value": "ゴールデントマト賞"
+      }
+    ],
+    "bn": [
+      {
+        "language": "bn",
+        "value": "রটেন টমেটোস"
+      },
+      {
+        "language": "bn",
+        "value": "রোটেন টম্যাটোস"
+      },
+      {
+        "language": "bn",
+        "value": "Rotten Tomatoes"
+      }
+    ],
+    "ml": [
+      {
+        "language": "ml",
+        "value": "Rotten Tomatoes"
+      }
+    ],
+    "ar": [
+      {
+        "language": "ar",
+        "value": "الطماطم الفاسده"
+      },
+      {
+        "language": "ar",
+        "value": "الطماطم الفاسد"
+      },
+      {
+        "language": "ar",
+        "value": "Rotten Tomatoes"
+      }
+    ],
+    "ru": [
+      {
+        "language": "ru",
+        "value": "RottenTomatoes.com"
+      },
+      {
+        "language": "ru",
+        "value": "RT"
+      },
+      {
+        "language": "ru",
+        "value": "RottenTomatoes"
+      },
+      {
+        "language": "ru",
+        "value": "Rottentomatoes"
+      }
+    ],
+    "sr": [
+      {
+        "language": "sr",
+        "value": "Ротен томејтоус"
+      }
+    ],
+    "tr": [
+      {
+        "language": "tr",
+        "value": "RottenTomatoes.com"
+      }
+    ],
+    "uk": [
+      {
+        "language": "uk",
+        "value": "Гнилі помідори"
+      },
+      {
+        "language": "uk",
+        "value": "Роттен Томейтос"
+      }
+    ],
+    "fa": [
+      {
+        "language": "fa",
+        "value": "گوجه فرنگی‌های گندیده"
+      },
+      {
+        "language": "fa",
+        "value": "گوجه فرنگی های گندیده"
+      },
+      {
+        "language": "fa",
+        "value": "Rotten Tomatoes"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "RottenTomatoes.com"
+      },
+      {
+        "language": "en",
+        "value": "RT"
+      },
+      {
+        "language": "en",
+        "value": "RottenTomatoes"
+      },
+      {
+        "language": "en",
+        "value": "Rottentomatoes"
+      }
+    ],
+    "ary": [
+      {
+        "language": "ary",
+        "value": "Rotten Tomatoes"
+      }
+    ],
+    "bho": [
+      {
+        "language": "bho",
+        "value": "Rotten Tomatoes"
+      }
+    ],
+    "ckb": [
+      {
+        "language": "ckb",
+        "value": "Rotten Tomatoes"
+      }
+    ],
+    "ta": [
+      {
+        "language": "ta",
+        "value": "Rotten Tomatoes"
+      }
+    ],
+    "th": [
+      {
+        "language": "th",
+        "value": "Rotten Tomatoes"
+      }
+    ],
+    "ur": [
+      {
+        "language": "ur",
+        "value": "Rotten Tomatoes"
+      }
+    ],
+    "wuu": [
+      {
+        "language": "wuu",
+        "value": "Rotten Tomatoes"
+      }
+    ],
+    "yue": [
+      {
+        "language": "yue",
+        "value": "Rotten Tomatoes"
+      }
+    ],
+    "zh-cn": [
+      {
+        "language": "zh-cn",
+        "value": "Rotten Tomatoes"
+      }
+    ],
+    "zh-hans": [
+      {
+        "language": "zh-hans",
+        "value": "Rotten Tomatoes"
+      }
+    ],
+    "zh-hant": [
+      {
+        "language": "zh-hant",
+        "value": "Rotten Tomatoes"
+      }
+    ],
+    "zh-hk": [
+      {
+        "language": "zh-hk",
+        "value": "Rotten Tomatoes"
+      }
+    ],
+    "zh-sg": [
+      {
+        "language": "zh-sg",
+        "value": "Rotten Tomatoes"
+      }
+    ],
+    "zh-tw": [
+      {
+        "language": "zh-tw",
+        "value": "Rotten Tomatoes"
+      }
+    ],
+    "cs": [
+      {
+        "language": "cs",
+        "value": "RT"
+      },
+      {
+        "language": "cs",
+        "value": "RottenTomatoes"
+      },
+      {
+        "language": "cs",
+        "value": "RottenTomatoes.com"
+      }
+    ]
+  },
+  "claims": {
+    "P856": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P856",
+          "hash": "028d4fd91d56831908a50c8d331a0efb06bc05a5",
+          "datavalue": {
+            "value": "https://www.rottentomatoes.com/",
+            "type": "string"
+          },
+          "datatype": "url"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P407": [
+            {
+              "snaktype": "value",
+              "property": "P407",
+              "hash": "daf1c4fcb58181b02dff9cc89deb084004ddae4b",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1860,
+                  "id": "Q1860"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P407"
+        ],
+        "id": "Q105584$BF02CF0A-AE5A-4497-A0F7-46CBE113F455",
+        "rank": "normal"
+      }
+    ],
+    "P31": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "d1a354dc2f4b11f2408da25b8a1065de18fecc35",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 35127,
+              "id": "Q35127"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q105584$6078aabd-4a14-a94d-cc68-9dea611abb27",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "19f29299613ac3adf96cb3deebee44f93d27d760",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1414426,
+              "id": "Q1414426"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q105584$28bba1ea-43e8-8769-e98c-a8a34a24d444",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "378c0498e08084d405bcf63cd0b7438324490302",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1340449,
+              "id": "Q1340449"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q105584$c7da54cd-4116-dd19-23d9-65f6b5bf494d",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P31",
+          "hash": "326e3d41d1e9c34715e880be6e1c6a1e822e4317",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 4830453,
+              "id": "Q4830453"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q105584$ac0ca88a-4a73-e2d7-9649-cd0b68fb1a5a",
+        "rank": "normal"
+      }
+    ],
+    "P407": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P407",
+          "hash": "daf1c4fcb58181b02dff9cc89deb084004ddae4b",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 1860,
+              "id": "Q1860"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q105584$59e211c9-4244-6331-5634-f8723d15c1c6",
+        "rank": "normal"
+      }
+    ],
+    "P646": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P646",
+          "hash": "0d63f7a9587387157dfd1860b7cb021ea4526512",
+          "datavalue": {
+            "value": "/m/03fkcw",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q105584$340D9F6D-5CDB-445D-80A0-BB022F458CB1",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "2b00cb481cddcac7623114367489b5c194901c4a",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "a94b740202b097dd33355e0e6c00e54b9395e5e0",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 15241312,
+                      "id": "Q15241312"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P577": [
+                {
+                  "snaktype": "value",
+                  "property": "P577",
+                  "hash": "fde79ecb015112d2f29229ccc1ec514ed3e71fa2",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2013-10-28T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P577"
+            ]
+          }
+        ]
+      }
+    ],
+    "P495": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P495",
+          "hash": "7f985e15819b74ed189d022e004890e66d2ae42e",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 30,
+              "id": "Q30"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q105584$F4176806-8385-4F75-A99D-F65A2EFCACDF",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 328,
+                      "id": "Q328"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      }
+    ],
+    "P1687": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1687",
+          "hash": "dc63e7c052ba8208fbac91da35c434fb4247df5a",
+          "datavalue": {
+            "value": {
+              "entity-type": "property",
+              "numeric-id": 1258,
+              "id": "P1258"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-property"
+        },
+        "type": "statement",
+        "id": "Q105584$86ec8187-4b72-9362-527d-c8422f0dfcae",
+        "rank": "normal"
+      }
+    ],
+    "P3417": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3417",
+          "hash": "ae114b68a1d9a35c2f09b416b18e3a962041cc8c",
+          "datavalue": {
+            "value": "Rotten-Tomatoes",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q105584$47322998-E1CF-484D-AD87-68E042B27A15",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "3b0a5bb3c1f955edce73740124f7d935698092ad",
+            "snaks": {
+              "P248": [
+                {
+                  "snaktype": "value",
+                  "property": "P248",
+                  "hash": "3ac9682e789a3a3791d4fd088b265ea03abef101",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 51711,
+                      "id": "Q51711"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ]
+      }
+    ],
+    "P127": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P127",
+          "hash": "56616a451d01670dcbdd8025eb5ad06b5b3082a2",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 5433722,
+              "id": "Q5433722"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q105584$111BB2D4-01FD-4CCC-8391-CF4FD8494734",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "735e5ff9d135f8419d266a35598f22e81f2aa61b",
+            "snaks": {
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "453462fcf603f14be78537b4bf0eaefc16d15996",
+                  "datavalue": {
+                    "value": "http://deadline.com/2016/02/fandango-acquires-rotten-tomatoes-flixster-1201704373/",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P127",
+          "hash": "7f88d8775e0f412c5f8ea25a3ed5164cc59b61ef",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 2943520,
+              "id": "Q2943520"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q105584$813c18e0-49df-0f5e-8ea6-fa2b8932d3f1",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "a4f02cbb12d5f6e770481c305d72561d9f05492e",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "6a164248fc96bfa583bbb495cb63ae6401ec203c",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 206855,
+                      "id": "Q206855"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P4656": [
+                {
+                  "snaktype": "value",
+                  "property": "P4656",
+                  "hash": "7048b0a985968b439e941e8c346f1fbf763b8bd3",
+                  "datavalue": {
+                    "value": "https://ru.wikipedia.org/?oldid=97098774",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143",
+              "P4656"
+            ]
+          }
+        ]
+      }
+    ],
+    "P3943": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3943",
+          "hash": "bd9bbd3c89739df8a6a8c05a388f508ef9c6b3b8",
+          "datavalue": {
+            "value": "RottenTomatoes",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q105584$B9A090AA-697C-4A54-89F9-AEBC389D0388",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "0ee3b3ba1c958f4c3dcba7ed8091fe4b57311348",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "cb49f6fa327b245e4a5aaf48c44b3f503bcd4265",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 30239,
+                      "id": "Q30239"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      }
+    ],
+    "P1661": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1661",
+          "hash": "82b0b6a9082a9fff441d824a3e3470b45b6c13a0",
+          "datavalue": {
+            "value": {
+              "amount": "+405",
+              "unit": "1"
+            },
+            "type": "quantity"
+          },
+          "datatype": "quantity"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P585": [
+            {
+              "snaktype": "value",
+              "property": "P585",
+              "hash": "fbd39b1d542bd40509da48c7332e568f58b7035d",
+              "datavalue": {
+                "value": {
+                  "time": "+2017-11-20T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P585"
+        ],
+        "id": "Q105584$CD05A1FB-AB49-4406-80A1-8363725347AA",
+        "rank": "preferred",
+        "references": [
+          {
+            "hash": "af9b7e34a7df944a3c0d74aeaa382862bde2b199",
+            "snaks": {
+              "P1065": [
+                {
+                  "snaktype": "value",
+                  "property": "P1065",
+                  "hash": "b29c09c8e80e86effa4964706107dbc391d51e8c",
+                  "datavalue": {
+                    "value": "https://web.archive.org/web/20171120173243/https://www.alexa.com/siteinfo/rottentomatoes.com/",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ],
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "4d52788742db3f4d0f326a1dc96b45c464489c9a",
+                  "datavalue": {
+                    "value": "https://www.alexa.com/siteinfo/rottentomatoes.com/",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ],
+              "P2960": [
+                {
+                  "snaktype": "value",
+                  "property": "P2960",
+                  "hash": "9f4a541fc067bd7b5e91b26c58dae374809a978f",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2017-11-20T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P1065",
+              "P854",
+              "P2960"
+            ]
+          }
+        ]
+      }
+    ],
+    "P571": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P571",
+          "hash": "51ac7c2c59fd0cbf2c5f6cc35ac4667334f42c63",
+          "datavalue": {
+            "value": {
+              "time": "+1998-08-19T00:00:00Z",
+              "timezone": 0,
+              "before": 0,
+              "after": 0,
+              "precision": 11,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            },
+            "type": "time"
+          },
+          "datatype": "time"
+        },
+        "type": "statement",
+        "id": "Q105584$3777431F-867B-476F-B3DE-1F5F956360F5",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "ed8bd3f9343e9a35e58b67284f26a67859f1808d",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "07596fc82d3ed4d248b85e5543852cc31e37dc8c",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 199913,
+                      "id": "Q199913"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      }
+    ],
+    "P2002": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2002",
+          "hash": "6de3999d7eecf4cc9e8d4c9af9fa01fdda922c74",
+          "datavalue": {
+            "value": "RottenTomatoes",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P6552": [
+            {
+              "snaktype": "value",
+              "property": "P6552",
+              "hash": "b72951eb27c16200d3bf8482ff79fc33fa5b5bf2",
+              "datavalue": {
+                "value": "20108560",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            }
+          ],
+          "P1552": [
+            {
+              "snaktype": "value",
+              "property": "P1552",
+              "hash": "62f0039d240f7eeba6c6908a0d8807a6188324a1",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 28378282,
+                  "id": "Q28378282"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ],
+          "P3744": [
+            {
+              "snaktype": "value",
+              "property": "P3744",
+              "hash": "8863fe89c5ea66fdb5ac1a6196b84de9ac40c4f1",
+              "datavalue": {
+                "value": {
+                  "amount": "+2258000",
+                  "unit": "1"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            }
+          ],
+          "P585": [
+            {
+              "snaktype": "value",
+              "property": "P585",
+              "hash": "e3dd0640d106956ae28b554d1fa70104c58e5ed7",
+              "datavalue": {
+                "value": {
+                  "time": "+2020-02-29T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            }
+          ],
+          "P580": [
+            {
+              "snaktype": "value",
+              "property": "P580",
+              "hash": "55b4ceec2211e2bd0fc55f7b774bc5da079d6345",
+              "datavalue": {
+                "value": {
+                  "time": "+2009-02-05T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P6552",
+          "P1552",
+          "P3744",
+          "P585",
+          "P580"
+        ],
+        "id": "Q105584$425fc56d-40fd-e299-fb57-c30fedf9e54e",
+        "rank": "normal"
+      }
+    ],
+    "P373": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P373",
+          "hash": "dde75ef63b063fca5a207f7523ec3863c48239e8",
+          "datavalue": {
+            "value": "Rotten Tomatoes (website)",
+            "type": "string"
+          },
+          "datatype": "string"
+        },
+        "type": "statement",
+        "id": "Q105584$7611e85b-4b18-76f1-c6d2-8f0830e672a5",
+        "rank": "normal"
+      }
+    ],
+    "P2013": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2013",
+          "hash": "34c37d696aae1f69224d17af40c1d5413ab67cac",
+          "datavalue": {
+            "value": "rottentomatoes",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q105584$9be414f4-4a85-557b-2358-8d5473018753",
+        "rank": "normal"
+      }
+    ],
+    "P2003": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2003",
+          "hash": "255b6909358d9677ada83d4971ac13a929c11bc2",
+          "datavalue": {
+            "value": "rottentomatoes",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q105584$83bcd459-4699-80e5-2f45-863b646a985e",
+        "rank": "normal"
+      }
+    ],
+    "P2397": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P2397",
+          "hash": "89813c5a18a018e0dd31ae9c32abe69a335bdb78",
+          "datavalue": {
+            "value": "UCE0Wkd9Jcn2-TNo5G8bLQrA",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "5c7cb7843494bf612a1bbd4066a3d78d06fb82fa",
+              "datavalue": {
+                "value": "Rotten Tomatoes",
+                "type": "string"
+              },
+              "datatype": "string"
+            }
+          ],
+          "P580": [
+            {
+              "snaktype": "value",
+              "property": "P580",
+              "hash": "e22034a7512673221ed20e8d9f76baf086fca22f",
+              "datavalue": {
+                "value": {
+                  "time": "+2006-08-07T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            }
+          ],
+          "P3744": [
+            {
+              "snaktype": "value",
+              "property": "P3744",
+              "hash": "e94fbba818ad697f50009b3cb512c657fbf2db74",
+              "datavalue": {
+                "value": {
+                  "amount": "+229000",
+                  "unit": "1"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            }
+          ],
+          "P3740": [
+            {
+              "snaktype": "value",
+              "property": "P3740",
+              "hash": "8f5dd42d22cd26ca0d9165db6c0869bac2b6bbb6",
+              "datavalue": {
+                "value": {
+                  "amount": "+1499",
+                  "unit": "1"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            }
+          ],
+          "P5436": [
+            {
+              "snaktype": "value",
+              "property": "P5436",
+              "hash": "126db4c65d47562df31c86b58a911076b6eda006",
+              "datavalue": {
+                "value": {
+                  "amount": "+75948056",
+                  "unit": "1"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            }
+          ],
+          "P585": [
+            {
+              "snaktype": "value",
+              "property": "P585",
+              "hash": "58704fcdf893be0e88b2dfb3ad3ea250877e8b1f",
+              "datavalue": {
+                "value": {
+                  "time": "+2020-12-11T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810",
+          "P580",
+          "P3744",
+          "P3740",
+          "P5436",
+          "P585"
+        ],
+        "id": "Q105584$9628ef7b-4941-877f-aa22-ca43e57d074b",
+        "rank": "normal"
+      }
+    ],
+    "P4354": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P4354",
+          "hash": "fea31d80986261120e959dd697ceb4e659da6a13",
+          "datavalue": {
+            "value": "https://www.rottentomatoes.com/search/?search=$1",
+            "type": "string"
+          },
+          "datatype": "string"
+        },
+        "type": "statement",
+        "id": "Q105584$47816f79-4815-f9d0-b027-9915950cf4af",
+        "rank": "normal"
+      }
+    ],
+    "P1424": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1424",
+          "hash": "d3d2ceec378defdc8dfd7b614780d77bed7304b1",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 22741526,
+              "id": "Q22741526"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q105584$63C49AFB-518E-4CA4-843A-17BF4C371015",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "55a878e3ec034049d568457681c5d5e5199e6d91",
+            "snaks": {
+              "P3452": [
+                {
+                  "snaktype": "value",
+                  "property": "P3452",
+                  "hash": "7a927d793076872b64ab009346c06f336ed82c92",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 22741526,
+                      "id": "Q22741526"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P3452"
+            ]
+          }
+        ]
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1424",
+          "hash": "9b1e70a733fae1df8d85172c5c5bcdb6cec84303",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 14334733,
+              "id": "Q14334733"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "id": "Q105584$BAF33106-663A-4346-86A3-8F114FC4665B",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "0b1038f1b043a31ae0c86935fea4d081a3e22f82",
+            "snaks": {
+              "P3452": [
+                {
+                  "snaktype": "value",
+                  "property": "P3452",
+                  "hash": "5eb754d525116db383b6ae5ad1c85b28977a8614",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 14334733,
+                      "id": "Q14334733"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P3452"
+            ]
+          }
+        ]
+      }
+    ],
+    "P154": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P154",
+          "hash": "632255823a725ad0e72fd6216def6374b3ed7046",
+          "datavalue": {
+            "value": "Rotten Tomatoes logo.svg",
+            "type": "string"
+          },
+          "datatype": "commonsMedia"
+        },
+        "type": "statement",
+        "id": "Q105584$0EDFDAB6-2305-45C7-9D2F-0E83FB2DA2E0",
+        "rank": "normal"
+      }
+    ],
+    "P7818": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P7818",
+          "hash": "c77a19122382c916edd0357770c753a9ef583b77",
+          "datavalue": {
+            "value": "Rotten_Tomatoes",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q105584$4832E36E-CA83-43D7-B7FA-CA0CD557D61A",
+        "rank": "normal"
+      }
+    ],
+    "P7101": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P7101",
+          "hash": "adb35b6df067b161018a5c03b01913ebe835aef7",
+          "datavalue": {
+            "value": "https://www.fandango.com/PrivacyPolicy",
+            "type": "string"
+          },
+          "datatype": "url"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1476": [
+            {
+              "snaktype": "value",
+              "property": "P1476",
+              "hash": "649929a0bceee04c217b185604c964acb507a8e7",
+              "datavalue": {
+                "value": {
+                  "text": "Privacy Policy",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ],
+          "P407": [
+            {
+              "snaktype": "value",
+              "property": "P407",
+              "hash": "daf1c4fcb58181b02dff9cc89deb084004ddae4b",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1860,
+                  "id": "Q1860"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ],
+          "P5017": [
+            {
+              "snaktype": "value",
+              "property": "P5017",
+              "hash": "627ea424574079435e256e8cb7ad050e5b3eb962",
+              "datavalue": {
+                "value": {
+                  "time": "+2019-01-09T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            }
+          ],
+          "P1065": [
+            {
+              "snaktype": "value",
+              "property": "P1065",
+              "hash": "c37a12b3370b7adbbe16bd817fea69060b326697",
+              "datavalue": {
+                "value": "https://web.archive.org/web/20200321235140/https://www.fandango.com/policies/privacy-policy",
+                "type": "string"
+              },
+              "datatype": "url"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1476",
+          "P407",
+          "P5017",
+          "P1065"
+        ],
+        "id": "Q105584$478808a2-4977-8bd0-b1eb-0666e291c4b7",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P7101",
+          "hash": "7f95b8610ae58f95e01abfaab28403c9f138b6e6",
+          "datavalue": {
+            "value": "https://www.fandango.com/donotsellmyinfo",
+            "type": "string"
+          },
+          "datatype": "url"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1476": [
+            {
+              "snaktype": "value",
+              "property": "P1476",
+              "hash": "5136556a34bd6c5a785ba8fd748e6a4124aef2ee",
+              "datavalue": {
+                "value": {
+                  "text": "Do Not Sell My Info",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ],
+          "P407": [
+            {
+              "snaktype": "value",
+              "property": "P407",
+              "hash": "daf1c4fcb58181b02dff9cc89deb084004ddae4b",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1860,
+                  "id": "Q1860"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ],
+          "P1065": [
+            {
+              "snaktype": "value",
+              "property": "P1065",
+              "hash": "e227231e0485126ff332c45c3467c128fea1ae6d",
+              "datavalue": {
+                "value": "https://web.archive.org/web/20200324160914/https://privacyportal-cdn.onetrust.com/dsarwebform/17e5cb00-ad90-47f5-a58d-77597d9d2c16/32a60552-d51c-4734-9c16-70a45aa78080.html",
+                "type": "string"
+              },
+              "datatype": "url"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1476",
+          "P407",
+          "P1065"
+        ],
+        "id": "Q105584$75e2d695-4808-7cfe-8b7f-3f8b975b9209",
+        "rank": "normal"
+      }
+    ],
+    "P7014": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P7014",
+          "hash": "30675851bbc5a486fac3b079196e6b9b8e08d727",
+          "datavalue": {
+            "value": "https://www.fandango.com/terms-and-policies",
+            "type": "string"
+          },
+          "datatype": "url"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P1476": [
+            {
+              "snaktype": "value",
+              "property": "P1476",
+              "hash": "18db7573b12af6ede6b797337149ccb026bc263f",
+              "datavalue": {
+                "value": {
+                  "text": "Terms and Policies",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            }
+          ],
+          "P407": [
+            {
+              "snaktype": "value",
+              "property": "P407",
+              "hash": "daf1c4fcb58181b02dff9cc89deb084004ddae4b",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1860,
+                  "id": "Q1860"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            }
+          ],
+          "P1065": [
+            {
+              "snaktype": "value",
+              "property": "P1065",
+              "hash": "41cc6dd80cd9fb1a978cd545b1b3a9239e326ec1",
+              "datavalue": {
+                "value": "https://web.archive.org/web/20200314234920/https://www.fandango.com/policies/terms-and-policies",
+                "type": "string"
+              },
+              "datatype": "url"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1476",
+          "P407",
+          "P1065"
+        ],
+        "id": "Q105584$dabff9c2-4b6e-06c2-1fad-c2b20ce2f3d9",
+        "rank": "normal"
+      }
+    ],
+    "P8687": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8687",
+          "hash": "2f391e2cdf9fdd5eb1d5df391517a8287e1b20e4",
+          "datavalue": {
+            "value": {
+              "amount": "+2291705",
+              "unit": "1"
+            },
+            "type": "quantity"
+          },
+          "datatype": "quantity"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P6552": [
+            {
+              "snaktype": "value",
+              "property": "P6552",
+              "hash": "b72951eb27c16200d3bf8482ff79fc33fa5b5bf2",
+              "datavalue": {
+                "value": "20108560",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            }
+          ],
+          "P585": [
+            {
+              "snaktype": "value",
+              "property": "P585",
+              "hash": "9e91ae9f10ae076b7a0b5ce11a8d6dd5b9421240",
+              "datavalue": {
+                "value": {
+                  "time": "+2021-01-02T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P6552",
+          "P585"
+        ],
+        "id": "Q105584$100d67cd-6efb-4822-af11-e1b0e7c565ff",
+        "rank": "preferred"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8687",
+          "hash": "70d81a85097957e26e40c4a3fb346ebec2d0648f",
+          "datavalue": {
+            "value": {
+              "amount": "+2258000",
+              "unit": "1"
+            },
+            "type": "quantity"
+          },
+          "datatype": "quantity"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P6552": [
+            {
+              "snaktype": "value",
+              "property": "P6552",
+              "hash": "b72951eb27c16200d3bf8482ff79fc33fa5b5bf2",
+              "datavalue": {
+                "value": "20108560",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            }
+          ],
+          "P585": [
+            {
+              "snaktype": "value",
+              "property": "P585",
+              "hash": "e3dd0640d106956ae28b554d1fa70104c58e5ed7",
+              "datavalue": {
+                "value": {
+                  "time": "+2020-02-29T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P6552",
+          "P585"
+        ],
+        "id": "Q105584$f8c4eef4-9d61-457f-b2fc-b2e2a55046c1",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P8687",
+          "hash": "ffea6a1f97fc2ae097df1d7e0ba9231af57e441d",
+          "datavalue": {
+            "value": {
+              "amount": "+264000",
+              "unit": "1",
+              "upperBound": "+264999",
+              "lowerBound": "+264000"
+            },
+            "type": "quantity"
+          },
+          "datatype": "quantity"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P2397": [
+            {
+              "snaktype": "value",
+              "property": "P2397",
+              "hash": "89813c5a18a018e0dd31ae9c32abe69a335bdb78",
+              "datavalue": {
+                "value": "UCE0Wkd9Jcn2-TNo5G8bLQrA",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            }
+          ],
+          "P585": [
+            {
+              "snaktype": "value",
+              "property": "P585",
+              "hash": "c05cdafb0975b5293443e2f8bf4b50551d609bc5",
+              "datavalue": {
+                "value": {
+                  "time": "+2021-07-02T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2397",
+          "P585"
+        ],
+        "id": "Q105584$7faaabec-353e-4306-823d-190680070c03",
+        "rank": "normal"
+      }
+    ],
+    "P5161": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P5161",
+          "hash": "78222d01f90edd87e0148261c40ecc382cf88bc2",
+          "datavalue": {
+            "value": "www.rottentomatoes.com",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q105584$BBE1791E-B5F0-43BD-B518-423939048B0A",
+        "rank": "normal"
+      }
+    ],
+    "P3553": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P3553",
+          "hash": "3c7c1487a530ef6f39bf826b37c594c2ccb70b52",
+          "datavalue": {
+            "value": "19795125",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q105584$F4F7FD1A-A263-4606-9879-0FFF41E0A11D",
+        "rank": "normal"
+      }
+    ],
+    "P9618": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P9618",
+          "hash": "384799ef4c9375ea0de1221105282bf2da3df68f",
+          "datavalue": {
+            "value": "rotten-tomatoes",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q105584$b2d52e07-4205-615e-ba19-fdd927b499b8",
+        "rank": "normal"
+      }
+    ],
+    "P9100": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P9100",
+          "hash": "619db615947853f0b601f60ef46c18d2750be6ad",
+          "datavalue": {
+            "value": "rotten-tomatoes",
+            "type": "string"
+          },
+          "datatype": "external-id"
+        },
+        "type": "statement",
+        "id": "Q105584$5ABAAA02-8495-4C55-88A7-64BB26A5E712",
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "eea2d918fa5fc590a015b917046c78accaaf03b3",
+            "snaks": {
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "c661165fa1898fb5c387a77412799c91cd4e89ca",
+                  "datavalue": {
+                    "value": "https://github.com/topics/rotten-tomatoes",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ],
+              "P1476": [
+                {
+                  "snaktype": "value",
+                  "property": "P1476",
+                  "hash": "8866ee33f21fc3f5559707e05e091a6217c3069d",
+                  "datavalue": {
+                    "value": {
+                      "text": "rotten-tomatoes · GitHub Topics · GitHub",
+                      "language": "en"
+                    },
+                    "type": "monolingualtext"
+                  },
+                  "datatype": "monolingualtext"
+                }
+              ],
+              "P813": [
+                {
+                  "snaktype": "value",
+                  "property": "P813",
+                  "hash": "8655c9658ea5d304f89dfa913c515caef816cd57",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2021-07-21T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854",
+              "P1476",
+              "P813"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "sitelinks": {
+    "afwiki": {
+      "site": "afwiki",
+      "title": "Rotten Tomatoes",
+      "badges": [],
+      "url": "https://af.wikipedia.org/wiki/Rotten_Tomatoes"
+    },
+    "arwiki": {
+      "site": "arwiki",
+      "title": "روتن توميتوز",
+      "badges": [],
+      "url": "https://ar.wikipedia.org/wiki/%D8%B1%D9%88%D8%AA%D9%86_%D8%AA%D9%88%D9%85%D9%8A%D8%AA%D9%88%D8%B2"
+    },
+    "arywiki": {
+      "site": "arywiki",
+      "title": "روتن توميتوز",
+      "badges": [],
+      "url": "https://ary.wikipedia.org/wiki/%D8%B1%D9%88%D8%AA%D9%86_%D8%AA%D9%88%D9%85%D9%8A%D8%AA%D9%88%D8%B2"
+    },
+    "astwiki": {
+      "site": "astwiki",
+      "title": "Rotten Tomatoes",
+      "badges": [],
+      "url": "https://ast.wikipedia.org/wiki/Rotten_Tomatoes"
+    },
+    "azwiki": {
+      "site": "azwiki",
+      "title": "Rotten Tomatoes",
+      "badges": [],
+      "url": "https://az.wikipedia.org/wiki/Rotten_Tomatoes"
+    },
+    "bewiki": {
+      "site": "bewiki",
+      "title": "Rotten Tomatoes",
+      "badges": [],
+      "url": "https://be.wikipedia.org/wiki/Rotten_Tomatoes"
+    },
+    "bgwiki": {
+      "site": "bgwiki",
+      "title": "Rotten Tomatoes",
+      "badges": [],
+      "url": "https://bg.wikipedia.org/wiki/Rotten_Tomatoes"
+    },
+    "bhwiki": {
+      "site": "bhwiki",
+      "title": "रॉटन टोमैटोज",
+      "badges": [],
+      "url": "https://bh.wikipedia.org/wiki/%E0%A4%B0%E0%A5%89%E0%A4%9F%E0%A4%A8_%E0%A4%9F%E0%A5%8B%E0%A4%AE%E0%A5%88%E0%A4%9F%E0%A5%8B%E0%A4%9C"
+    },
+    "bnwiki": {
+      "site": "bnwiki",
+      "title": "রটেন টম্যাটোস",
+      "badges": [],
+      "url": "https://bn.wikipedia.org/wiki/%E0%A6%B0%E0%A6%9F%E0%A7%87%E0%A6%A8_%E0%A6%9F%E0%A6%AE%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A7%8B%E0%A6%B8"
+    },
+    "brwiki": {
+      "site": "brwiki",
+      "title": "Rotten Tomatoes",
+      "badges": [],
+      "url": "https://br.wikipedia.org/wiki/Rotten_Tomatoes"
+    },
+    "bswiki": {
+      "site": "bswiki",
+      "title": "Rotten Tomatoes",
+      "badges": [],
+      "url": "https://bs.wikipedia.org/wiki/Rotten_Tomatoes"
+    },
+    "cawiki": {
+      "site": "cawiki",
+      "title": "Rotten Tomatoes",
+      "badges": [],
+      "url": "https://ca.wikipedia.org/wiki/Rotten_Tomatoes"
+    },
+    "ckbwiki": {
+      "site": "ckbwiki",
+      "title": "ڕاتن تۆمەیتۆز",
+      "badges": [],
+      "url": "https://ckb.wikipedia.org/wiki/%DA%95%D8%A7%D8%AA%D9%86_%D8%AA%DB%86%D9%85%DB%95%DB%8C%D8%AA%DB%86%D8%B2"
+    },
+    "commonswiki": {
+      "site": "commonswiki",
+      "title": "Category:Rotten Tomatoes (website)",
+      "badges": [],
+      "url": "https://commons.wikimedia.org/wiki/Category:Rotten_Tomatoes_(website)"
+    },
+    "cswiki": {
+      "site": "cswiki",
+      "title": "Rotten Tomatoes",
+      "badges": [],
+      "url": "https://cs.wikipedia.org/wiki/Rotten_Tomatoes"
+    },
+    "dawiki": {
+      "site": "dawiki",
+      "title": "Rotten Tomatoes",
+      "badges": [],
+      "url": "https://da.wikipedia.org/wiki/Rotten_Tomatoes"
+    },
+    "dewiki": {
+      "site": "dewiki",
+      "title": "Rotten Tomatoes",
+      "badges": [],
+      "url": "https://de.wikipedia.org/wiki/Rotten_Tomatoes"
+    },
+    "elwiki": {
+      "site": "elwiki",
+      "title": "Rotten Tomatoes",
+      "badges": [],
+      "url": "https://el.wikipedia.org/wiki/Rotten_Tomatoes"
+    },
+    "enwiki": {
+      "site": "enwiki",
+      "title": "Rotten Tomatoes",
+      "badges": [],
+      "url": "https://en.wikipedia.org/wiki/Rotten_Tomatoes"
+    },
+    "eowiki": {
+      "site": "eowiki",
+      "title": "Rotten Tomatoes",
+      "badges": [],
+      "url": "https://eo.wikipedia.org/wiki/Rotten_Tomatoes"
+    },
+    "eswiki": {
+      "site": "eswiki",
+      "title": "Rotten Tomatoes",
+      "badges": [],
+      "url": "https://es.wikipedia.org/wiki/Rotten_Tomatoes"
+    },
+    "etwiki": {
+      "site": "etwiki",
+      "title": "Rotten Tomatoes",
+      "badges": [],
+      "url": "https://et.wikipedia.org/wiki/Rotten_Tomatoes"
+    },
+    "fawiki": {
+      "site": "fawiki",
+      "title": "راتن تومیتوز",
+      "badges": [],
+      "url": "https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D8%AA%D9%86_%D8%AA%D9%88%D9%85%DB%8C%D8%AA%D9%88%D8%B2"
+    },
+    "fiwiki": {
+      "site": "fiwiki",
+      "title": "Rotten Tomatoes",
+      "badges": [],
+      "url": "https://fi.wikipedia.org/wiki/Rotten_Tomatoes"
+    },
+    "frwiki": {
+      "site": "frwiki",
+      "title": "Rotten Tomatoes",
+      "badges": [],
+      "url": "https://fr.wikipedia.org/wiki/Rotten_Tomatoes"
+    },
+    "fywiki": {
+      "site": "fywiki",
+      "title": "Rotten Tomatoes",
+      "badges": [],
+      "url": "https://fy.wikipedia.org/wiki/Rotten_Tomatoes"
+    },
+    "glwiki": {
+      "site": "glwiki",
+      "title": "Rotten Tomatoes",
+      "badges": [],
+      "url": "https://gl.wikipedia.org/wiki/Rotten_Tomatoes"
+    },
+    "hewiki": {
+      "site": "hewiki",
+      "title": "Rotten Tomatoes",
+      "badges": [],
+      "url": "https://he.wikipedia.org/wiki/Rotten_Tomatoes"
+    },
+    "hiwiki": {
+      "site": "hiwiki",
+      "title": "रॉटेन टमेटोज़",
+      "badges": [],
+      "url": "https://hi.wikipedia.org/wiki/%E0%A4%B0%E0%A5%89%E0%A4%9F%E0%A5%87%E0%A4%A8_%E0%A4%9F%E0%A4%AE%E0%A5%87%E0%A4%9F%E0%A5%8B%E0%A4%9C%E0%A4%BC"
+    },
+    "hrwiki": {
+      "site": "hrwiki",
+      "title": "Rotten Tomatoes",
+      "badges": [],
+      "url": "https://hr.wikipedia.org/wiki/Rotten_Tomatoes"
+    },
+    "huwiki": {
+      "site": "huwiki",
+      "title": "Rotten Tomatoes",
+      "badges": [],
+      "url": "https://hu.wikipedia.org/wiki/Rotten_Tomatoes"
+    },
+    "hywiki": {
+      "site": "hywiki",
+      "title": "Rotten Tomatoes",
+      "badges": [],
+      "url": "https://hy.wikipedia.org/wiki/Rotten_Tomatoes"
+    },
+    "idwiki": {
+      "site": "idwiki",
+      "title": "Rotten Tomatoes",
+      "badges": [],
+      "url": "https://id.wikipedia.org/wiki/Rotten_Tomatoes"
+    },
+    "itwiki": {
+      "site": "itwiki",
+      "title": "Rotten Tomatoes",
+      "badges": [],
+      "url": "https://it.wikipedia.org/wiki/Rotten_Tomatoes"
+    },
+    "jawiki": {
+      "site": "jawiki",
+      "title": "Rotten Tomatoes",
+      "badges": [],
+      "url": "https://ja.wikipedia.org/wiki/Rotten_Tomatoes"
+    },
+    "kawiki": {
+      "site": "kawiki",
+      "title": "Rotten Tomatoes",
+      "badges": [],
+      "url": "https://ka.wikipedia.org/wiki/Rotten_Tomatoes"
+    },
+    "kkwiki": {
+      "site": "kkwiki",
+      "title": "Rotten Tomatoes",
+      "badges": [],
+      "url": "https://kk.wikipedia.org/wiki/Rotten_Tomatoes"
+    },
+    "kowiki": {
+      "site": "kowiki",
+      "title": "로튼 토마토",
+      "badges": [],
+      "url": "https://ko.wikipedia.org/wiki/%EB%A1%9C%ED%8A%BC_%ED%86%A0%EB%A7%88%ED%86%A0"
+    },
+    "kywiki": {
+      "site": "kywiki",
+      "title": "Rotten Tomatoes",
+      "badges": [],
+      "url": "https://ky.wikipedia.org/wiki/Rotten_Tomatoes"
+    },
+    "ltwiki": {
+      "site": "ltwiki",
+      "title": "Rotten Tomatoes",
+      "badges": [],
+      "url": "https://lt.wikipedia.org/wiki/Rotten_Tomatoes"
+    },
+    "mkwiki": {
+      "site": "mkwiki",
+      "title": "Rotten Tomatoes",
+      "badges": [],
+      "url": "https://mk.wikipedia.org/wiki/Rotten_Tomatoes"
+    },
+    "mlwiki": {
+      "site": "mlwiki",
+      "title": "റോട്ടൻ ടൊമാറ്റോസ്",
+      "badges": [],
+      "url": "https://ml.wikipedia.org/wiki/%E0%B4%B1%E0%B5%8B%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B5%BB_%E0%B4%9F%E0%B5%8A%E0%B4%AE%E0%B4%BE%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B5%8B%E0%B4%B8%E0%B5%8D"
+    },
+    "mswiki": {
+      "site": "mswiki",
+      "title": "Rotten Tomatoes",
+      "badges": [],
+      "url": "https://ms.wikipedia.org/wiki/Rotten_Tomatoes"
+    },
+    "ndswiki": {
+      "site": "ndswiki",
+      "title": "Rotten Tomatoes",
+      "badges": [],
+      "url": "https://nds.wikipedia.org/wiki/Rotten_Tomatoes"
+    },
+    "newiki": {
+      "site": "newiki",
+      "title": "रोटन टमेटोज",
+      "badges": [],
+      "url": "https://ne.wikipedia.org/wiki/%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A4%A8_%E0%A4%9F%E0%A4%AE%E0%A5%87%E0%A4%9F%E0%A5%8B%E0%A4%9C"
+    },
+    "nlwiki": {
+      "site": "nlwiki",
+      "title": "Rotten Tomatoes",
+      "badges": [],
+      "url": "https://nl.wikipedia.org/wiki/Rotten_Tomatoes"
+    },
+    "nowiki": {
+      "site": "nowiki",
+      "title": "Rotten Tomatoes",
+      "badges": [],
+      "url": "https://no.wikipedia.org/wiki/Rotten_Tomatoes"
+    },
+    "plwiki": {
+      "site": "plwiki",
+      "title": "Rotten Tomatoes",
+      "badges": [],
+      "url": "https://pl.wikipedia.org/wiki/Rotten_Tomatoes"
+    },
+    "ptwiki": {
+      "site": "ptwiki",
+      "title": "Rotten Tomatoes",
+      "badges": [],
+      "url": "https://pt.wikipedia.org/wiki/Rotten_Tomatoes"
+    },
+    "rowiki": {
+      "site": "rowiki",
+      "title": "Rotten Tomatoes",
+      "badges": [],
+      "url": "https://ro.wikipedia.org/wiki/Rotten_Tomatoes"
+    },
+    "ruwiki": {
+      "site": "ruwiki",
+      "title": "Rotten Tomatoes",
+      "badges": [],
+      "url": "https://ru.wikipedia.org/wiki/Rotten_Tomatoes"
+    },
+    "scowiki": {
+      "site": "scowiki",
+      "title": "Rotten Tomatoes",
+      "badges": [],
+      "url": "https://sco.wikipedia.org/wiki/Rotten_Tomatoes"
+    },
+    "shwiki": {
+      "site": "shwiki",
+      "title": "Rotten Tomatoes",
+      "badges": [],
+      "url": "https://sh.wikipedia.org/wiki/Rotten_Tomatoes"
+    },
+    "simplewiki": {
+      "site": "simplewiki",
+      "title": "Rotten Tomatoes",
+      "badges": [],
+      "url": "https://simple.wikipedia.org/wiki/Rotten_Tomatoes"
+    },
+    "slwiki": {
+      "site": "slwiki",
+      "title": "Rotten Tomatoes",
+      "badges": [],
+      "url": "https://sl.wikipedia.org/wiki/Rotten_Tomatoes"
+    },
+    "sqwiki": {
+      "site": "sqwiki",
+      "title": "Rotten Tomatoes",
+      "badges": [],
+      "url": "https://sq.wikipedia.org/wiki/Rotten_Tomatoes"
+    },
+    "srwiki": {
+      "site": "srwiki",
+      "title": "Rotten Tomatoes",
+      "badges": [],
+      "url": "https://sr.wikipedia.org/wiki/Rotten_Tomatoes"
+    },
+    "svwiki": {
+      "site": "svwiki",
+      "title": "Rotten Tomatoes",
+      "badges": [],
+      "url": "https://sv.wikipedia.org/wiki/Rotten_Tomatoes"
+    },
+    "tawiki": {
+      "site": "tawiki",
+      "title": "அழுகிய தக்காளிகள்",
+      "badges": [],
+      "url": "https://ta.wikipedia.org/wiki/%E0%AE%85%E0%AE%B4%E0%AF%81%E0%AE%95%E0%AE%BF%E0%AE%AF_%E0%AE%A4%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%BE%E0%AE%B3%E0%AE%BF%E0%AE%95%E0%AE%B3%E0%AF%8D"
+    },
+    "thwiki": {
+      "site": "thwiki",
+      "title": "รอตเทนโทเมโทส์",
+      "badges": [],
+      "url": "https://th.wikipedia.org/wiki/%E0%B8%A3%E0%B8%AD%E0%B8%95%E0%B9%80%E0%B8%97%E0%B8%99%E0%B9%82%E0%B8%97%E0%B9%80%E0%B8%A1%E0%B9%82%E0%B8%97%E0%B8%AA%E0%B9%8C"
+    },
+    "trwiki": {
+      "site": "trwiki",
+      "title": "Rotten Tomatoes",
+      "badges": [],
+      "url": "https://tr.wikipedia.org/wiki/Rotten_Tomatoes"
+    },
+    "ukwiki": {
+      "site": "ukwiki",
+      "title": "Rotten Tomatoes",
+      "badges": [],
+      "url": "https://uk.wikipedia.org/wiki/Rotten_Tomatoes"
+    },
+    "urwiki": {
+      "site": "urwiki",
+      "title": "روٹن ٹماٹوز",
+      "badges": [],
+      "url": "https://ur.wikipedia.org/wiki/%D8%B1%D9%88%D9%B9%D9%86_%D9%B9%D9%85%D8%A7%D9%B9%D9%88%D8%B2"
+    },
+    "uzwiki": {
+      "site": "uzwiki",
+      "title": "Rotten Tomatoes",
+      "badges": [],
+      "url": "https://uz.wikipedia.org/wiki/Rotten_Tomatoes"
+    },
+    "viwiki": {
+      "site": "viwiki",
+      "title": "Rotten Tomatoes",
+      "badges": [],
+      "url": "https://vi.wikipedia.org/wiki/Rotten_Tomatoes"
+    },
+    "wuuwiki": {
+      "site": "wuuwiki",
+      "title": "烂番茄",
+      "badges": [],
+      "url": "https://wuu.wikipedia.org/wiki/%E7%83%82%E7%95%AA%E8%8C%84"
+    },
+    "xmfwiki": {
+      "site": "xmfwiki",
+      "title": "Rotten Tomatoes",
+      "badges": [],
+      "url": "https://xmf.wikipedia.org/wiki/Rotten_Tomatoes"
+    },
+    "zh_yuewiki": {
+      "site": "zh_yuewiki",
+      "title": "爛番茄",
+      "badges": [],
+      "url": "https://zh-yue.wikipedia.org/wiki/%E7%88%9B%E7%95%AA%E8%8C%84"
+    },
+    "zhwiki": {
+      "site": "zhwiki",
+      "title": "爛番茄",
+      "badges": [],
+      "url": "https://zh.wikipedia.org/wiki/%E7%88%9B%E7%95%AA%E8%8C%84"
+    }
+  }
 }
