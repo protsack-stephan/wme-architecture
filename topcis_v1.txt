@@ -8,13 +8,13 @@ aws.languages.v1 -> compacted
 aws.namespaces.v1 -> compacted
 
 // Pages
-aws.pages.v1 -> compacted,delete
+aws.pages.v1 -> compacted,delete | retention time 2h?
 
 // Versions
-aws.versions.v1 -> compacted,delete
+aws.versions.v1 -> compacted,delete | retention time 2h?
 
 // Entities (Wikidata)
-aws.entities.v1 -> compacted,delete
+aws.entities.v1 -> compacted,delete | retention time 2h?
 
 // Licenses
 aws.licenses.v1 -> compacted

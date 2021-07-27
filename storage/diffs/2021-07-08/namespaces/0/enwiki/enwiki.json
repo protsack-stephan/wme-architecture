@@ -5,10 +5,10 @@
   "date_created": "2021-07-08T08:17:44Z",
   "version": "072328a8d11be67279ade5d6288fc12f",
   "in_language": {
-    "_source": "/languages/en.json"
+    "identifier": "en"
   },
   "namespace": {
-    "_source": "/namespaces/en/0.json"
+    "identifier": 0
   },
   "size": {
     "value": 150,

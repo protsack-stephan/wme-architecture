@@ -3,6 +3,6 @@
   "identifier": "ukwiki",
   "url": "https://uk.wikipedia.org",
   "in_language": {
-    "_source": "/languages/uk.json"
+    "identifier": "uk"
   }
 }

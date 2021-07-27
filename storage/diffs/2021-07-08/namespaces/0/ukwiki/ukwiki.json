@@ -5,10 +5,10 @@
   "date_created": "2021-07-08T08:17:44Z",
   "version": "fbc59c4970390f97cedf9cbed217a62d",
   "in_language": {
-    "_source": "/languages/uk.json"
+    "identifier": "uk"
   },
   "namespace": {
-    "_source": "/namespaces/en/0.json"
+    "identifier": 0
   },
   "size": {
     "value": 50,

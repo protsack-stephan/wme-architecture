@@ -4,35 +4,35 @@
   "date_modified": "2021-07-06T08:17:44Z",
   "url": "https://en.wikipedia.org/wiki/Albert_Einstein",
   "version": {
-    "_source": "/versions/enwiki/1032242877.json"
+    "identifier": 1032242877
   },
   "namespace": {
-    "_source": "/namespaces/en/0.json"
+    "identifier": 0
   },
   "in_language": {
-    "_source": "/languages/en.json"
+    "identifier": "en"
   },
   "is_part_of": {
-    "_source": "/projects/enwiki.json"
+    "identifier": "enwiki"
   },
   "main_entity": {
-    "_source": "/entities/Q937.json"
+    "identifier": "Q937"
   },
   "additional_entities": [
     {
-      "_source": "/entities/Q937.json",
+      "identifier": "Q937",
       "aspects": [
         "L.en"
       ]
     },
     {
-      "_source": "/entities/P570.json",
+      "identifier": "P570",
       "aspects": [
         "L.en"
       ]
     },
     {
-      "_source": "/entities/Q206855.json",
+      "identifier": "Q206855",
       "aspects": [
         "L.en"
       ]
@@ -43,14 +43,14 @@
       "name": "Category:1879 births",
       "url": "https://en.wikipedia.org/wiki/Category:1879_births",
       "namespace": {
-        "_source": "/namespaces/en/14.json"
+        "identifier": 14
       }
     },
     {
       "name": "Category:1955 deaths",
       "url": "https://en.wikipedia.org/wiki/Category:1955_deaths",
       "namespace": {
-        "_source": "/namespaces/en/14.json"
+        "identifier": 14
       }
     }
   ],
@@ -59,14 +59,14 @@
       "name": "Albert Einstein",
       "url": "https://en.wikipedia.org/wiki/Albert_Einstein",
       "namespace": {
-        "_source": "/namespaces/en/0.json"
+        "identifier": 0
       }
     },
     {
       "name": "Template:1921 Nobel Prize winners",
       "url": "https://en.wikipedia.org/wiki/Template:1921_Nobel_Prize_winners",
       "namespace": {
-        "_source": "/namespaces/en/10.json"
+        "identifier": 10
       }
     }
   ],
@@ -75,14 +75,14 @@
       "name": "Einstein",
       "url": "https://en.wikipedia.org/wiki/Einstein",
       "namespace": {
-        "_source": "/namespaces/en/0.json"
+        "identifier": 0
       }
     },
     {
       "name": "Albert Eienstein",
       "url": "https://en.wikipedia.org/wiki/Albert_Eienstein",
       "namespace": {
-        "_source": "/namespaces/en/0.json"
+        "identifier": 0
       }
     }
   ],
@@ -104,7 +104,7 @@
   },
   "license": [
     {
-      "_source": "/licenses/CC-BY-SA-3.0.json"
+      "identifier": "CC-BY-SA-3.0"
     }
   ]
 }

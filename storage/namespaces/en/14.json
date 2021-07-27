@@ -2,6 +2,6 @@
   "identifier": 14,
   "name": "Category",
   "in_language": {
-    "_source": "/languages/en.json"
+    "identifier": "en"
   }
 }

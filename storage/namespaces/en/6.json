@@ -2,6 +2,6 @@
   "identifier": 6,
   "name": "File",
   "in_language": {
-    "_source": "/languages/en.json"
+    "identifier": "en"
   }
 }

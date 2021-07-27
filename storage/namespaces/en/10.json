@@ -2,6 +2,6 @@
   "identifier": 10,
   "name": "Template",
   "in_language": {
-    "_source": "/languages/en.json"
+    "identifier": "en"
   }
 }

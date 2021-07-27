@@ -2,6 +2,6 @@
   "identifier": 0,
   "name": "Стаття",
   "in_language": {
-    "_source": "/languages/uk.json"
+    "identifier": "uk"
   }
 }
