@@ -1,26 +1,37 @@
+// Produced by event bridge 
+// combines revision-create, revision-score, revision-visibility-change, page-delete, page-move for text based wikis
+aws.pages-queue.v1 -> compact,delete | retention time 24h | partitions ? | replication factor 2
+
+// Another one produced by event bridge 
+// combines revision-create, revision-score, revision-visibility-change, page-delete, page-move only for wikidata
+aws.entities-queue.v1 -> compact,delete | retention time 24h | partitions ? | replication factor 2
+
+// For baselining (will have a little different messages structure)
+aws.pages-bulk-queue.v1 -> compact,delete | retention time 24h | partitions ? | replication factor 2
+
 // Projects
-aws.projects.v1 -> compacted
+aws.projects.v1 -> compact | partitions 1 | replication factor 2
 
 // Language
-aws.languages.v1 -> compacted
+aws.languages.v1 -> compact | partitions 1 | replication factor 2
 
 // Namespace
-aws.namespaces.v1 -> compacted
+aws.namespaces.v1 -> compact | partitions 1 | replication factor 2
 
 // Pages
-aws.pages.v1 -> compacted,delete | retention time 2h?
+aws.pages.v1 -> compact,delete | retention time 2 days | partitions ? | replication factor 2
 
 // Versions
-aws.versions.v1 -> compacted,delete | retention time 2h?
+aws.versions.v1 -> compact,delete | retention time 2 days | partitions ? | replication factor 2
 
 // Entities (Wikidata)
-aws.entities.v1 -> compacted,delete | retention time 2h?
+aws.entities.v1 -> compact,delete | retention time 2 days | partitions ? | replication factor 2
 
 // Licenses
-aws.licenses.v1 -> compacted
+aws.licenses.v1 -> compact | partitions ? | replication factor 2
 
 // Exports
-aws.exports.v1 -> compacted
+aws.exports.v1 -> compact | partitions ? | replication factor 2
 
 // Diffs
-aws.diffs.v1 -> compacted,delete | retention time 7 days
+aws.diffs.v1 -> compact,delete | retention time 14 days | partitions ? | replication factor 2
