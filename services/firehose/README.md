@@ -16,6 +16,7 @@
 }
 ```
 
+
 `GET /v2/article-visibility` - endpoint to get live stream of article visibility change events.
 ```json
 {
@@ -29,7 +30,6 @@
   // ...other fields go here...
 }
 ```
-
 
 
 ## Entities
@@ -47,6 +47,7 @@
 }
 ```
 
+
 `GET /v2/entity-visibility` - endpoint to get live stream of entity visibility change events.
 ```json
 {
@@ -60,6 +61,7 @@
   // ...other fields go here...
 }
 ```
+
 
 # Advanced stuff (from the top of my head, needs more thinking)
 
@@ -105,6 +107,7 @@
 }
 ```
 
+
 `GET /v2/streams/{identifier}` - connect to the stream you have created (in our example `/v2/streams/articles/57a7c968-bf3f-4ef1-b191-f1f64682a657`).
 
 ```json
@@ -126,6 +129,8 @@
 }
 ```
 
+
 `DELETE /v2/streams/{identifier}` - delete the stream.
+
 
 `PUT /v2/streams/{identifier}` - update the stream.
