@@ -1,8 +1,8 @@
 {
   "event": {
-    "uuid": "01ae1f13-f6f5-4e16-ac44-71e24f3d85ab",
+    "identifier": "01ae1f13-f6f5-4e16-ac44-71e24f3d85ab",
     "type": "create",
-    "date": "2021-07-12T15:11:57.692671588Z"
+    "date_created": "2021-07-12T15:11:57.692671588Z"
   },
   "name": "Wikipedia",
   "identifier": "enwiki",
