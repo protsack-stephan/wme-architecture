@@ -60,12 +60,13 @@
   // ...other fields go here...
 }
 ```
-## Advanced stuff (from the top of my head, needs more thinking)
+
+# Advanced stuff (from the top of my head, needs more thinking)
 
 `POST /v2/streams` Create a stream with a certain conditions and joins example payload (again needs more design).
 
 ```json
-# example request
+// example request
 {
   "source": "articles",
   "join": [
@@ -83,7 +84,7 @@
           "value": "en"
         }
       ],
-      "or": {
+      "or": [
         {
           "field": "namespace",
           "value": 0
@@ -92,13 +93,13 @@
           "field": "namespace",
           "value": 14
         }
-      }
+      ]
   }
 }
 ```
 
 ```JSON
-# example response
+// example response
 {
   "identifier": "57a7c968-bf3f-4ef1-b191-f1f64682a657"
 }
@@ -128,4 +129,3 @@
 `DELETE /v2/streams/{identifier}` - delete the stream.
 
 `PUT /v2/streams/{identifier}` - update the stream.
-
