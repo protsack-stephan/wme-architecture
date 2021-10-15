@@ -1,0 +1,21 @@
+version: "3.9"
+
+services:
+  # Swagger API documentation
+  api:
+    image: swaggerapi/swagger-ui:latest
+    volumes:
+      - ./docs/api.yaml:/var/www/app/api.yaml
+    ports:
+      - 8030:8080
+    environment:
+      SWAGGER_JSON: /var/www/app/api.yaml
+    
+  firehose:
+    image: swaggerapi/swagger-ui:latest
+    volumes:
+      - ./docs/firehose.yaml:/var/www/app/firehose.yaml
+    ports:
+      - 8031:8080
+    environment:
+      SWAGGER_JSON: /var/www/app/firehose.yaml
