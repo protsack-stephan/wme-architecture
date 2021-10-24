@@ -1,0 +1,51 @@
+---
+openapi: 3.0.3
+info:
+  title: Wikimedia Enterprise Firehose
+  version: v2
+paths:
+  /v2/articles:
+    post:
+      description: Live stream of article changes.
+      tags:
+        - articles
+      summary: SSE of article changes
+
+  /v2/entities:
+    post:
+      description: Live stream of entity changes.
+      tags:
+        - entities
+      summary: SSE of article changes
+
+  /v2/streams:
+    get:
+      description: Get list of streams.
+      tags:
+        - streams
+      summary: Get list available streams.
+    
+    post:
+      description: Create new stream.
+      tags:
+        - streams
+      summary: Create new stream.
+  
+  /v2/streams/{identifier}:
+    get:
+      description: Connect to available stream.
+      tags:
+        - streams
+      summary: Receive events for specified stream.
+    
+    put:
+      description: Update existing stream.
+      tags:
+        - streams
+      summary: Update already active stream.
+
+    delete:
+      description: Delete stream by identifier.
+      tags:
+        - streams
+      summary: Delete single stream by identifier.

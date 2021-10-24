@@ -18,13 +18,6 @@ paths:
         - languages
       summary: Get single language.
 
-  /v2/namespaces:
-    get:
-      description: Get list of namespaces.
-      tags:
-        - namespaces
-      summary: Get list of available namespaces.
-  
   /v2/namespaces/{language}:
     get:
       description: Get list of namespaces for particular language.
@@ -32,28 +25,34 @@ paths:
         - namespaces
       summary: Get list of available namespaces.
 
+  /v2/namespaces/{language}/{identifier}:
+    get:
+      description: Get a single namespace for particular language.
+      tags:
+        - namespaces
+      summary: Get list single namespace.
+
   /v2/projects:
     get:
       description: All available projects.
       tags:
         - projects
       summary: Get list of projects.
-  
+
   /v2/projects/{identifier}:
     get:
       description: Get a single project.
       tags:
         - projects
       summary: Get single project metadata.
-  
-  /v2/pages/{name}:
+
+  /v2/articles/{name}:
     get:
       description: Get a list of pages across projects.
       tags:
-        - pages
+        - articles
       summary: Get a single page with cool metadata.
 
-  
   /v2/entities/{identifier}:
     get:
       description: Get a single entity.
@@ -67,14 +66,14 @@ paths:
       tags:
         - exports
       summary: Get list of exports by namespace.
-  
+
   /v2/exports/{namespace}/{project}:
     get:
       description: Get metadata about a single export ny namespace and project identifiers.
       tags:
         - exports
       summary: Get single export metadata.
-  
+
   /v2/exports/{namespace}/{project}/download:
     get:
       description: Get a download link for single export.
@@ -82,21 +81,20 @@ paths:
         - exports
       summary: Download single export.
 
-  
   /v2/diffs/{date}/{namespace}:
     get:
       description: Get a list of available exports by namespace identifier.
       tags:
         - diffs
       summary: Get list of exports by namespace.
-  
+
   /v2/diffs/{date}/{namespace}/{project}:
     get:
       description: Get metadata about a single export ny namespace and project identifiers.
       tags:
         - diffs
       summary: Get single export metadata.
-  
+
   /v2/diffs/{date}/{namespace}/{project}/download:
     get:
       description: Get a download link for single export.
